@@ -1,0 +1,2001 @@
+Age,Education_Level,Occupation,Number_of_Dependents,Location,Work_Experience,Marital_Status,Employment_Status,Household_Size,Homeownership_Status,Type_of_Housing,Gender,Primary_Mode_of_Transportation,Income
+52,High School,Healthcare,3,Urban,38,Divorced,Full-time,1,Own,Townhouse,Male,Biking,74742
+24,Bachelor's,Education,3,Urban,24,Married,Self-employed,2,Rent,Townhouse,Female,Car,5989527
+70,Bachelor's,Technology,1,Urban,6,Divorced,Full-time,4,Own,Apartment,Female,Walking,69356
+43,High School,Finance,3,Urban,2,Single,Full-time,1,Own,Single-family home,Female,Biking,790523
+43,High School,Education,0,Urban,36,Married,Part-time,6,Own,Apartment,Female,Biking,9732313
+21,Bachelor's,Finance,0,Suburban,6,Married,Part-time,4,Rent,Townhouse,Male,Public transit,2971322
+54,Bachelor's,Technology,0,Rural,21,Single,Self-employed,4,Own,Single-family home,Male,Public transit,68376
+39,Bachelor's,Healthcare,2,Rural,19,Married,Full-time,5,Rent,Apartment,Male,Car,44013
+59,Bachelor's,Finance,1,Suburban,28,Single,Part-time,1,Rent,Apartment,Female,Car,1382157
+62,Master's,Technology,4,Urban,32,Divorced,Self-employed,7,Own,Apartment,Male,Walking,74830
+29,High School,Finance,3,Urban,25,Single,Part-time,1,Own,Single-family home,Male,Biking,67732
+48,Bachelor's,Technology,5,Suburban,22,Married,Part-time,6,Own,Apartment,Female,Car,2304474
+58,Bachelor's,Healthcare,0,Urban,28,Married,Full-time,6,Rent,Apartment,Male,Biking,645593
+68,Bachelor's,Education,0,Urban,8,Married,Self-employed,2,Rent,Apartment,Male,Public transit,38219
+23,High School,Healthcare,2,Urban,9,Married,Part-time,5,Own,Apartment,Female,Walking,274237
+56,Master's,Technology,5,Suburban,23,Married,Full-time,1,Rent,Single-family home,Male,Car,5650280
+27,Master's,Technology,3,Urban,15,Married,Full-time,5,Own,Apartment,Female,Biking,66450
+70,Master's,Finance,4,Urban,3,Single,Full-time,1,Rent,Single-family home,Female,Public transit,129929
+34,Master's,Finance,2,Suburban,44,Single,Full-time,7,Own,Townhouse,Female,Public transit,2454803
+38,High School,Education,0,Urban,14,Single,Part-time,6,Rent,Single-family home,Male,Walking,71070
+41,Doctorate,Healthcare,3,Urban,12,Single,Full-time,7,Own,Apartment,Male,Walking,65326
+55,High School,Healthcare,3,Urban,10,Single,Full-time,5,Own,Apartment,Female,Car,826700
+56,Master's,Technology,5,Urban,2,Married,Full-time,7,Own,Single-family home,Male,Biking,66132
+56,Master's,Education,3,Urban,11,Divorced,Part-time,3,Own,Single-family home,Female,Car,4528576
+54,High School,Finance,0,Urban,40,Single,Part-time,4,Own,Apartment,Female,Public transit,71954
+24,High School,Technology,1,Urban,45,Married,Part-time,1,Rent,Apartment,Male,Walking,303503
+29,Bachelor's,Others,1,Suburban,34,Divorced,Full-time,7,Own,Apartment,Male,Public transit,71690
+27,Bachelor's,Education,4,Suburban,46,Single,Full-time,6,Rent,Single-family home,Male,Public transit,556276
+28,High School,Healthcare,4,Urban,18,Single,Full-time,2,Own,Apartment,Male,Public transit,3651322
+53,Master's,Technology,5,Urban,6,Married,Part-time,1,Own,Single-family home,Male,Public transit,71490
+25,Bachelor's,Healthcare,3,Urban,4,Single,Full-time,4,Own,Single-family home,Male,Walking,4147945
+30,Bachelor's,Others,4,Rural,18,Married,Self-employed,6,Own,Single-family home,Male,Walking,1454172
+70,Master's,Healthcare,3,Urban,41,Married,Part-time,7,Rent,Single-family home,Female,Biking,924291
+24,High School,Technology,5,Suburban,18,Married,Part-time,5,Own,Single-family home,Male,Biking,2438306
+69,High School,Healthcare,1,Urban,5,Divorced,Self-employed,7,Rent,Apartment,Male,Public transit,72420
+61,Doctorate,Finance,0,Urban,38,Married,Full-time,5,Own,Apartment,Female,Public transit,72296
+29,High School,Healthcare,4,Urban,30,Single,Full-time,2,Rent,Townhouse,Male,Car,1618129
+34,Master's,Finance,2,Urban,5,Married,Part-time,2,Own,Townhouse,Male,Biking,65036
+22,Bachelor's,Healthcare,2,Suburban,1,Divorced,Full-time,5,Rent,Single-family home,Male,Car,3343221
+41,High School,Others,4,Urban,9,Single,Self-employed,6,Own,Apartment,Male,Car,392247
+21,Bachelor's,Technology,1,Suburban,0,Divorced,Self-employed,4,Own,Single-family home,Male,Biking,65244
+45,High School,Healthcare,3,Urban,1,Single,Self-employed,5,Own,Townhouse,Male,Public transit,490898
+68,High School,Healthcare,3,Urban,19,Married,Full-time,7,Own,Townhouse,Male,Public transit,66252
+62,Bachelor's,Finance,2,Urban,28,Divorced,Full-time,4,Own,Apartment,Male,Biking,70396
+61,Bachelor's,Finance,0,Suburban,5,Married,Full-time,5,Rent,Apartment,Female,Public transit,290025
+68,Bachelor's,Technology,2,Urban,30,Married,Part-time,1,Own,Single-family home,Female,Walking,74064
+67,High School,Others,3,Suburban,1,Married,Full-time,4,Own,Apartment,Female,Car,48097
+29,Bachelor's,Finance,5,Suburban,25,Married,Part-time,5,Own,Apartment,Male,Public transit,73840
+32,Master's,Technology,5,Suburban,50,Divorced,Self-employed,2,Own,Single-family home,Male,Walking,44670
+45,Master's,Others,1,Rural,21,Single,Full-time,6,Rent,Single-family home,Female,Public transit,757817
+39,High School,Others,3,Suburban,42,Single,Full-time,7,Own,Apartment,Male,Biking,2620342
+53,Master's,Others,3,Suburban,49,Married,Full-time,5,Own,Single-family home,Male,Car,73210
+31,High School,Technology,4,Urban,37,Married,Part-time,4,Rent,Single-family home,Male,Public transit,222175
+58,Master's,Healthcare,3,Urban,44,Married,Full-time,5,Rent,Single-family home,Female,Car,71886
+27,Bachelor's,Healthcare,1,Suburban,3,Married,Full-time,1,Own,Single-family home,Female,Car,1189645
+53,Bachelor's,Education,2,Urban,43,Married,Full-time,4,Own,Townhouse,Female,Car,66138
+57,Master's,Others,1,Urban,8,Divorced,Part-time,6,Rent,Single-family home,Male,Biking,75212
+43,Bachelor's,Healthcare,0,Urban,24,Married,Full-time,4,Rent,Townhouse,Female,Public transit,73910
+37,Master's,Education,5,Rural,12,Married,Full-time,5,Rent,Apartment,Male,Car,73082
+50,Bachelor's,Others,1,Suburban,41,Single,Full-time,6,Own,Apartment,Male,Public transit,69942
+59,High School,Healthcare,1,Urban,50,Married,Part-time,2,Rent,Townhouse,Female,Biking,7096066
+60,Bachelor's,Technology,2,Urban,23,Married,Part-time,4,Own,Apartment,Male,Walking,71778
+39,Master's,Education,1,Urban,32,Single,Part-time,6,Own,Single-family home,Male,Car,67448
+24,High School,Technology,3,Urban,13,Married,Self-employed,7,Own,Townhouse,Male,Public transit,71594
+40,High School,Education,3,Urban,15,Married,Full-time,3,Rent,Apartment,Female,Biking,5064162
+23,Bachelor's,Healthcare,2,Urban,16,Single,Part-time,1,Rent,Single-family home,Female,Biking,34416
+59,Bachelor's,Healthcare,0,Urban,29,Single,Self-employed,6,Own,Single-family home,Female,Biking,82521
+65,High School,Technology,3,Rural,17,Divorced,Full-time,6,Rent,Apartment,Male,Car,68584
+38,Bachelor's,Finance,1,Suburban,25,Single,Self-employed,5,Rent,Single-family home,Female,Public transit,68636
+54,Bachelor's,Finance,4,Urban,19,Single,Part-time,5,Rent,Apartment,Female,Biking,57108
+31,High School,Education,1,Rural,21,Single,Full-time,5,Own,Apartment,Female,Biking,90384
+53,Master's,Healthcare,4,Urban,34,Single,Full-time,4,Own,Apartment,Male,Public transit,75446
+37,Master's,Healthcare,1,Urban,44,Single,Full-time,5,Own,Apartment,Female,Biking,73670
+62,Master's,Technology,4,Rural,5,Single,Full-time,6,Own,Apartment,Female,Walking,150681
+58,Master's,Healthcare,0,Urban,4,Married,Self-employed,3,Own,Apartment,Male,Walking,72674
+57,High School,Healthcare,3,Suburban,8,Single,Full-time,1,Rent,Apartment,Male,Public transit,8259996
+18,Bachelor's,Others,2,Urban,1,Married,Full-time,6,Own,Apartment,Male,Biking,73316
+59,Bachelor's,Technology,5,Urban,13,Single,Part-time,2,Own,Apartment,Male,Public transit,2713855
+43,Doctorate,Others,5,Suburban,28,Married,Full-time,3,Own,Single-family home,Female,Car,75458
+41,Bachelor's,Technology,3,Rural,5,Married,Full-time,2,Own,Apartment,Male,Public transit,31830
+46,High School,Finance,1,Suburban,45,Married,Self-employed,5,Rent,Townhouse,Male,Car,66976
+21,Master's,Others,5,Urban,50,Married,Part-time,5,Rent,Townhouse,Male,Public transit,979482
+41,Master's,Healthcare,2,Urban,48,Married,Full-time,5,Own,Apartment,Female,Public transit,75460
+29,High School,Healthcare,1,Urban,37,Single,Full-time,4,Rent,Apartment,Male,Biking,378648
+30,Bachelor's,Education,0,Urban,40,Married,Full-time,7,Own,Single-family home,Male,Public transit,69456
+43,Master's,Others,1,Urban,46,Married,Full-time,4,Own,Apartment,Male,Biking,69024
+48,Master's,Others,3,Urban,49,Married,Full-time,4,Own,Apartment,Female,Biking,66826
+67,Bachelor's,Healthcare,1,Urban,42,Married,Full-time,1,Own,Apartment,Female,Public transit,73156
+62,Bachelor's,Healthcare,3,Suburban,8,Single,Part-time,2,Own,Townhouse,Female,Walking,1959160
+45,High School,Healthcare,1,Urban,47,Married,Self-employed,7,Own,Apartment,Female,Public transit,65224
+57,Master's,Technology,0,Urban,5,Married,Full-time,6,Own,Single-family home,Female,Car,73638
+19,Bachelor's,Education,3,Rural,10,Married,Full-time,2,Own,Apartment,Male,Car,68852
+39,Doctorate,Healthcare,5,Urban,34,Married,Self-employed,6,Rent,Apartment,Female,Public transit,65526
+61,Bachelor's,Education,4,Urban,25,Single,Full-time,7,Rent,Apartment,Female,Car,72392
+33,High School,Healthcare,0,Urban,50,Divorced,Full-time,5,Rent,Townhouse,Female,Walking,75230
+70,High School,Healthcare,5,Urban,35,Married,Full-time,5,Rent,Apartment,Male,Walking,34426
+32,Bachelor's,Technology,1,Urban,24,Single,Full-time,1,Rent,Townhouse,Female,Car,74462
+41,High School,Healthcare,1,Suburban,46,Divorced,Full-time,2,Rent,Townhouse,Female,Biking,71166
+28,Bachelor's,Technology,5,Urban,37,Single,Full-time,6,Rent,Apartment,Male,Public transit,590011
+42,Bachelor's,Healthcare,0,Urban,38,Single,Part-time,3,Own,Townhouse,Male,Biking,68516
+36,Bachelor's,Healthcare,3,Urban,20,Married,Full-time,1,Rent,Single-family home,Male,Biking,332874
+44,Bachelor's,Technology,5,Urban,4,Divorced,Full-time,5,Own,Single-family home,Female,Public transit,71422
+35,Master's,Technology,4,Rural,6,Married,Full-time,3,Own,Townhouse,Male,Public transit,71956
+61,Doctorate,Others,0,Urban,38,Married,Full-time,4,Rent,Apartment,Female,Car,74644
+63,Bachelor's,Education,3,Urban,47,Married,Part-time,2,Rent,Apartment,Male,Car,71626
+30,Master's,Finance,1,Urban,37,Divorced,Part-time,3,Own,Single-family home,Male,Biking,85950
+57,Bachelor's,Healthcare,2,Suburban,47,Single,Full-time,7,Own,Townhouse,Female,Public transit,75370
+47,Bachelor's,Technology,3,Urban,40,Single,Self-employed,4,Own,Single-family home,Female,Car,216662
+20,High School,Finance,4,Suburban,50,Married,Self-employed,3,Own,Apartment,Male,Public transit,68470
+48,Bachelor's,Education,5,Urban,30,Divorced,Part-time,3,Rent,Single-family home,Female,Biking,70826
+55,Bachelor's,Healthcare,3,Suburban,9,Married,Self-employed,1,Own,Apartment,Female,Biking,3352170
+29,High School,Healthcare,0,Urban,11,Married,Part-time,3,Rent,Apartment,Male,Biking,66794
+66,Bachelor's,Technology,4,Suburban,3,Single,Part-time,4,Own,Single-family home,Male,Public transit,146041
+31,Master's,Healthcare,5,Urban,6,Married,Part-time,4,Rent,Single-family home,Female,Biking,73788
+45,High School,Others,2,Urban,20,Single,Part-time,5,Own,Townhouse,Male,Public transit,64912
+53,Bachelor's,Technology,0,Urban,27,Single,Full-time,4,Rent,Single-family home,Male,Walking,69540
+67,High School,Education,3,Urban,32,Single,Self-employed,7,Rent,Single-family home,Male,Public transit,563449
+37,Bachelor's,Technology,4,Urban,33,Single,Full-time,4,Rent,Apartment,Male,Walking,606300
+40,Master's,Finance,3,Urban,29,Single,Part-time,5,Own,Single-family home,Female,Public transit,65560
+28,Bachelor's,Technology,5,Urban,19,Married,Full-time,3,Rent,Apartment,Female,Biking,76449
+29,Master's,Technology,3,Suburban,17,Single,Full-time,1,Rent,Apartment,Male,Walking,430866
+55,Bachelor's,Finance,1,Urban,4,Married,Part-time,1,Rent,Single-family home,Female,Car,90266
+32,High School,Healthcare,2,Urban,19,Single,Part-time,5,Own,Single-family home,Female,Public transit,71434
+66,Bachelor's,Education,1,Urban,3,Married,Self-employed,7,Rent,Apartment,Female,Car,70508
+68,Bachelor's,Others,4,Rural,6,Married,Part-time,6,Rent,Apartment,Male,Public transit,68962
+44,Bachelor's,Education,1,Urban,42,Married,Self-employed,4,Rent,Apartment,Male,Car,2636349
+52,High School,Healthcare,0,Rural,8,Married,Full-time,1,Own,Townhouse,Male,Car,2268248
+37,Bachelor's,Technology,1,Suburban,38,Single,Full-time,3,Rent,Townhouse,Male,Car,69372
+18,Doctorate,Technology,5,Rural,16,Married,Self-employed,6,Own,Single-family home,Male,Car,56924
+64,Bachelor's,Finance,3,Urban,34,Divorced,Part-time,3,Own,Townhouse,Female,Public transit,72772
+23,Bachelor's,Healthcare,0,Suburban,46,Married,Part-time,3,Rent,Townhouse,Male,Car,73358
+21,Bachelor's,Technology,0,Urban,2,Married,Full-time,3,Own,Single-family home,Male,Biking,70036
+70,High School,Others,0,Urban,17,Single,Part-time,3,Rent,Apartment,Female,Car,73320
+25,Bachelor's,Finance,5,Urban,27,Married,Part-time,6,Own,Single-family home,Male,Public transit,71210
+31,Bachelor's,Technology,2,Suburban,47,Divorced,Full-time,3,Own,Single-family home,Male,Car,73104
+43,Master's,Healthcare,0,Urban,28,Single,Full-time,2,Own,Apartment,Female,Car,74428
+70,High School,Finance,2,Urban,17,Married,Part-time,7,Own,Townhouse,Male,Biking,69764
+27,Bachelor's,Healthcare,1,Suburban,41,Single,Part-time,3,Own,Townhouse,Male,Biking,66378
+19,Master's,Finance,2,Urban,15,Married,Full-time,3,Own,Apartment,Male,Biking,67452
+68,High School,Healthcare,4,Urban,37,Single,Full-time,7,Own,Townhouse,Male,Public transit,73932
+52,Master's,Technology,3,Urban,39,Married,Full-time,2,Own,Apartment,Male,Car,66008
+32,High School,Healthcare,4,Urban,50,Single,Part-time,2,Rent,Apartment,Male,Car,66722
+53,High School,Healthcare,1,Rural,26,Divorced,Part-time,5,Own,Apartment,Female,Public transit,101047
+44,Bachelor's,Others,2,Urban,33,Married,Part-time,2,Own,Apartment,Female,Car,5922905
+27,Master's,Others,3,Urban,49,Married,Full-time,1,Rent,Apartment,Male,Biking,270773
+61,Bachelor's,Healthcare,4,Urban,37,Single,Part-time,4,Own,Townhouse,Male,Public transit,72138
+64,Bachelor's,Finance,0,Suburban,13,Divorced,Full-time,2,Own,Single-family home,Male,Car,65416
+50,Bachelor's,Education,4,Urban,43,Single,Full-time,1,Own,Single-family home,Male,Public transit,69188
+44,Master's,Others,4,Urban,48,Divorced,Full-time,4,Own,Single-family home,Male,Car,68070
+21,Bachelor's,Education,5,Urban,28,Single,Part-time,7,Own,Single-family home,Male,Car,8280408
+47,Master's,Healthcare,4,Urban,36,Single,Full-time,4,Own,Apartment,Male,Public transit,73574
+46,High School,Healthcare,1,Rural,25,Married,Full-time,3,Own,Townhouse,Female,Car,71690
+25,Master's,Finance,1,Urban,42,Married,Part-time,4,Rent,Apartment,Female,Car,66632
+24,Bachelor's,Finance,3,Suburban,36,Single,Part-time,2,Own,Apartment,Male,Public transit,74922
+52,High School,Healthcare,1,Suburban,22,Married,Full-time,2,Own,Single-family home,Male,Biking,68992
+60,Master's,Education,4,Suburban,17,Married,Self-employed,5,Rent,Townhouse,Female,Walking,6578778
+60,High School,Healthcare,3,Urban,29,Single,Full-time,5,Rent,Apartment,Female,Car,36117
+42,High School,Healthcare,1,Urban,39,Married,Self-employed,4,Rent,Apartment,Male,Walking,3907114
+22,High School,Others,5,Suburban,3,Single,Full-time,4,Own,Single-family home,Male,Public transit,67348
+53,Bachelor's,Healthcare,1,Rural,20,Single,Part-time,7,Own,Apartment,Male,Biking,191035
+39,Bachelor's,Education,0,Urban,9,Single,Full-time,5,Own,Apartment,Male,Car,6252651
+30,Bachelor's,Others,2,Urban,4,Married,Full-time,7,Own,Apartment,Male,Public transit,216427
+69,High School,Healthcare,1,Urban,18,Married,Part-time,3,Own,Townhouse,Male,Car,72828
+67,Master's,Finance,5,Rural,38,Divorced,Self-employed,4,Rent,Single-family home,Female,Biking,75468
+30,High School,Healthcare,2,Suburban,44,Single,Self-employed,1,Rent,Single-family home,Male,Public transit,69122
+42,Doctorate,Others,1,Suburban,46,Married,Part-time,7,Own,Apartment,Male,Car,73634
+30,High School,Technology,3,Urban,22,Single,Part-time,4,Own,Apartment,Male,Walking,8780759
+27,Bachelor's,Technology,2,Urban,30,Single,Self-employed,2,Own,Apartment,Female,Car,67782
+41,High School,Healthcare,0,Urban,31,Single,Part-time,5,Own,Single-family home,Female,Biking,69600
+38,High School,Education,4,Urban,40,Married,Full-time,3,Own,Townhouse,Female,Biking,71976
+53,High School,Education,5,Urban,12,Married,Full-time,3,Own,Apartment,Female,Public transit,75831
+61,Bachelor's,Healthcare,3,Urban,37,Single,Full-time,6,Own,Apartment,Male,Car,65500
+58,Bachelor's,Technology,0,Urban,47,Single,Self-employed,1,Own,Townhouse,Female,Biking,66830
+64,Bachelor's,Education,3,Rural,42,Married,Self-employed,3,Rent,Townhouse,Male,Biking,66324
+55,Bachelor's,Education,1,Rural,2,Single,Full-time,3,Rent,Single-family home,Male,Car,1092686
+22,Bachelor's,Healthcare,4,Urban,32,Married,Part-time,6,Rent,Townhouse,Female,Car,709613
+59,Master's,Others,5,Urban,9,Married,Full-time,2,Rent,Single-family home,Female,Car,70436
+30,Bachelor's,Healthcare,2,Urban,13,Single,Self-employed,5,Rent,Apartment,Male,Biking,141051
+67,Bachelor's,Others,2,Urban,41,Married,Self-employed,2,Own,Townhouse,Male,Walking,66368
+20,Doctorate,Technology,2,Urban,24,Divorced,Full-time,6,Rent,Apartment,Female,Walking,67582
+68,Bachelor's,Others,1,Urban,11,Married,Full-time,7,Own,Single-family home,Male,Public transit,66484
+54,High School,Healthcare,0,Urban,49,Married,Part-time,3,Rent,Single-family home,Female,Car,983332
+32,Bachelor's,Finance,2,Urban,8,Married,Part-time,5,Own,Townhouse,Female,Public transit,73154
+43,Bachelor's,Technology,0,Urban,47,Married,Part-time,5,Rent,Townhouse,Male,Biking,70006
+20,High School,Healthcare,0,Urban,29,Married,Full-time,1,Own,Apartment,Female,Car,74204
+30,Bachelor's,Finance,1,Urban,34,Single,Full-time,1,Rent,Single-family home,Male,Public transit,69146
+66,High School,Technology,5,Urban,38,Single,Self-employed,7,Rent,Single-family home,Male,Car,66580
+31,Bachelor's,Technology,0,Suburban,10,Single,Part-time,2,Own,Single-family home,Male,Car,65172
+53,Master's,Technology,5,Urban,33,Single,Part-time,2,Rent,Apartment,Male,Public transit,143648
+18,High School,Technology,0,Urban,5,Divorced,Part-time,1,Own,Single-family home,Female,Biking,6030812
+47,High School,Finance,5,Urban,17,Married,Full-time,5,Rent,Apartment,Female,Public transit,66743
+56,High School,Technology,1,Urban,48,Single,Full-time,7,Own,Apartment,Male,Public transit,68040
+30,Bachelor's,Others,5,Urban,19,Single,Full-time,3,Rent,Single-family home,Male,Public transit,68170
+70,High School,Technology,3,Urban,14,Single,Full-time,5,Own,Apartment,Male,Car,72162
+43,High School,Healthcare,5,Urban,23,Married,Full-time,1,Own,Single-family home,Female,Walking,65404
+49,Bachelor's,Others,4,Urban,45,Divorced,Self-employed,7,Rent,Single-family home,Male,Public transit,2820631
+62,Bachelor's,Technology,0,Urban,26,Single,Full-time,5,Own,Single-family home,Male,Biking,65914
+21,High School,Technology,0,Urban,33,Single,Self-employed,1,Own,Apartment,Female,Walking,66710
+23,Bachelor's,Healthcare,2,Urban,27,Married,Full-time,4,Rent,Apartment,Female,Walking,156573
+52,High School,Healthcare,1,Rural,14,Married,Full-time,3,Own,Apartment,Female,Car,162164
+32,High School,Finance,1,Suburban,30,Married,Self-employed,6,Rent,Single-family home,Male,Car,72348
+24,Bachelor's,Finance,1,Urban,24,Single,Full-time,7,Own,Single-family home,Male,Car,96708
+28,Master's,Technology,5,Suburban,7,Married,Full-time,3,Own,Single-family home,Female,Public transit,68770
+60,Bachelor's,Finance,4,Urban,44,Single,Full-time,6,Own,Single-family home,Male,Car,84522
+19,Doctorate,Healthcare,0,Suburban,5,Married,Full-time,1,Own,Apartment,Female,Walking,66648
+59,Bachelor's,Healthcare,4,Suburban,6,Single,Self-employed,3,Rent,Single-family home,Female,Public transit,82352
+19,High School,Healthcare,0,Urban,39,Divorced,Self-employed,1,Own,Single-family home,Female,Public transit,31623
+29,Bachelor's,Healthcare,4,Urban,33,Single,Full-time,6,Own,Single-family home,Female,Biking,69104
+28,High School,Healthcare,5,Urban,14,Married,Full-time,1,Own,Apartment,Female,Public transit,979144
+65,Bachelor's,Others,2,Urban,32,Married,Part-time,3,Own,Townhouse,Female,Walking,68754
+44,Master's,Healthcare,3,Rural,34,Married,Part-time,1,Rent,Townhouse,Female,Car,2819037
+32,Bachelor's,Healthcare,0,Suburban,5,Married,Full-time,2,Own,Single-family home,Female,Biking,67420
+41,Bachelor's,Education,1,Urban,49,Single,Self-employed,2,Rent,Apartment,Male,Biking,3714714
+26,Master's,Technology,3,Suburban,23,Married,Part-time,4,Rent,Townhouse,Female,Biking,72284
+66,Bachelor's,Finance,3,Urban,47,Married,Full-time,1,Own,Townhouse,Male,Walking,5844480
+69,Bachelor's,Others,4,Urban,4,Single,Full-time,4,Rent,Single-family home,Female,Public transit,508274
+25,Bachelor's,Healthcare,3,Suburban,35,Single,Part-time,5,Own,Single-family home,Female,Car,67862
+61,Master's,Healthcare,0,Urban,48,Married,Part-time,6,Own,Single-family home,Female,Biking,68150
+58,Bachelor's,Healthcare,5,Urban,42,Married,Part-time,6,Own,Townhouse,Female,Public transit,69678
+40,Master's,Healthcare,5,Urban,9,Married,Part-time,6,Own,Apartment,Male,Public transit,644694
+28,High School,Finance,1,Urban,4,Married,Self-employed,3,Own,Townhouse,Female,Public transit,75208
+34,High School,Healthcare,4,Rural,0,Married,Self-employed,6,Own,Apartment,Female,Public transit,68400
+70,High School,Education,5,Urban,23,Married,Part-time,4,Own,Apartment,Female,Public transit,93932
+48,High School,Healthcare,5,Suburban,6,Married,Full-time,4,Own,Apartment,Male,Public transit,69386
+32,Bachelor's,Technology,5,Suburban,12,Married,Part-time,1,Own,Apartment,Male,Public transit,266122
+47,Doctorate,Healthcare,0,Suburban,23,Single,Full-time,6,Own,Single-family home,Female,Walking,1250871
+53,Bachelor's,Technology,1,Suburban,15,Married,Part-time,3,Own,Apartment,Female,Biking,8914304
+62,Bachelor's,Healthcare,5,Urban,23,Divorced,Self-employed,7,Own,Single-family home,Male,Biking,71148
+23,Bachelor's,Healthcare,5,Urban,41,Single,Part-time,3,Own,Apartment,Male,Public transit,67482
+60,Bachelor's,Healthcare,4,Suburban,29,Married,Full-time,1,Rent,Apartment,Female,Public transit,89407
+46,High School,Technology,2,Urban,0,Married,Part-time,3,Rent,Apartment,Male,Biking,74370
+40,Master's,Technology,4,Urban,13,Single,Self-employed,3,Rent,Townhouse,Female,Public transit,72422
+33,High School,Healthcare,4,Urban,39,Divorced,Full-time,3,Rent,Single-family home,Female,Car,403544
+32,Bachelor's,Technology,3,Suburban,15,Married,Full-time,4,Own,Apartment,Female,Car,67428
+26,High School,Technology,2,Urban,37,Married,Full-time,4,Rent,Single-family home,Female,Public transit,6137814
+60,Master's,Technology,1,Urban,1,Single,Full-time,5,Own,Townhouse,Male,Biking,74754
+43,High School,Others,3,Urban,35,Single,Part-time,7,Own,Apartment,Female,Public transit,975882
+33,Master's,Healthcare,1,Urban,10,Single,Full-time,4,Rent,Apartment,Male,Car,123649
+19,High School,Healthcare,2,Urban,33,Married,Full-time,1,Rent,Single-family home,Male,Public transit,881400
+29,High School,Finance,3,Urban,4,Married,Self-employed,5,Rent,Townhouse,Female,Car,559926
+21,Master's,Others,0,Urban,35,Married,Full-time,1,Own,Apartment,Female,Public transit,68760
+39,High School,Technology,5,Urban,36,Single,Full-time,1,Own,Townhouse,Male,Car,64990
+51,High School,Healthcare,0,Urban,0,Married,Full-time,1,Own,Apartment,Male,Biking,68654
+55,High School,Healthcare,3,Urban,24,Married,Full-time,4,Own,Apartment,Female,Public transit,67478
+37,Doctorate,Technology,3,Urban,33,Married,Full-time,3,Own,Single-family home,Female,Car,65162
+31,Master's,Healthcare,5,Urban,23,Married,Full-time,3,Own,Single-family home,Male,Biking,65672
+47,High School,Technology,1,Urban,17,Married,Self-employed,4,Own,Apartment,Male,Car,74676
+24,High School,Technology,0,Urban,21,Single,Self-employed,6,Rent,Single-family home,Male,Car,74934
+67,High School,Education,2,Suburban,25,Single,Full-time,3,Own,Single-family home,Female,Public transit,66722
+42,High School,Technology,1,Urban,21,Married,Full-time,4,Rent,Single-family home,Male,Public transit,3486007
+68,Bachelor's,Finance,2,Urban,49,Single,Part-time,5,Own,Single-family home,Female,Car,71238
+33,Bachelor's,Healthcare,1,Rural,34,Single,Full-time,1,Own,Single-family home,Male,Car,71576
+33,High School,Finance,0,Suburban,14,Single,Full-time,4,Own,Townhouse,Male,Walking,75434
+26,Master's,Education,3,Urban,26,Married,Part-time,2,Own,Single-family home,Male,Car,69462
+53,Master's,Healthcare,1,Urban,2,Divorced,Full-time,4,Own,Apartment,Male,Car,4122386
+55,Bachelor's,Education,2,Urban,10,Married,Self-employed,4,Rent,Apartment,Female,Biking,73150
+47,Bachelor's,Technology,3,Urban,30,Single,Part-time,4,Rent,Single-family home,Male,Biking,592112
+27,Bachelor's,Others,4,Urban,33,Divorced,Full-time,5,Own,Apartment,Female,Car,74116
+29,High School,Education,5,Suburban,2,Single,Part-time,2,Own,Townhouse,Male,Car,2850156
+29,Bachelor's,Healthcare,1,Urban,39,Single,Part-time,4,Own,Townhouse,Male,Biking,74098
+32,Bachelor's,Education,2,Rural,6,Married,Full-time,7,Rent,Townhouse,Female,Public transit,65856
+64,High School,Technology,4,Rural,10,Married,Full-time,7,Own,Single-family home,Male,Biking,240098
+33,High School,Education,3,Urban,32,Married,Full-time,7,Own,Townhouse,Male,Walking,71900
+49,Doctorate,Technology,2,Urban,3,Married,Full-time,7,Rent,Single-family home,Female,Public transit,72592
+34,Master's,Healthcare,4,Suburban,39,Married,Full-time,7,Own,Single-family home,Male,Public transit,69682
+49,Bachelor's,Technology,1,Rural,1,Married,Full-time,2,Own,Apartment,Male,Public transit,74472
+36,Bachelor's,Finance,5,Suburban,24,Married,Self-employed,6,Rent,Townhouse,Female,Public transit,70494
+61,Master's,Healthcare,5,Suburban,17,Single,Part-time,7,Rent,Townhouse,Female,Walking,373400
+31,Master's,Healthcare,5,Urban,19,Single,Part-time,4,Own,Single-family home,Male,Car,74190
+63,Bachelor's,Healthcare,5,Suburban,42,Married,Full-time,4,Rent,Townhouse,Male,Walking,67380
+35,High School,Others,0,Suburban,4,Married,Full-time,1,Rent,Townhouse,Male,Biking,68932
+39,Bachelor's,Healthcare,3,Suburban,1,Single,Self-employed,1,Own,Townhouse,Male,Car,170451
+19,Bachelor's,Healthcare,0,Urban,21,Single,Full-time,2,Rent,Apartment,Male,Public transit,279059
+51,Bachelor's,Education,0,Urban,39,Married,Full-time,7,Own,Single-family home,Female,Car,70850
+67,High School,Others,1,Urban,1,Married,Part-time,4,Rent,Apartment,Male,Car,65310
+29,Master's,Education,0,Rural,14,Single,Full-time,7,Own,Apartment,Female,Car,341511
+18,Master's,Technology,5,Urban,5,Single,Self-employed,3,Rent,Apartment,Female,Public transit,59136
+60,Master's,Others,5,Urban,12,Single,Self-employed,7,Rent,Apartment,Male,Biking,68610
+66,Bachelor's,Finance,2,Urban,33,Married,Full-time,5,Own,Apartment,Female,Car,70556
+23,Bachelor's,Finance,2,Urban,29,Married,Full-time,3,Own,Single-family home,Male,Biking,49304
+26,Master's,Finance,4,Urban,37,Single,Part-time,4,Own,Single-family home,Male,Car,65200
+31,Master's,Technology,4,Urban,18,Divorced,Part-time,5,Own,Townhouse,Female,Car,66424
+30,Doctorate,Finance,1,Rural,39,Single,Full-time,5,Own,Apartment,Female,Public transit,427771
+22,Master's,Technology,3,Urban,37,Single,Full-time,4,Rent,Apartment,Male,Biking,3849885
+33,Master's,Finance,4,Urban,29,Married,Full-time,7,Own,Townhouse,Male,Car,2295842
+42,Bachelor's,Healthcare,2,Suburban,49,Single,Self-employed,2,Rent,Single-family home,Male,Car,67272
+47,Bachelor's,Education,1,Urban,19,Married,Full-time,4,Own,Apartment,Male,Public transit,72538
+32,High School,Finance,3,Urban,5,Married,Full-time,3,Own,Single-family home,Male,Biking,73552
+25,Bachelor's,Healthcare,1,Rural,16,Single,Full-time,4,Own,Townhouse,Male,Public transit,73786
+41,High School,Healthcare,0,Urban,13,Married,Self-employed,3,Rent,Townhouse,Female,Car,65514
+42,Master's,Healthcare,0,Urban,29,Single,Part-time,2,Rent,Apartment,Male,Biking,222508
+23,Master's,Others,0,Urban,41,Single,Full-time,1,Rent,Townhouse,Male,Public transit,70694
+69,Bachelor's,Education,4,Urban,9,Married,Self-employed,4,Own,Single-family home,Female,Biking,66862
+64,High School,Technology,1,Urban,50,Married,Full-time,1,Own,Single-family home,Female,Car,40450
+58,High School,Healthcare,0,Urban,5,Divorced,Self-employed,7,Own,Apartment,Male,Biking,73072
+53,Master's,Others,1,Urban,5,Single,Self-employed,5,Rent,Single-family home,Female,Car,334956
+54,Bachelor's,Finance,2,Suburban,30,Married,Full-time,6,Own,Apartment,Female,Car,67922
+69,Master's,Education,3,Urban,15,Married,Self-employed,7,Own,Apartment,Female,Car,68294
+52,Bachelor's,Healthcare,4,Urban,44,Married,Part-time,6,Own,Townhouse,Male,Biking,65782
+51,High School,Education,5,Suburban,21,Single,Full-time,4,Own,Apartment,Male,Walking,107148
+54,High School,Technology,3,Urban,50,Married,Full-time,3,Rent,Single-family home,Male,Public transit,8811041
+67,High School,Education,1,Urban,42,Single,Full-time,4,Own,Townhouse,Male,Car,75448
+33,Master's,Finance,2,Rural,25,Single,Self-employed,2,Own,Townhouse,Female,Public transit,55106
+68,High School,Technology,0,Suburban,41,Single,Full-time,2,Own,Single-family home,Female,Car,69416
+26,Bachelor's,Others,4,Rural,47,Married,Full-time,7,Own,Apartment,Male,Car,351674
+46,Master's,Technology,4,Urban,40,Married,Part-time,6,Rent,Single-family home,Male,Walking,3037290
+59,High School,Education,2,Rural,6,Married,Self-employed,5,Own,Single-family home,Male,Public transit,37890
+21,Master's,Technology,3,Urban,15,Married,Full-time,2,Own,Townhouse,Female,Car,75162
+23,Bachelor's,Technology,1,Rural,32,Single,Full-time,2,Rent,Apartment,Male,Car,2313939
+18,Bachelor's,Education,5,Urban,17,Single,Full-time,7,Own,Townhouse,Male,Public transit,69980
+53,Bachelor's,Healthcare,3,Urban,23,Single,Part-time,7,Rent,Townhouse,Male,Car,457352
+28,Master's,Education,0,Urban,32,Married,Full-time,1,Rent,Townhouse,Male,Biking,73188
+30,Bachelor's,Others,3,Urban,34,Single,Self-employed,3,Rent,Single-family home,Male,Biking,2025740
+61,Bachelor's,Education,4,Urban,5,Single,Full-time,6,Own,Apartment,Male,Public transit,44141
+65,Bachelor's,Healthcare,0,Urban,4,Married,Full-time,2,Rent,Apartment,Female,Public transit,66818
+21,Master's,Others,5,Urban,33,Married,Part-time,4,Own,Townhouse,Male,Biking,68448
+53,Master's,Technology,0,Suburban,20,Married,Full-time,7,Rent,Townhouse,Male,Car,73122
+39,Master's,Others,5,Rural,46,Single,Part-time,7,Own,Apartment,Female,Car,77782
+19,Master's,Education,3,Suburban,23,Divorced,Part-time,7,Own,Single-family home,Female,Public transit,4625431
+57,High School,Healthcare,5,Urban,28,Married,Part-time,7,Own,Townhouse,Female,Public transit,66048
+33,Master's,Technology,4,Urban,3,Married,Full-time,2,Own,Townhouse,Male,Public transit,69518
+19,High School,Others,3,Urban,47,Single,Self-employed,2,Own,Apartment,Male,Public transit,72630
+21,High School,Technology,2,Suburban,42,Single,Part-time,6,Own,Townhouse,Female,Walking,66088
+30,Bachelor's,Others,2,Suburban,24,Single,Self-employed,1,Rent,Townhouse,Female,Car,73120
+31,Doctorate,Education,5,Urban,13,Single,Part-time,3,Own,Apartment,Female,Walking,71932
+42,Bachelor's,Technology,0,Suburban,23,Single,Part-time,4,Own,Single-family home,Male,Public transit,74410
+49,Bachelor's,Healthcare,1,Urban,30,Single,Self-employed,3,Own,Townhouse,Male,Biking,1476972
+59,High School,Education,4,Urban,32,Single,Full-time,7,Own,Apartment,Female,Biking,5368369
+46,High School,Education,1,Urban,45,Married,Full-time,3,Own,Single-family home,Male,Public transit,70996
+18,Bachelor's,Education,3,Urban,48,Married,Part-time,7,Rent,Townhouse,Male,Public transit,639409
+43,Bachelor's,Finance,2,Urban,25,Married,Part-time,5,Own,Single-family home,Male,Public transit,74818
+33,Bachelor's,Healthcare,2,Suburban,35,Married,Full-time,5,Rent,Single-family home,Female,Public transit,4319486
+61,Bachelor's,Others,3,Urban,32,Married,Part-time,4,Own,Single-family home,Female,Public transit,68204
+42,Master's,Finance,5,Urban,36,Married,Self-employed,1,Rent,Apartment,Female,Car,67126
+27,High School,Technology,0,Suburban,37,Married,Part-time,3,Own,Single-family home,Male,Public transit,74970
+27,Master's,Healthcare,0,Urban,11,Single,Full-time,7,Rent,Apartment,Female,Public transit,187280
+59,High School,Technology,5,Suburban,41,Divorced,Full-time,6,Rent,Single-family home,Female,Public transit,2480059
+65,Master's,Healthcare,4,Suburban,10,Single,Full-time,1,Rent,Apartment,Female,Public transit,70412
+40,Bachelor's,Healthcare,4,Urban,49,Married,Part-time,5,Own,Townhouse,Female,Walking,71272
+52,Master's,Healthcare,5,Urban,13,Single,Self-employed,5,Rent,Single-family home,Male,Public transit,1127238
+42,Doctorate,Healthcare,2,Urban,18,Divorced,Part-time,2,Own,Single-family home,Female,Walking,66828
+35,Master's,Finance,2,Rural,17,Divorced,Full-time,7,Rent,Single-family home,Female,Car,67362
+68,Master's,Finance,3,Rural,37,Single,Full-time,6,Own,Townhouse,Female,Car,66204
+58,Bachelor's,Healthcare,2,Rural,25,Single,Full-time,6,Rent,Apartment,Female,Public transit,102199
+50,Bachelor's,Healthcare,1,Suburban,11,Married,Full-time,5,Rent,Apartment,Female,Public transit,62050
+18,Master's,Others,5,Urban,16,Single,Full-time,6,Own,Single-family home,Female,Car,74430
+41,Bachelor's,Education,0,Urban,7,Married,Full-time,7,Own,Apartment,Male,Public transit,2957043
+53,Bachelor's,Healthcare,3,Suburban,12,Married,Full-time,1,Rent,Apartment,Female,Public transit,74046
+42,Master's,Education,5,Urban,21,Married,Full-time,4,Rent,Single-family home,Female,Car,95750
+69,Bachelor's,Others,4,Urban,18,Married,Self-employed,6,Own,Townhouse,Male,Car,72618
+51,Bachelor's,Finance,1,Urban,47,Married,Full-time,4,Own,Single-family home,Male,Biking,1804765
+45,High School,Others,2,Urban,21,Divorced,Part-time,5,Own,Apartment,Female,Public transit,412832
+58,Bachelor's,Healthcare,4,Urban,8,Single,Part-time,5,Own,Townhouse,Female,Biking,69374
+22,Master's,Finance,0,Urban,38,Married,Part-time,7,Own,Townhouse,Male,Car,4096888
+52,Master's,Technology,1,Urban,39,Married,Self-employed,6,Rent,Apartment,Male,Public transit,74578
+50,High School,Others,3,Rural,8,Married,Self-employed,7,Rent,Apartment,Male,Public transit,3275910
+30,Bachelor's,Healthcare,2,Suburban,19,Married,Full-time,7,Own,Apartment,Male,Walking,67880
+35,Master's,Others,3,Urban,47,Married,Full-time,1,Rent,Single-family home,Male,Public transit,2284320
+60,Master's,Healthcare,1,Urban,15,Single,Part-time,3,Own,Single-family home,Male,Public transit,74630
+56,High School,Finance,1,Suburban,20,Married,Part-time,5,Own,Apartment,Male,Car,73314
+57,Bachelor's,Technology,4,Suburban,5,Single,Full-time,1,Rent,Single-family home,Female,Car,65964
+65,Bachelor's,Others,2,Urban,38,Single,Self-employed,7,Own,Apartment,Male,Public transit,70682
+68,High School,Healthcare,0,Urban,38,Divorced,Full-time,7,Own,Townhouse,Male,Public transit,34726
+62,Master's,Others,2,Urban,23,Married,Self-employed,1,Own,Single-family home,Female,Public transit,73096
+65,Doctorate,Healthcare,5,Urban,18,Married,Full-time,3,Rent,Apartment,Male,Biking,70438
+19,High School,Finance,0,Urban,35,Single,Full-time,2,Rent,Townhouse,Female,Public transit,72202
+53,High School,Technology,4,Suburban,48,Divorced,Full-time,6,Own,Apartment,Female,Public transit,64960
+44,High School,Education,2,Urban,8,Single,Part-time,3,Own,Single-family home,Female,Biking,158435
+65,Master's,Healthcare,5,Rural,16,Single,Part-time,2,Own,Apartment,Male,Walking,73986
+33,Master's,Healthcare,1,Urban,50,Married,Full-time,2,Own,Single-family home,Female,Public transit,107366
+59,Bachelor's,Technology,5,Urban,10,Single,Self-employed,3,Own,Apartment,Male,Biking,75202
+19,Bachelor's,Others,4,Urban,46,Married,Part-time,2,Own,Townhouse,Male,Walking,74274
+66,Bachelor's,Technology,1,Urban,42,Single,Self-employed,7,Own,Apartment,Male,Biking,98044
+18,Master's,Others,5,Urban,34,Married,Full-time,6,Rent,Apartment,Female,Biking,43467
+21,Master's,Finance,3,Urban,9,Married,Full-time,1,Own,Apartment,Female,Car,66836
+47,Bachelor's,Healthcare,1,Urban,3,Single,Part-time,5,Rent,Townhouse,Male,Public transit,73564
+70,Bachelor's,Others,1,Urban,16,Married,Full-time,1,Rent,Single-family home,Female,Car,197392
+49,Bachelor's,Others,1,Urban,43,Single,Self-employed,5,Rent,Apartment,Male,Public transit,2275178
+45,High School,Finance,3,Urban,22,Married,Self-employed,5,Own,Single-family home,Male,Public transit,70482
+28,Master's,Healthcare,5,Urban,10,Married,Full-time,5,Own,Apartment,Male,Car,65790
+41,Bachelor's,Healthcare,1,Urban,20,Married,Full-time,2,Rent,Apartment,Male,Biking,197016
+62,Bachelor's,Others,0,Urban,23,Married,Full-time,3,Rent,Apartment,Male,Car,63969
+63,Bachelor's,Healthcare,4,Urban,5,Single,Full-time,6,Own,Townhouse,Male,Public transit,68250
+62,Bachelor's,Education,1,Urban,48,Married,Self-employed,1,Rent,Single-family home,Female,Car,71434
+32,High School,Finance,3,Suburban,49,Single,Part-time,3,Own,Apartment,Male,Car,72754
+56,Bachelor's,Healthcare,1,Urban,31,Single,Part-time,5,Own,Single-family home,Male,Public transit,74852
+22,Bachelor's,Education,2,Urban,44,Married,Full-time,4,Rent,Single-family home,Male,Public transit,1052753
+40,Bachelor's,Others,3,Suburban,16,Married,Full-time,5,Own,Single-family home,Female,Walking,5288001
+20,Bachelor's,Healthcare,5,Urban,26,Married,Part-time,5,Own,Apartment,Male,Public transit,4121808
+63,High School,Finance,3,Urban,3,Married,Full-time,2,Own,Apartment,Male,Biking,1895857
+34,High School,Healthcare,3,Urban,43,Single,Part-time,6,Rent,Apartment,Female,Biking,68906
+57,High School,Healthcare,4,Urban,30,Married,Full-time,2,Own,Apartment,Male,Car,73276
+32,Doctorate,Technology,1,Suburban,1,Single,Full-time,4,Own,Single-family home,Male,Biking,68744
+26,High School,Technology,1,Urban,8,Single,Full-time,6,Own,Single-family home,Female,Public transit,70806
+58,Master's,Finance,4,Urban,39,Single,Full-time,1,Own,Apartment,Female,Public transit,71032
+69,Master's,Healthcare,2,Urban,40,Divorced,Full-time,2,Rent,Townhouse,Female,Public transit,70676
+56,Bachelor's,Education,2,Urban,2,Married,Part-time,4,Rent,Townhouse,Female,Car,1382522
+20,Bachelor's,Finance,0,Urban,19,Single,Part-time,2,Own,Single-family home,Female,Biking,72936
+56,Bachelor's,Others,4,Rural,34,Single,Part-time,1,Own,Townhouse,Male,Car,1035856
+53,Master's,Technology,0,Suburban,32,Married,Full-time,3,Rent,Single-family home,Female,Public transit,73964
+25,Master's,Technology,0,Urban,23,Single,Part-time,6,Rent,Apartment,Male,Public transit,666836
+18,Master's,Technology,4,Urban,2,Married,Full-time,7,Own,Single-family home,Female,Biking,66566
+35,Bachelor's,Education,4,Suburban,23,Single,Full-time,1,Own,Single-family home,Male,Biking,7848650
+55,Master's,Finance,3,Urban,49,Single,Self-employed,7,Rent,Apartment,Female,Walking,65536
+68,Doctorate,Others,5,Urban,12,Married,Self-employed,2,Rent,Single-family home,Male,Public transit,65354
+48,Master's,Education,3,Urban,15,Single,Part-time,6,Own,Apartment,Male,Walking,954271
+47,Bachelor's,Technology,5,Urban,28,Married,Full-time,5,Own,Single-family home,Female,Biking,71778
+49,High School,Others,2,Rural,17,Single,Full-time,5,Rent,Townhouse,Male,Public transit,100785
+38,Bachelor's,Finance,1,Urban,19,Single,Full-time,1,Rent,Single-family home,Male,Car,68770
+63,High School,Finance,2,Urban,32,Married,Full-time,7,Own,Single-family home,Female,Public transit,69946
+66,Master's,Healthcare,5,Urban,13,Single,Full-time,2,Rent,Single-family home,Male,Public transit,130108
+52,Bachelor's,Others,2,Rural,1,Married,Full-time,2,Own,Apartment,Male,Biking,46412
+39,High School,Healthcare,5,Urban,46,Single,Self-employed,5,Rent,Single-family home,Male,Public transit,5123948
+41,Bachelor's,Technology,3,Suburban,7,Single,Self-employed,6,Own,Single-family home,Female,Car,71210
+53,Bachelor's,Technology,4,Urban,26,Single,Part-time,2,Own,Single-family home,Female,Car,68106
+42,High School,Others,3,Urban,10,Married,Full-time,3,Own,Apartment,Female,Car,127620
+26,Doctorate,Education,4,Urban,24,Married,Part-time,2,Own,Apartment,Male,Car,66516
+30,High School,Finance,3,Suburban,8,Married,Self-employed,3,Rent,Single-family home,Female,Car,871591
+32,Bachelor's,Technology,1,Suburban,20,Divorced,Full-time,5,Rent,Apartment,Female,Biking,992046
+57,Master's,Technology,2,Urban,44,Single,Full-time,3,Own,Single-family home,Female,Car,184279
+30,High School,Others,1,Urban,35,Divorced,Part-time,4,Rent,Apartment,Male,Public transit,69476
+41,Bachelor's,Technology,3,Suburban,50,Divorced,Full-time,7,Own,Single-family home,Female,Biking,75002
+51,High School,Healthcare,3,Rural,39,Single,Part-time,4,Rent,Apartment,Male,Car,67620
+62,Bachelor's,Healthcare,5,Urban,27,Single,Self-employed,4,Rent,Apartment,Female,Public transit,320354
+32,Bachelor's,Technology,1,Suburban,27,Married,Self-employed,5,Own,Single-family home,Female,Car,70900
+27,Bachelor's,Technology,2,Urban,20,Married,Full-time,2,Rent,Apartment,Female,Car,385342
+42,Bachelor's,Technology,3,Urban,6,Single,Full-time,1,Own,Apartment,Female,Walking,7260346
+70,Master's,Education,4,Rural,16,Single,Part-time,3,Rent,Single-family home,Female,Public transit,64996
+68,Master's,Technology,0,Suburban,0,Married,Full-time,7,Rent,Single-family home,Male,Biking,68972
+64,High School,Healthcare,3,Urban,35,Single,Full-time,2,Own,Townhouse,Male,Public transit,67082
+41,High School,Education,4,Rural,27,Single,Self-employed,6,Own,Apartment,Female,Car,137678
+59,Bachelor's,Technology,3,Urban,44,Single,Part-time,4,Own,Single-family home,Female,Public transit,73166
+38,Bachelor's,Finance,4,Suburban,13,Married,Self-employed,7,Own,Single-family home,Male,Public transit,68102
+54,High School,Healthcare,1,Urban,18,Married,Part-time,2,Own,Apartment,Male,Car,6821747
+37,High School,Healthcare,3,Rural,9,Single,Full-time,1,Own,Single-family home,Female,Biking,72296
+30,Doctorate,Technology,2,Suburban,17,Married,Self-employed,2,Own,Single-family home,Male,Car,69136
+45,Bachelor's,Healthcare,5,Urban,29,Married,Self-employed,7,Rent,Townhouse,Male,Car,66604
+61,Master's,Healthcare,1,Urban,1,Divorced,Full-time,5,Rent,Single-family home,Female,Biking,74702
+42,Bachelor's,Education,2,Urban,34,Single,Full-time,2,Rent,Single-family home,Female,Walking,509824
+70,High School,Finance,1,Urban,33,Married,Full-time,2,Own,Apartment,Male,Biking,71320
+19,High School,Education,1,Suburban,40,Single,Full-time,3,Rent,Apartment,Male,Car,117074
+30,High School,Education,0,Rural,37,Married,Part-time,5,Own,Single-family home,Male,Car,569307
+44,High School,Others,1,Urban,39,Married,Full-time,6,Rent,Townhouse,Male,Public transit,6517012
+62,Master's,Technology,5,Urban,19,Married,Self-employed,2,Rent,Single-family home,Male,Biking,75196
+40,High School,Technology,0,Urban,13,Married,Full-time,4,Own,Single-family home,Female,Biking,67216
+42,Master's,Finance,0,Suburban,17,Married,Self-employed,5,Rent,Apartment,Female,Car,71870
+70,Doctorate,Others,2,Rural,35,Married,Full-time,3,Rent,Single-family home,Female,Car,65608
+33,Bachelor's,Technology,2,Suburban,30,Married,Self-employed,1,Rent,Townhouse,Female,Public transit,67942
+62,Master's,Education,4,Urban,20,Married,Self-employed,6,Own,Apartment,Female,Biking,70776
+23,Bachelor's,Others,4,Urban,33,Single,Self-employed,1,Own,Townhouse,Female,Biking,68096
+41,Bachelor's,Technology,1,Urban,43,Married,Full-time,2,Own,Single-family home,Male,Public transit,106368
+25,High School,Others,3,Urban,19,Married,Full-time,2,Own,Townhouse,Male,Walking,64924
+59,High School,Healthcare,4,Urban,43,Married,Full-time,4,Own,Apartment,Female,Biking,69830
+54,High School,Others,5,Rural,42,Single,Full-time,1,Own,Apartment,Male,Biking,54754
+34,Master's,Healthcare,5,Urban,24,Single,Full-time,5,Rent,Apartment,Female,Public transit,103888
+58,High School,Education,3,Urban,22,Married,Part-time,3,Own,Townhouse,Male,Public transit,66248
+20,Master's,Education,4,Urban,48,Divorced,Part-time,6,Own,Apartment,Male,Public transit,70558
+58,Bachelor's,Technology,5,Urban,26,Married,Full-time,2,Rent,Single-family home,Male,Car,1716914
+29,Bachelor's,Technology,0,Rural,2,Single,Full-time,7,Own,Single-family home,Female,Car,321241
+46,Master's,Healthcare,5,Suburban,16,Married,Full-time,2,Own,Apartment,Female,Public transit,5324279
+49,High School,Technology,2,Urban,40,Married,Self-employed,7,Rent,Apartment,Male,Public transit,7137691
+32,Bachelor's,Finance,0,Urban,48,Married,Self-employed,2,Own,Apartment,Female,Car,2260197
+31,Bachelor's,Technology,4,Urban,19,Married,Full-time,6,Own,Apartment,Female,Public transit,67052
+26,Master's,Education,5,Urban,4,Divorced,Full-time,3,Own,Single-family home,Female,Car,652099
+22,Bachelor's,Healthcare,4,Urban,3,Single,Full-time,1,Rent,Single-family home,Female,Car,3761337
+27,Bachelor's,Education,5,Suburban,36,Single,Full-time,6,Rent,Townhouse,Male,Biking,1304551
+61,Master's,Technology,2,Urban,3,Married,Full-time,4,Own,Townhouse,Male,Biking,75170
+42,High School,Others,5,Urban,37,Married,Self-employed,7,Own,Single-family home,Female,Public transit,75016
+67,Master's,Education,1,Urban,3,Single,Full-time,6,Own,Townhouse,Male,Car,68990
+69,Master's,Others,2,Urban,9,Married,Full-time,6,Own,Apartment,Male,Car,6387420
+27,High School,Technology,4,Urban,23,Single,Part-time,2,Own,Apartment,Male,Public transit,5443050
+37,Bachelor's,Technology,3,Suburban,46,Married,Full-time,3,Rent,Single-family home,Male,Public transit,65544
+46,High School,Technology,4,Urban,8,Single,Full-time,2,Own,Apartment,Female,Biking,1749175
+52,Doctorate,Finance,3,Urban,33,Married,Full-time,1,Own,Apartment,Female,Walking,72858
+46,Bachelor's,Technology,5,Urban,35,Married,Full-time,4,Rent,Townhouse,Male,Public transit,71710
+26,Bachelor's,Education,5,Urban,6,Married,Full-time,3,Own,Apartment,Female,Public transit,54316
+33,Bachelor's,Healthcare,1,Rural,27,Single,Self-employed,4,Own,Single-family home,Female,Public transit,66272
+24,Bachelor's,Technology,5,Urban,7,Single,Full-time,7,Own,Apartment,Male,Public transit,5253902
+57,Bachelor's,Technology,4,Suburban,14,Single,Part-time,1,Own,Townhouse,Male,Biking,75054
+23,High School,Technology,5,Suburban,17,Divorced,Full-time,2,Rent,Single-family home,Female,Public transit,124822
+19,Bachelor's,Education,0,Urban,10,Single,Full-time,1,Rent,Single-family home,Female,Biking,66943
+32,High School,Others,2,Urban,32,Married,Full-time,1,Own,Apartment,Female,Car,74520
+58,High School,Technology,0,Urban,46,Married,Self-employed,1,Rent,Apartment,Male,Car,73760
+65,High School,Healthcare,2,Suburban,12,Single,Full-time,2,Own,Apartment,Male,Public transit,548550
+54,High School,Others,3,Urban,33,Married,Full-time,5,Rent,Townhouse,Female,Car,664183
+52,Doctorate,Healthcare,1,Urban,10,Single,Part-time,4,Own,Single-family home,Male,Car,36324
+42,Master's,Healthcare,2,Urban,35,Married,Part-time,4,Rent,Apartment,Male,Public transit,113447
+53,Bachelor's,Finance,0,Urban,11,Married,Part-time,7,Own,Apartment,Male,Biking,66784
+48,Bachelor's,Finance,2,Urban,9,Single,Full-time,6,Own,Apartment,Female,Car,66452
+66,Master's,Finance,4,Suburban,18,Single,Part-time,6,Own,Single-family home,Male,Car,72912
+42,Doctorate,Healthcare,0,Suburban,0,Single,Full-time,1,Rent,Apartment,Female,Biking,74356
+20,Bachelor's,Finance,4,Urban,46,Married,Full-time,3,Rent,Single-family home,Male,Car,68022
+29,Master's,Others,0,Urban,22,Married,Full-time,5,Own,Apartment,Female,Public transit,64884
+67,Master's,Technology,0,Urban,2,Married,Full-time,6,Rent,Single-family home,Male,Public transit,333366
+64,High School,Others,5,Urban,12,Married,Part-time,2,Own,Single-family home,Male,Public transit,128293
+18,Bachelor's,Healthcare,0,Rural,11,Married,Full-time,3,Rent,Single-family home,Male,Public transit,265433
+54,Master's,Finance,3,Suburban,14,Married,Full-time,1,Own,Single-family home,Male,Biking,74620
+53,High School,Technology,3,Rural,43,Married,Part-time,3,Own,Single-family home,Female,Car,4793192
+70,Bachelor's,Technology,3,Suburban,29,Married,Full-time,5,Own,Single-family home,Male,Public transit,75114
+64,Bachelor's,Technology,3,Urban,31,Married,Part-time,1,Own,Single-family home,Female,Biking,72276
+19,Master's,Education,0,Urban,19,Single,Full-time,4,Rent,Single-family home,Female,Biking,1183366
+19,High School,Others,4,Suburban,23,Married,Part-time,1,Rent,Apartment,Male,Walking,897952
+25,Bachelor's,Technology,2,Urban,9,Married,Part-time,1,Own,Single-family home,Male,Car,73468
+42,Master's,Education,1,Urban,20,Single,Part-time,6,Own,Townhouse,Male,Walking,73970
+68,Master's,Healthcare,0,Urban,10,Single,Part-time,2,Own,Apartment,Female,Public transit,72064
+45,Bachelor's,Others,2,Urban,41,Married,Full-time,7,Own,Apartment,Male,Biking,66772
+22,Master's,Technology,1,Urban,6,Single,Full-time,4,Own,Townhouse,Female,Public transit,71860
+37,Master's,Education,2,Urban,6,Married,Full-time,1,Own,Apartment,Female,Public transit,1692173
+54,Bachelor's,Technology,5,Urban,10,Single,Full-time,3,Own,Apartment,Male,Biking,67804
+63,Master's,Technology,2,Urban,49,Single,Self-employed,4,Rent,Single-family home,Male,Public transit,69368
+38,High School,Education,0,Urban,5,Single,Full-time,3,Own,Townhouse,Male,Car,74670
+38,Bachelor's,Others,5,Urban,33,Divorced,Part-time,6,Own,Single-family home,Male,Biking,69298
+43,Master's,Finance,1,Urban,41,Single,Part-time,3,Own,Apartment,Male,Car,74608
+63,Bachelor's,Healthcare,1,Suburban,20,Single,Part-time,3,Own,Single-family home,Female,Walking,71978
+29,Bachelor's,Others,2,Urban,43,Married,Part-time,6,Own,Apartment,Female,Public transit,65958
+61,Bachelor's,Healthcare,0,Urban,16,Single,Self-employed,1,Own,Single-family home,Female,Biking,75378
+51,Master's,Others,3,Suburban,23,Married,Part-time,4,Own,Apartment,Female,Public transit,510452
+21,Bachelor's,Healthcare,4,Urban,0,Married,Part-time,6,Rent,Apartment,Male,Public transit,75006
+34,Bachelor's,Education,0,Urban,44,Single,Part-time,6,Own,Single-family home,Male,Biking,75456
+36,High School,Education,3,Rural,17,Married,Self-employed,2,Rent,Apartment,Male,Biking,72524
+70,High School,Healthcare,5,Urban,12,Single,Full-time,7,Rent,Apartment,Male,Public transit,67366
+39,High School,Education,2,Rural,29,Single,Self-employed,1,Own,Single-family home,Female,Walking,5710217
+69,High School,Technology,2,Urban,47,Married,Part-time,1,Own,Single-family home,Male,Car,73928
+56,High School,Education,2,Urban,4,Single,Full-time,6,Rent,Apartment,Male,Public transit,45745
+56,Master's,Education,5,Urban,43,Single,Part-time,5,Own,Apartment,Female,Public transit,9011886
+29,High School,Finance,1,Urban,45,Married,Part-time,1,Rent,Single-family home,Female,Car,65084
+29,Doctorate,Others,2,Urban,42,Single,Full-time,2,Own,Townhouse,Male,Biking,67326
+61,Doctorate,Technology,3,Urban,6,Married,Full-time,2,Rent,Apartment,Female,Public transit,73562
+42,Master's,Others,5,Urban,13,Divorced,Full-time,4,Own,Apartment,Male,Car,2368468
+69,Master's,Education,0,Urban,4,Single,Full-time,2,Rent,Townhouse,Female,Public transit,181376
+32,High School,Healthcare,2,Urban,33,Married,Part-time,6,Own,Apartment,Male,Car,71418
+49,Bachelor's,Finance,1,Urban,25,Married,Full-time,6,Rent,Single-family home,Male,Car,71478
+51,Master's,Others,0,Urban,39,Married,Full-time,5,Own,Apartment,Female,Public transit,72824
+35,High School,Finance,1,Urban,20,Divorced,Part-time,5,Own,Apartment,Female,Public transit,68278
+31,High School,Technology,4,Urban,48,Single,Full-time,7,Rent,Apartment,Male,Public transit,465266
+56,High School,Others,1,Urban,30,Married,Full-time,6,Own,Single-family home,Male,Walking,71918
+67,High School,Education,2,Rural,31,Married,Full-time,4,Rent,Single-family home,Male,Car,76459
+19,Bachelor's,Others,2,Urban,32,Single,Part-time,3,Own,Apartment,Female,Public transit,5532664
+30,High School,Technology,0,Rural,43,Married,Full-time,1,Own,Single-family home,Male,Biking,67594
+24,Master's,Technology,3,Urban,36,Married,Full-time,3,Rent,Apartment,Female,Walking,3429094
+60,Master's,Education,1,Urban,39,Single,Full-time,4,Own,Townhouse,Female,Public transit,57194
+65,Bachelor's,Technology,3,Urban,20,Single,Full-time,5,Rent,Townhouse,Male,Car,67456
+34,Bachelor's,Finance,0,Urban,46,Married,Full-time,2,Rent,Townhouse,Female,Public transit,67924
+53,Bachelor's,Others,5,Urban,48,Single,Part-time,6,Own,Townhouse,Female,Public transit,67866
+43,Bachelor's,Healthcare,5,Suburban,32,Single,Part-time,3,Own,Single-family home,Female,Walking,67918
+43,High School,Technology,5,Urban,0,Married,Full-time,2,Rent,Townhouse,Male,Car,69096
+19,Bachelor's,Education,5,Suburban,27,Single,Full-time,5,Rent,Single-family home,Female,Public transit,67705
+49,Bachelor's,Education,0,Urban,33,Married,Self-employed,2,Rent,Townhouse,Female,Car,72920
+66,Master's,Education,5,Suburban,28,Married,Full-time,3,Own,Apartment,Female,Biking,3514780
+22,High School,Finance,3,Urban,32,Married,Self-employed,2,Own,Single-family home,Female,Public transit,113891
+22,Bachelor's,Technology,5,Urban,25,Single,Full-time,4,Own,Single-family home,Female,Public transit,66710
+35,High School,Technology,2,Urban,21,Married,Full-time,5,Rent,Townhouse,Female,Walking,9795312
+43,Master's,Healthcare,3,Urban,9,Single,Self-employed,2,Own,Single-family home,Female,Public transit,71676
+52,Master's,Technology,3,Urban,45,Single,Full-time,7,Rent,Single-family home,Female,Public transit,74054
+64,Bachelor's,Technology,3,Urban,33,Married,Self-employed,1,Own,Apartment,Male,Walking,67490
+24,Bachelor's,Technology,2,Urban,20,Married,Part-time,6,Own,Single-family home,Female,Car,69090
+37,Master's,Education,3,Urban,23,Single,Part-time,1,Own,Townhouse,Male,Walking,67334
+51,Master's,Education,0,Urban,16,Married,Full-time,6,Own,Apartment,Male,Car,70110
+68,Master's,Healthcare,3,Urban,44,Single,Self-employed,2,Rent,Apartment,Male,Biking,72390
+52,High School,Others,4,Urban,37,Married,Self-employed,6,Own,Apartment,Male,Public transit,73638
+38,Bachelor's,Others,3,Urban,43,Single,Self-employed,4,Own,Single-family home,Male,Public transit,70028
+68,Bachelor's,Technology,4,Suburban,21,Married,Self-employed,2,Own,Single-family home,Male,Car,72890
+65,High School,Education,1,Urban,31,Married,Self-employed,7,Own,Apartment,Male,Public transit,72530
+30,High School,Technology,0,Urban,2,Single,Part-time,7,Own,Apartment,Male,Car,146820
+42,Master's,Healthcare,4,Urban,19,Married,Self-employed,7,Rent,Single-family home,Male,Car,5994343
+64,Bachelor's,Finance,2,Urban,10,Married,Full-time,6,Own,Townhouse,Female,Car,66666
+45,Bachelor's,Education,0,Suburban,36,Married,Full-time,7,Own,Single-family home,Female,Car,71060
+19,High School,Technology,0,Urban,43,Married,Full-time,1,Rent,Apartment,Female,Car,3516107
+28,High School,Healthcare,2,Urban,41,Single,Full-time,7,Rent,Townhouse,Male,Public transit,66700
+54,Bachelor's,Others,4,Urban,45,Married,Full-time,5,Rent,Single-family home,Female,Biking,414718
+70,Master's,Healthcare,0,Urban,39,Married,Part-time,7,Rent,Apartment,Male,Public transit,514515
+45,Bachelor's,Healthcare,3,Urban,9,Married,Self-employed,2,Own,Single-family home,Female,Car,68802
+49,Master's,Healthcare,1,Urban,40,Single,Part-time,1,Rent,Apartment,Male,Car,441940
+57,High School,Others,4,Urban,5,Married,Part-time,1,Own,Apartment,Male,Public transit,4511098
+19,Bachelor's,Healthcare,0,Rural,28,Married,Full-time,1,Rent,Townhouse,Male,Car,74052
+39,High School,Healthcare,3,Suburban,23,Single,Full-time,2,Rent,Apartment,Male,Car,68088
+40,Bachelor's,Others,3,Urban,7,Single,Full-time,7,Own,Single-family home,Male,Car,3381177
+24,Bachelor's,Technology,2,Suburban,38,Single,Full-time,7,Own,Single-family home,Female,Public transit,66470
+68,Doctorate,Healthcare,3,Urban,11,Single,Part-time,1,Rent,Single-family home,Male,Biking,9859518
+23,Bachelor's,Finance,4,Rural,30,Married,Part-time,1,Rent,Single-family home,Male,Public transit,1226890
+58,High School,Healthcare,0,Suburban,12,Single,Part-time,2,Rent,Single-family home,Male,Biking,72618
+60,Bachelor's,Technology,1,Urban,26,Married,Part-time,3,Own,Apartment,Male,Walking,66752
+26,High School,Technology,0,Urban,28,Married,Full-time,2,Own,Apartment,Female,Public transit,67632
+64,High School,Technology,4,Urban,8,Single,Full-time,7,Own,Townhouse,Male,Biking,70714
+42,Bachelor's,Finance,4,Rural,0,Married,Self-employed,7,Rent,Single-family home,Female,Walking,67414
+28,High School,Healthcare,2,Urban,31,Single,Part-time,5,Own,Single-family home,Male,Car,68990
+47,Bachelor's,Healthcare,1,Urban,37,Single,Part-time,3,Rent,Townhouse,Female,Car,9584866
+62,High School,Healthcare,1,Urban,29,Married,Full-time,2,Own,Apartment,Male,Public transit,69498
+49,Bachelor's,Education,3,Suburban,36,Married,Full-time,3,Own,Apartment,Male,Public transit,5990903
+46,Bachelor's,Education,5,Urban,41,Married,Part-time,7,Own,Single-family home,Female,Public transit,69052
+32,Master's,Healthcare,1,Urban,45,Married,Full-time,3,Rent,Apartment,Male,Biking,5747416
+59,Master's,Technology,3,Suburban,28,Single,Full-time,7,Rent,Single-family home,Female,Walking,71706
+18,Bachelor's,Finance,3,Urban,38,Married,Full-time,1,Rent,Single-family home,Female,Walking,70440
+29,High School,Others,0,Suburban,3,Married,Part-time,2,Rent,Townhouse,Male,Public transit,7640395
+48,Bachelor's,Technology,3,Suburban,24,Single,Part-time,2,Own,Single-family home,Female,Car,75440
+62,Bachelor's,Healthcare,2,Suburban,39,Single,Full-time,1,Rent,Townhouse,Female,Biking,71140
+26,Doctorate,Healthcare,5,Urban,49,Single,Self-employed,3,Own,Apartment,Female,Car,68838
+56,Master's,Technology,5,Urban,21,Married,Full-time,7,Own,Apartment,Male,Public transit,72510
+57,High School,Technology,3,Urban,33,Married,Full-time,7,Rent,Apartment,Female,Public transit,265125
+47,Bachelor's,Technology,2,Urban,16,Single,Full-time,4,Own,Apartment,Female,Public transit,69132
+20,Bachelor's,Others,1,Urban,29,Single,Full-time,1,Rent,Townhouse,Female,Biking,74584
+29,High School,Finance,0,Rural,3,Single,Full-time,1,Own,Apartment,Female,Biking,41246
+41,Bachelor's,Healthcare,2,Rural,8,Married,Full-time,5,Own,Apartment,Female,Public transit,38764
+47,Bachelor's,Technology,3,Suburban,36,Married,Part-time,1,Own,Townhouse,Male,Biking,72086
+23,Master's,Healthcare,1,Suburban,27,Married,Self-employed,4,Own,Single-family home,Male,Public transit,70928
+42,Bachelor's,Others,5,Urban,6,Single,Full-time,3,Own,Single-family home,Female,Biking,519258
+30,High School,Others,0,Urban,26,Married,Full-time,3,Own,Townhouse,Male,Car,75206
+47,High School,Healthcare,0,Suburban,28,Single,Self-employed,1,Rent,Townhouse,Female,Biking,69838
+62,High School,Others,5,Urban,12,Single,Part-time,3,Own,Apartment,Female,Car,75448
+54,Bachelor's,Finance,1,Urban,10,Married,Full-time,1,Own,Single-family home,Male,Public transit,69104
+63,Bachelor's,Finance,1,Urban,48,Divorced,Full-time,2,Own,Apartment,Male,Biking,49300
+48,Master's,Technology,0,Urban,10,Divorced,Full-time,6,Own,Apartment,Female,Biking,68014
+50,Bachelor's,Technology,5,Rural,41,Married,Full-time,7,Own,Apartment,Female,Public transit,5908245
+51,Master's,Healthcare,3,Urban,16,Single,Full-time,7,Own,Single-family home,Female,Public transit,71192
+34,Bachelor's,Healthcare,4,Rural,39,Single,Full-time,3,Own,Single-family home,Male,Walking,67400
+66,Master's,Technology,1,Urban,36,Single,Full-time,1,Own,Townhouse,Male,Public transit,7433178
+54,Doctorate,Finance,0,Urban,11,Single,Part-time,1,Rent,Apartment,Female,Public transit,64912
+62,Bachelor's,Technology,3,Rural,19,Married,Full-time,7,Rent,Apartment,Female,Car,116058
+70,High School,Technology,0,Urban,50,Married,Full-time,7,Rent,Single-family home,Female,Car,72054
+18,Bachelor's,Finance,4,Urban,12,Married,Part-time,4,Own,Single-family home,Male,Biking,73636
+45,Master's,Others,4,Urban,41,Married,Full-time,6,Rent,Single-family home,Female,Car,948392
+26,Master's,Healthcare,5,Urban,49,Single,Part-time,2,Rent,Apartment,Male,Public transit,82154
+37,Bachelor's,Education,5,Rural,24,Divorced,Full-time,7,Own,Townhouse,Male,Walking,1667638
+28,Bachelor's,Others,5,Urban,18,Married,Part-time,2,Own,Apartment,Female,Biking,141273
+67,High School,Healthcare,5,Urban,32,Married,Part-time,2,Own,Apartment,Female,Biking,2053628
+38,Bachelor's,Healthcare,5,Urban,21,Married,Self-employed,2,Rent,Single-family home,Female,Biking,1395972
+57,High School,Finance,0,Rural,4,Married,Self-employed,3,Rent,Townhouse,Male,Public transit,7536670
+38,High School,Others,1,Urban,9,Married,Full-time,3,Rent,Townhouse,Female,Walking,65456
+47,Master's,Healthcare,4,Urban,1,Single,Part-time,6,Own,Single-family home,Male,Walking,38700
+37,Bachelor's,Finance,5,Urban,33,Married,Self-employed,6,Own,Townhouse,Male,Public transit,67716
+54,Master's,Healthcare,1,Urban,12,Married,Part-time,7,Rent,Single-family home,Male,Public transit,206506
+45,Bachelor's,Others,3,Suburban,50,Divorced,Part-time,5,Rent,Single-family home,Female,Walking,98860
+64,High School,Others,2,Urban,21,Single,Self-employed,3,Own,Townhouse,Male,Public transit,67358
+46,Bachelor's,Finance,1,Suburban,50,Married,Self-employed,2,Rent,Apartment,Male,Biking,75458
+33,Bachelor's,Others,5,Urban,29,Single,Full-time,5,Own,Single-family home,Female,Walking,65152
+41,Bachelor's,Technology,3,Urban,22,Married,Part-time,7,Own,Apartment,Female,Car,71166
+26,Doctorate,Healthcare,5,Rural,33,Single,Full-time,4,Rent,Single-family home,Female,Public transit,74986
+38,Doctorate,Healthcare,2,Urban,30,Married,Part-time,5,Rent,Apartment,Male,Biking,73682
+41,Master's,Finance,3,Urban,20,Married,Full-time,7,Rent,Single-family home,Female,Car,70598
+61,High School,Finance,4,Urban,7,Single,Full-time,7,Own,Single-family home,Male,Walking,65742
+33,High School,Technology,3,Suburban,47,Married,Full-time,2,Own,Apartment,Female,Car,73576
+50,High School,Healthcare,5,Urban,9,Single,Self-employed,3,Own,Apartment,Female,Biking,1664859
+51,High School,Healthcare,5,Rural,0,Married,Part-time,7,Own,Single-family home,Male,Public transit,65114
+45,High School,Education,4,Urban,42,Single,Self-employed,7,Own,Apartment,Female,Car,72618
+54,Bachelor's,Others,1,Urban,12,Single,Full-time,6,Own,Townhouse,Female,Car,66296
+63,High School,Others,2,Urban,42,Single,Full-time,7,Rent,Townhouse,Male,Car,2998435
+30,Bachelor's,Healthcare,3,Suburban,14,Married,Full-time,5,Rent,Single-family home,Male,Public transit,180083
+59,Bachelor's,Others,5,Suburban,27,Married,Part-time,7,Rent,Townhouse,Male,Public transit,68344
+54,High School,Technology,5,Rural,39,Single,Full-time,7,Own,Apartment,Male,Car,1411985
+52,High School,Finance,5,Urban,36,Divorced,Full-time,1,Rent,Apartment,Male,Public transit,591121
+50,Bachelor's,Education,5,Urban,6,Single,Full-time,4,Rent,Apartment,Male,Walking,243355
+32,Master's,Healthcare,3,Urban,17,Married,Part-time,1,Rent,Townhouse,Male,Car,590115
+45,Doctorate,Finance,1,Urban,2,Married,Full-time,5,Own,Apartment,Male,Biking,140257
+23,Bachelor's,Others,0,Urban,17,Divorced,Part-time,2,Own,Single-family home,Male,Public transit,67182
+20,Master's,Healthcare,5,Urban,22,Single,Self-employed,6,Rent,Apartment,Female,Public transit,566601
+29,High School,Healthcare,5,Urban,8,Married,Full-time,4,Own,Townhouse,Male,Public transit,69284
+47,Bachelor's,Healthcare,1,Suburban,8,Married,Full-time,5,Own,Single-family home,Male,Public transit,74600
+54,High School,Healthcare,2,Suburban,36,Single,Full-time,5,Rent,Single-family home,Female,Public transit,1468838
+18,Bachelor's,Technology,3,Urban,46,Single,Full-time,2,Own,Apartment,Female,Biking,68782
+38,Master's,Finance,4,Urban,22,Single,Self-employed,3,Own,Single-family home,Male,Car,815891
+32,High School,Education,3,Urban,22,Married,Full-time,6,Own,Single-family home,Male,Car,68070
+41,Master's,Technology,5,Urban,35,Divorced,Full-time,7,Own,Single-family home,Female,Public transit,68604
+49,High School,Technology,0,Urban,18,Married,Part-time,4,Own,Single-family home,Female,Biking,71714
+24,Bachelor's,Others,4,Urban,20,Married,Full-time,6,Own,Apartment,Male,Biking,4034133
+46,Bachelor's,Healthcare,3,Urban,19,Single,Full-time,5,Own,Single-family home,Male,Biking,66778
+28,High School,Healthcare,0,Rural,5,Single,Full-time,2,Rent,Single-family home,Female,Public transit,70372
+22,High School,Others,4,Urban,35,Married,Full-time,4,Rent,Single-family home,Female,Public transit,57087
+53,Master's,Technology,5,Urban,41,Divorced,Full-time,4,Own,Single-family home,Female,Public transit,66808
+53,Bachelor's,Education,5,Urban,48,Single,Full-time,3,Own,Single-family home,Female,Biking,66082
+34,Bachelor's,Healthcare,5,Urban,28,Divorced,Self-employed,7,Own,Single-family home,Female,Biking,72762
+45,Bachelor's,Technology,5,Suburban,11,Married,Part-time,4,Rent,Apartment,Male,Public transit,72922
+42,Bachelor's,Healthcare,1,Urban,47,Married,Self-employed,5,Own,Single-family home,Male,Biking,433989
+67,High School,Finance,1,Urban,24,Married,Full-time,4,Rent,Single-family home,Male,Car,73890
+49,High School,Finance,1,Urban,33,Single,Part-time,2,Rent,Apartment,Female,Car,532462
+70,High School,Finance,2,Urban,39,Single,Full-time,6,Own,Apartment,Female,Walking,74184
+36,Bachelor's,Healthcare,5,Urban,32,Single,Part-time,3,Rent,Townhouse,Female,Car,535706
+51,Bachelor's,Education,4,Urban,8,Married,Full-time,2,Own,Townhouse,Male,Car,71214
+29,High School,Healthcare,1,Urban,3,Divorced,Full-time,4,Own,Single-family home,Male,Car,3287563
+51,Bachelor's,Education,5,Rural,48,Single,Self-employed,1,Own,Apartment,Male,Public transit,1974587
+31,Bachelor's,Healthcare,5,Urban,1,Married,Part-time,1,Own,Single-family home,Male,Public transit,70788
+59,Bachelor's,Healthcare,0,Urban,49,Single,Part-time,4,Own,Single-family home,Female,Biking,70196
+36,Master's,Finance,4,Suburban,45,Married,Full-time,2,Own,Apartment,Female,Public transit,69636
+57,Master's,Healthcare,3,Urban,47,Single,Full-time,7,Own,Townhouse,Female,Public transit,199203
+33,Bachelor's,Others,1,Urban,50,Single,Full-time,5,Rent,Single-family home,Female,Car,4960168
+25,Bachelor's,Technology,3,Rural,41,Married,Self-employed,2,Own,Single-family home,Female,Biking,66218
+59,Master's,Healthcare,0,Urban,1,Married,Part-time,1,Own,Single-family home,Female,Walking,917587
+39,Bachelor's,Others,4,Urban,37,Single,Self-employed,4,Rent,Apartment,Female,Public transit,184656
+37,Bachelor's,Technology,1,Urban,11,Married,Self-employed,7,Rent,Single-family home,Female,Car,65528
+26,Doctorate,Education,4,Suburban,35,Single,Part-time,2,Own,Apartment,Male,Public transit,69374
+59,Bachelor's,Healthcare,5,Urban,19,Single,Full-time,4,Rent,Apartment,Female,Biking,67706
+56,Master's,Finance,3,Urban,25,Single,Full-time,1,Own,Apartment,Female,Car,67570
+49,High School,Finance,5,Suburban,42,Single,Full-time,7,Own,Apartment,Female,Walking,69582
+43,High School,Others,3,Urban,38,Married,Full-time,2,Own,Apartment,Male,Walking,70156
+24,Doctorate,Healthcare,5,Urban,27,Married,Part-time,4,Rent,Single-family home,Female,Biking,70160
+64,High School,Others,4,Urban,48,Married,Part-time,5,Rent,Apartment,Male,Biking,74950
+60,Bachelor's,Education,4,Suburban,17,Married,Part-time,7,Own,Townhouse,Male,Car,3761922
+56,Master's,Others,1,Suburban,13,Single,Full-time,1,Own,Apartment,Male,Public transit,6334239
+28,Master's,Technology,3,Urban,18,Married,Full-time,2,Own,Townhouse,Female,Biking,37268
+34,High School,Finance,0,Urban,44,Single,Full-time,7,Rent,Apartment,Female,Public transit,70468
+48,High School,Healthcare,1,Suburban,39,Single,Full-time,1,Own,Apartment,Female,Car,66740
+37,High School,Finance,5,Urban,0,Married,Self-employed,3,Own,Apartment,Female,Biking,71140
+58,Master's,Healthcare,4,Suburban,39,Married,Full-time,2,Own,Townhouse,Female,Biking,65854
+25,Master's,Education,1,Urban,50,Married,Full-time,1,Rent,Single-family home,Female,Walking,68826
+47,High School,Technology,4,Urban,33,Married,Self-employed,3,Rent,Townhouse,Male,Public transit,69266
+60,Master's,Education,0,Urban,12,Single,Full-time,7,Rent,Single-family home,Male,Car,446360
+48,Bachelor's,Finance,3,Urban,47,Married,Part-time,4,Own,Apartment,Female,Biking,75042
+70,High School,Healthcare,4,Suburban,22,Married,Part-time,1,Own,Single-family home,Male,Walking,1277738
+63,Master's,Education,4,Urban,43,Single,Full-time,2,Own,Apartment,Female,Public transit,74624
+35,Bachelor's,Healthcare,1,Urban,11,Married,Full-time,1,Own,Apartment,Male,Public transit,65544
+38,Bachelor's,Others,4,Urban,31,Married,Part-time,2,Own,Townhouse,Male,Public transit,69354
+55,High School,Healthcare,2,Urban,4,Married,Full-time,3,Rent,Apartment,Male,Car,243122
+67,Master's,Healthcare,4,Urban,34,Married,Full-time,2,Rent,Single-family home,Male,Car,3781994
+47,High School,Others,5,Urban,46,Married,Full-time,3,Rent,Single-family home,Female,Car,105044
+33,Bachelor's,Others,2,Urban,24,Single,Full-time,7,Own,Single-family home,Female,Biking,69972
+46,Master's,Healthcare,3,Urban,37,Single,Full-time,7,Rent,Apartment,Male,Biking,752280
+34,Master's,Others,5,Urban,26,Married,Full-time,1,Own,Apartment,Female,Walking,69040
+41,Master's,Healthcare,1,Urban,37,Married,Part-time,5,Own,Apartment,Male,Car,69826
+37,Bachelor's,Technology,3,Urban,9,Single,Self-employed,6,Own,Single-family home,Male,Public transit,64884
+59,Master's,Education,3,Rural,38,Married,Part-time,6,Rent,Apartment,Male,Biking,66324
+63,Bachelor's,Healthcare,0,Urban,10,Single,Full-time,4,Own,Single-family home,Female,Biking,68392
+46,High School,Others,4,Rural,33,Single,Full-time,2,Own,Townhouse,Male,Car,2238203
+60,High School,Healthcare,2,Urban,37,Married,Part-time,2,Rent,Townhouse,Female,Car,1126188
+55,Bachelor's,Technology,0,Urban,43,Married,Part-time,2,Own,Townhouse,Male,Biking,107067
+29,Master's,Finance,3,Urban,13,Single,Full-time,2,Own,Townhouse,Female,Car,131230
+52,Bachelor's,Technology,5,Urban,5,Married,Self-employed,3,Rent,Apartment,Male,Public transit,72568
+32,Bachelor's,Finance,2,Urban,41,Single,Part-time,2,Rent,Apartment,Male,Car,1171298
+65,High School,Technology,1,Rural,50,Single,Part-time,3,Rent,Townhouse,Male,Public transit,72390
+33,Bachelor's,Technology,4,Urban,36,Married,Part-time,3,Own,Single-family home,Male,Biking,71070
+27,Bachelor's,Education,3,Urban,19,Married,Full-time,5,Rent,Apartment,Male,Public transit,66014
+29,Master's,Finance,4,Urban,32,Married,Full-time,7,Own,Apartment,Male,Public transit,68704
+33,Master's,Healthcare,1,Urban,17,Single,Full-time,3,Own,Single-family home,Male,Public transit,72530
+32,Bachelor's,Healthcare,0,Urban,39,Married,Full-time,7,Own,Apartment,Male,Biking,67614
+32,High School,Healthcare,4,Urban,2,Married,Full-time,7,Own,Townhouse,Male,Car,832347
+56,Doctorate,Finance,2,Urban,41,Single,Full-time,4,Rent,Townhouse,Female,Public transit,4324067
+65,Bachelor's,Technology,3,Urban,31,Divorced,Full-time,5,Own,Apartment,Female,Public transit,71122
+22,Bachelor's,Technology,3,Urban,18,Single,Full-time,1,Own,Townhouse,Female,Public transit,70158
+26,High School,Education,3,Urban,37,Married,Part-time,4,Own,Apartment,Male,Walking,1253718
+38,Bachelor's,Healthcare,4,Suburban,9,Single,Full-time,3,Own,Apartment,Female,Car,446952
+28,High School,Finance,5,Urban,43,Married,Full-time,4,Own,Single-family home,Female,Car,71440
+25,Doctorate,Healthcare,0,Urban,22,Single,Part-time,5,Own,Single-family home,Male,Car,582903
+66,High School,Technology,3,Urban,16,Married,Full-time,2,Own,Single-family home,Female,Walking,68698
+42,High School,Others,1,Urban,13,Single,Full-time,7,Rent,Apartment,Male,Walking,68596
+26,Bachelor's,Technology,3,Urban,29,Married,Part-time,7,Rent,Townhouse,Male,Car,5350468
+49,Bachelor's,Finance,1,Suburban,8,Married,Self-employed,3,Own,Single-family home,Female,Biking,71212
+46,Master's,Technology,2,Urban,34,Single,Part-time,4,Own,Single-family home,Male,Public transit,72204
+68,Doctorate,Technology,4,Urban,13,Married,Self-employed,7,Own,Single-family home,Male,Car,73138
+64,Bachelor's,Finance,1,Suburban,45,Married,Full-time,5,Rent,Single-family home,Male,Car,74762
+38,High School,Technology,5,Rural,6,Single,Self-employed,7,Own,Single-family home,Male,Public transit,278003
+29,Master's,Others,2,Urban,47,Married,Part-time,4,Rent,Single-family home,Female,Car,402736
+44,Master's,Education,4,Suburban,44,Married,Full-time,4,Own,Apartment,Female,Public transit,70518
+20,Master's,Education,1,Urban,43,Married,Full-time,3,Rent,Apartment,Male,Public transit,876480
+41,Master's,Technology,4,Urban,28,Married,Self-employed,4,Rent,Single-family home,Male,Biking,66380
+57,Master's,Healthcare,3,Urban,18,Married,Part-time,2,Own,Townhouse,Female,Car,74616
+53,Bachelor's,Technology,3,Urban,44,Married,Part-time,7,Rent,Apartment,Female,Biking,201683
+23,Bachelor's,Healthcare,3,Urban,28,Married,Self-employed,1,Own,Townhouse,Male,Public transit,58553
+30,Master's,Healthcare,2,Urban,16,Married,Full-time,4,Own,Single-family home,Female,Public transit,73536
+58,Bachelor's,Healthcare,4,Rural,36,Divorced,Full-time,3,Rent,Townhouse,Male,Car,5931345
+18,Master's,Education,3,Urban,3,Married,Part-time,6,Rent,Apartment,Male,Car,36863
+54,Master's,Technology,1,Urban,18,Married,Full-time,1,Rent,Townhouse,Male,Public transit,66912
+35,High School,Healthcare,4,Urban,18,Divorced,Part-time,3,Own,Single-family home,Female,Car,3799080
+41,Master's,Healthcare,4,Rural,39,Single,Full-time,3,Own,Single-family home,Female,Walking,65260
+38,Bachelor's,Healthcare,5,Suburban,47,Married,Full-time,5,Own,Single-family home,Female,Car,65634
+57,High School,Others,2,Urban,5,Divorced,Full-time,7,Rent,Single-family home,Male,Car,6758509
+55,Bachelor's,Education,5,Suburban,40,Married,Full-time,7,Own,Apartment,Female,Car,3407100
+35,Bachelor's,Others,5,Urban,1,Married,Full-time,7,Own,Apartment,Male,Car,579302
+56,Bachelor's,Technology,4,Urban,2,Married,Self-employed,3,Own,Townhouse,Male,Car,65136
+18,Doctorate,Healthcare,3,Urban,9,Married,Full-time,3,Own,Apartment,Female,Public transit,71036
+38,Bachelor's,Others,1,Urban,4,Single,Part-time,5,Own,Townhouse,Male,Public transit,3564037
+60,High School,Healthcare,1,Urban,39,Married,Full-time,3,Rent,Single-family home,Male,Biking,3756125
+32,Bachelor's,Healthcare,1,Urban,1,Single,Self-employed,1,Rent,Single-family home,Female,Walking,65636
+43,High School,Finance,0,Suburban,44,Divorced,Full-time,3,Rent,Townhouse,Female,Car,70380
+30,High School,Healthcare,4,Urban,43,Married,Part-time,2,Rent,Single-family home,Male,Public transit,70316
+67,Bachelor's,Technology,0,Urban,42,Married,Self-employed,1,Own,Apartment,Male,Public transit,121305
+20,Bachelor's,Technology,3,Urban,15,Married,Full-time,3,Own,Apartment,Male,Car,66398
+35,High School,Education,3,Urban,12,Single,Self-employed,6,Own,Single-family home,Female,Public transit,71818
+60,High School,Technology,1,Urban,5,Single,Part-time,6,Own,Single-family home,Female,Biking,7231774
+20,Bachelor's,Education,0,Rural,26,Single,Self-employed,3,Own,Apartment,Male,Car,5390982
+56,Master's,Healthcare,2,Suburban,16,Married,Full-time,3,Rent,Single-family home,Female,Biking,1635819
+37,High School,Healthcare,0,Urban,45,Divorced,Part-time,3,Own,Apartment,Female,Public transit,68038
+52,Bachelor's,Technology,5,Urban,6,Divorced,Part-time,3,Own,Apartment,Female,Biking,237608
+27,Master's,Finance,2,Urban,30,Single,Self-employed,6,Rent,Townhouse,Female,Car,71944
+45,Master's,Finance,3,Urban,49,Divorced,Self-employed,4,Own,Single-family home,Male,Biking,74170
+22,High School,Finance,3,Urban,46,Married,Part-time,2,Rent,Single-family home,Female,Public transit,3073196
+69,High School,Finance,5,Rural,43,Single,Self-employed,4,Own,Apartment,Male,Biking,74400
+52,High School,Others,5,Urban,6,Single,Part-time,4,Own,Single-family home,Female,Car,68346
+49,Bachelor's,Finance,2,Urban,49,Single,Part-time,1,Own,Townhouse,Female,Public transit,386360
+60,Bachelor's,Education,3,Suburban,35,Single,Part-time,4,Own,Single-family home,Male,Walking,4671851
+19,Bachelor's,Finance,3,Suburban,33,Married,Full-time,6,Own,Apartment,Male,Car,65910
+26,Bachelor's,Healthcare,5,Urban,45,Married,Part-time,7,Own,Apartment,Female,Walking,66506
+27,Bachelor's,Others,1,Urban,31,Single,Full-time,2,Rent,Apartment,Male,Public transit,126324
+28,Bachelor's,Education,5,Urban,29,Single,Part-time,6,Own,Apartment,Female,Biking,811885
+19,Bachelor's,Technology,4,Urban,46,Single,Full-time,7,Rent,Single-family home,Male,Biking,74122
+50,Bachelor's,Healthcare,3,Urban,18,Single,Part-time,4,Own,Apartment,Female,Public transit,3031944
+70,High School,Technology,4,Urban,29,Married,Part-time,5,Rent,Single-family home,Female,Car,113686
+30,High School,Finance,4,Urban,47,Divorced,Full-time,7,Own,Single-family home,Male,Public transit,73848
+52,Master's,Technology,1,Urban,42,Married,Full-time,2,Own,Single-family home,Male,Biking,567320
+52,Bachelor's,Technology,0,Urban,34,Divorced,Full-time,5,Own,Single-family home,Male,Public transit,47314
+44,Master's,Healthcare,0,Urban,34,Married,Full-time,5,Own,Single-family home,Female,Car,72598
+48,Bachelor's,Healthcare,4,Urban,29,Married,Part-time,2,Rent,Single-family home,Male,Car,79533
+19,High School,Technology,0,Urban,16,Single,Self-employed,7,Rent,Single-family home,Male,Biking,69554
+21,Bachelor's,Others,4,Urban,6,Single,Full-time,6,Own,Townhouse,Male,Car,7600539
+34,High School,Education,0,Urban,7,Divorced,Full-time,6,Own,Apartment,Female,Public transit,717209
+26,Bachelor's,Technology,1,Suburban,36,Married,Self-employed,7,Rent,Single-family home,Male,Public transit,70802
+69,Master's,Technology,3,Suburban,39,Married,Part-time,6,Rent,Single-family home,Male,Car,5794992
+18,Master's,Healthcare,5,Urban,4,Divorced,Full-time,6,Own,Townhouse,Male,Public transit,71614
+52,Master's,Healthcare,1,Suburban,41,Married,Self-employed,3,Rent,Apartment,Male,Public transit,69144
+35,Master's,Finance,3,Urban,35,Single,Full-time,3,Rent,Townhouse,Male,Car,65418
+62,Bachelor's,Technology,3,Urban,42,Single,Full-time,7,Rent,Single-family home,Male,Biking,65196
+28,Master's,Technology,1,Rural,17,Divorced,Self-employed,7,Own,Townhouse,Male,Public transit,67472
+47,Bachelor's,Finance,2,Suburban,39,Single,Full-time,1,Own,Single-family home,Female,Car,65642
+33,High School,Healthcare,0,Suburban,22,Divorced,Full-time,3,Rent,Single-family home,Male,Public transit,1068169
+56,Bachelor's,Healthcare,4,Suburban,4,Married,Part-time,4,Own,Single-family home,Female,Biking,40801
+67,Bachelor's,Education,0,Urban,24,Married,Part-time,7,Own,Townhouse,Male,Public transit,67520
+22,High School,Technology,4,Suburban,8,Single,Part-time,4,Rent,Single-family home,Female,Car,67378
+58,Master's,Education,1,Urban,3,Single,Full-time,1,Rent,Single-family home,Female,Car,72944
+45,High School,Technology,1,Urban,18,Married,Full-time,1,Own,Single-family home,Male,Car,68752
+39,Bachelor's,Technology,0,Urban,45,Single,Part-time,3,Rent,Apartment,Male,Car,1096032
+23,Bachelor's,Healthcare,3,Urban,42,Divorced,Part-time,5,Own,Apartment,Female,Walking,71982
+62,High School,Technology,3,Suburban,39,Divorced,Full-time,7,Own,Single-family home,Female,Car,67244
+61,Master's,Education,5,Urban,50,Married,Part-time,3,Own,Apartment,Female,Car,66950
+25,Bachelor's,Finance,1,Urban,48,Single,Full-time,7,Own,Apartment,Male,Biking,58367
+63,Doctorate,Others,4,Urban,19,Single,Part-time,7,Own,Single-family home,Male,Car,67068
+25,Bachelor's,Healthcare,0,Rural,18,Divorced,Full-time,6,Own,Apartment,Female,Public transit,1355958
+70,High School,Healthcare,0,Urban,36,Married,Part-time,6,Rent,Apartment,Male,Public transit,45157
+28,Master's,Education,2,Urban,9,Married,Full-time,2,Own,Single-family home,Male,Biking,74634
+20,Bachelor's,Others,4,Urban,1,Single,Full-time,2,Own,Townhouse,Male,Car,36817
+63,Master's,Healthcare,2,Urban,12,Single,Full-time,5,Own,Apartment,Male,Car,75180
+68,High School,Education,1,Suburban,19,Married,Self-employed,3,Own,Single-family home,Female,Car,74630
+18,Bachelor's,Healthcare,1,Urban,45,Single,Full-time,6,Own,Single-family home,Female,Car,73388
+34,Bachelor's,Technology,4,Urban,16,Married,Part-time,1,Own,Townhouse,Male,Biking,71352
+24,Bachelor's,Healthcare,0,Urban,10,Married,Part-time,7,Own,Townhouse,Female,Public transit,70564
+31,Master's,Healthcare,3,Urban,45,Married,Part-time,2,Rent,Apartment,Male,Public transit,136515
+48,Bachelor's,Healthcare,5,Urban,29,Single,Full-time,3,Own,Single-family home,Female,Public transit,72118
+62,High School,Others,3,Urban,47,Single,Full-time,7,Rent,Single-family home,Male,Biking,239392
+64,Master's,Finance,0,Rural,43,Single,Full-time,6,Rent,Apartment,Male,Car,75298
+26,Bachelor's,Technology,2,Urban,36,Married,Self-employed,3,Rent,Apartment,Male,Walking,67758
+35,High School,Education,4,Urban,2,Married,Full-time,4,Own,Townhouse,Female,Public transit,93558
+20,Bachelor's,Technology,2,Urban,6,Single,Part-time,2,Rent,Single-family home,Male,Public transit,73566
+37,Master's,Finance,1,Urban,26,Married,Part-time,1,Rent,Apartment,Female,Biking,3519677
+33,Bachelor's,Healthcare,2,Suburban,0,Single,Self-employed,2,Rent,Apartment,Male,Public transit,74782
+53,Master's,Education,0,Urban,5,Single,Part-time,4,Rent,Single-family home,Male,Public transit,71876
+56,Master's,Technology,4,Urban,5,Single,Full-time,3,Rent,Apartment,Male,Public transit,73052
+56,Bachelor's,Finance,4,Urban,4,Married,Part-time,1,Own,Apartment,Male,Biking,483848
+54,High School,Healthcare,3,Suburban,4,Married,Full-time,3,Own,Single-family home,Female,Public transit,81815
+26,Bachelor's,Technology,3,Urban,29,Married,Full-time,7,Rent,Apartment,Female,Car,566659
+31,Doctorate,Technology,2,Urban,17,Married,Part-time,4,Own,Apartment,Female,Biking,70490
+35,Bachelor's,Healthcare,0,Urban,2,Married,Full-time,6,Rent,Townhouse,Male,Public transit,124645
+54,Master's,Others,5,Urban,14,Single,Full-time,6,Own,Single-family home,Female,Walking,66168
+48,Bachelor's,Finance,0,Urban,24,Married,Full-time,5,Own,Single-family home,Male,Biking,161568
+52,High School,Education,0,Suburban,12,Single,Full-time,3,Own,Townhouse,Female,Car,72956
+23,Bachelor's,Healthcare,4,Urban,9,Single,Full-time,1,Rent,Townhouse,Male,Public transit,78426
+23,Master's,Education,0,Urban,16,Married,Self-employed,1,Rent,Single-family home,Female,Public transit,6771412
+34,Master's,Education,5,Urban,40,Single,Full-time,4,Rent,Single-family home,Male,Biking,652324
+65,Bachelor's,Others,3,Urban,44,Single,Part-time,6,Own,Apartment,Female,Public transit,7325673
+62,Bachelor's,Technology,4,Urban,15,Divorced,Full-time,4,Own,Single-family home,Female,Car,65770
+33,High School,Technology,5,Urban,2,Divorced,Full-time,2,Own,Apartment,Male,Public transit,66870
+22,Master's,Others,1,Urban,13,Married,Full-time,3,Own,Single-family home,Female,Public transit,67998
+28,Bachelor's,Others,3,Urban,22,Married,Full-time,6,Own,Apartment,Female,Car,9504771
+28,High School,Others,3,Urban,35,Single,Part-time,5,Own,Townhouse,Female,Public transit,74568
+55,High School,Healthcare,4,Urban,15,Married,Part-time,7,Rent,Single-family home,Male,Walking,73506
+65,High School,Finance,3,Urban,40,Single,Part-time,5,Own,Townhouse,Male,Car,75196
+66,Bachelor's,Healthcare,5,Urban,35,Single,Full-time,6,Own,Single-family home,Male,Walking,65026
+63,Master's,Finance,0,Urban,1,Married,Part-time,1,Rent,Apartment,Female,Biking,75450
+56,Bachelor's,Technology,1,Urban,20,Single,Full-time,4,Own,Townhouse,Female,Car,116758
+46,High School,Others,3,Urban,8,Single,Full-time,4,Rent,Apartment,Female,Public transit,269763
+23,Master's,Healthcare,0,Urban,25,Single,Part-time,7,Own,Single-family home,Male,Biking,67846
+48,Bachelor's,Healthcare,3,Suburban,15,Divorced,Self-employed,7,Own,Apartment,Female,Car,74264
+66,Bachelor's,Healthcare,0,Urban,44,Married,Full-time,4,Own,Townhouse,Male,Car,483534
+60,High School,Finance,1,Urban,13,Single,Part-time,5,Own,Townhouse,Male,Public transit,72460
+49,High School,Technology,5,Urban,42,Married,Full-time,7,Rent,Apartment,Male,Walking,256012
+28,Bachelor's,Finance,2,Suburban,16,Married,Part-time,4,Rent,Single-family home,Male,Biking,1111378
+45,Bachelor's,Others,1,Urban,1,Single,Part-time,3,Rent,Single-family home,Female,Public transit,50966
+60,High School,Technology,0,Suburban,23,Single,Full-time,1,Rent,Single-family home,Male,Public transit,6901054
+18,Bachelor's,Healthcare,2,Urban,18,Single,Full-time,4,Rent,Single-family home,Male,Walking,570016
+53,High School,Healthcare,4,Urban,12,Married,Full-time,1,Rent,Single-family home,Male,Walking,68642
+30,Bachelor's,Technology,1,Suburban,40,Married,Part-time,5,Own,Townhouse,Male,Public transit,72646
+64,Bachelor's,Healthcare,5,Urban,21,Married,Self-employed,5,Rent,Single-family home,Female,Walking,1314361
+42,Bachelor's,Technology,2,Urban,20,Single,Part-time,5,Own,Townhouse,Male,Biking,75096
+63,Bachelor's,Finance,5,Urban,3,Married,Full-time,7,Rent,Apartment,Female,Public transit,68174
+68,High School,Finance,4,Urban,50,Married,Full-time,6,Rent,Townhouse,Male,Car,66476
+49,Master's,Technology,1,Urban,8,Married,Full-time,7,Rent,Townhouse,Male,Car,72568
+41,Master's,Technology,5,Suburban,14,Divorced,Full-time,2,Own,Townhouse,Female,Car,68830
+66,Bachelor's,Others,3,Urban,41,Single,Self-employed,5,Own,Single-family home,Female,Biking,66822
+47,Master's,Others,3,Urban,8,Married,Full-time,3,Own,Apartment,Female,Public transit,1677649
+27,Master's,Finance,4,Urban,47,Divorced,Part-time,5,Rent,Single-family home,Female,Public transit,72382
+31,Bachelor's,Technology,4,Suburban,30,Married,Part-time,4,Rent,Apartment,Female,Public transit,59294
+25,Bachelor's,Technology,5,Urban,13,Married,Part-time,4,Own,Apartment,Female,Biking,3550214
+40,High School,Healthcare,1,Urban,20,Married,Full-time,7,Own,Townhouse,Female,Biking,66666
+20,Master's,Education,2,Urban,31,Divorced,Full-time,4,Rent,Single-family home,Female,Public transit,1063873
+18,Master's,Technology,4,Urban,25,Single,Part-time,3,Own,Townhouse,Female,Biking,74072
+62,Bachelor's,Others,1,Urban,37,Married,Self-employed,2,Rent,Single-family home,Female,Public transit,69364
+50,Master's,Technology,2,Urban,35,Married,Self-employed,6,Own,Single-family home,Female,Public transit,1719309
+27,High School,Technology,0,Urban,9,Married,Part-time,2,Rent,Single-family home,Female,Public transit,36414
+41,Master's,Healthcare,4,Urban,8,Married,Full-time,2,Own,Townhouse,Female,Public transit,65736
+29,Doctorate,Others,3,Urban,6,Divorced,Full-time,1,Own,Townhouse,Male,Public transit,74948
+59,Bachelor's,Education,2,Urban,17,Married,Full-time,6,Rent,Apartment,Male,Car,68196
+36,Bachelor's,Others,2,Urban,12,Married,Part-time,3,Own,Townhouse,Female,Car,69208
+43,Bachelor's,Technology,5,Urban,17,Single,Full-time,4,Rent,Single-family home,Female,Walking,472998
+55,Master's,Education,4,Urban,35,Single,Part-time,1,Own,Single-family home,Female,Public transit,74706
+23,Bachelor's,Healthcare,0,Urban,27,Single,Full-time,5,Own,Townhouse,Female,Car,42534
+55,High School,Others,5,Urban,3,Single,Part-time,1,Own,Single-family home,Male,Car,67942
+61,High School,Technology,1,Urban,4,Single,Full-time,3,Own,Single-family home,Male,Car,67710
+21,Bachelor's,Education,4,Urban,29,Married,Part-time,4,Own,Apartment,Female,Car,1248886
+42,Doctorate,Others,3,Suburban,10,Divorced,Full-time,6,Own,Townhouse,Male,Car,73122
+32,Master's,Healthcare,0,Rural,11,Single,Part-time,6,Own,Apartment,Male,Public transit,181232
+39,Bachelor's,Technology,2,Urban,39,Married,Self-employed,3,Rent,Townhouse,Female,Public transit,66196
+36,Bachelor's,Finance,2,Urban,0,Divorced,Part-time,3,Own,Single-family home,Female,Car,65638
+35,High School,Technology,1,Urban,32,Married,Full-time,4,Rent,Single-family home,Male,Biking,71670
+18,Bachelor's,Healthcare,0,Suburban,5,Married,Full-time,3,Own,Single-family home,Male,Biking,71884
+46,Bachelor's,Technology,4,Urban,47,Divorced,Part-time,4,Own,Apartment,Male,Public transit,68850
+24,Bachelor's,Healthcare,2,Urban,24,Married,Full-time,5,Own,Single-family home,Female,Biking,72162
+35,Master's,Technology,4,Urban,12,Single,Full-time,4,Rent,Single-family home,Female,Public transit,1336091
+60,High School,Healthcare,1,Rural,7,Married,Self-employed,5,Own,Apartment,Female,Biking,180227
+69,High School,Others,0,Urban,28,Married,Self-employed,7,Rent,Single-family home,Female,Public transit,2969186
+45,Doctorate,Technology,4,Urban,8,Married,Part-time,3,Rent,Townhouse,Male,Public transit,73356
+34,High School,Education,4,Suburban,40,Single,Full-time,6,Own,Single-family home,Female,Biking,71282
+49,High School,Technology,4,Urban,47,Married,Part-time,5,Own,Apartment,Female,Biking,68608
+40,High School,Technology,3,Urban,33,Single,Part-time,5,Own,Townhouse,Female,Biking,67402
+69,Bachelor's,Technology,2,Urban,2,Single,Part-time,2,Own,Single-family home,Female,Car,1065813
+61,Bachelor's,Healthcare,4,Urban,22,Married,Part-time,4,Own,Single-family home,Male,Car,74374
+30,Bachelor's,Education,4,Urban,12,Single,Full-time,1,Own,Single-family home,Female,Car,7373889
+68,High School,Others,0,Rural,49,Single,Full-time,7,Own,Townhouse,Female,Public transit,73748
+63,Bachelor's,Others,2,Urban,24,Single,Full-time,7,Own,Apartment,Female,Biking,67296
+21,Bachelor's,Education,4,Urban,13,Married,Part-time,1,Own,Single-family home,Male,Car,1003193
+63,High School,Others,2,Urban,20,Married,Full-time,1,Rent,Apartment,Male,Car,66224
+24,High School,Technology,2,Suburban,49,Married,Full-time,6,Rent,Apartment,Male,Public transit,1747309
+23,High School,Others,1,Urban,5,Single,Full-time,7,Rent,Apartment,Male,Public transit,2564030
+47,Bachelor's,Others,0,Urban,38,Married,Part-time,5,Own,Single-family home,Male,Car,67702
+62,Bachelor's,Finance,4,Urban,25,Married,Self-employed,3,Own,Apartment,Male,Biking,74358
+34,High School,Finance,3,Urban,48,Married,Full-time,6,Own,Apartment,Female,Walking,65342
+35,Master's,Technology,2,Urban,42,Married,Self-employed,5,Own,Single-family home,Male,Car,5014021
+60,Bachelor's,Healthcare,0,Urban,37,Married,Part-time,3,Rent,Apartment,Male,Car,141011
+22,Master's,Healthcare,1,Rural,7,Married,Full-time,1,Rent,Single-family home,Male,Public transit,319748
+68,High School,Finance,2,Suburban,27,Single,Full-time,3,Rent,Townhouse,Female,Car,66350
+24,Bachelor's,Others,3,Suburban,9,Single,Full-time,6,Own,Single-family home,Male,Biking,874832
+20,Bachelor's,Technology,2,Urban,50,Married,Part-time,2,Own,Townhouse,Male,Biking,38415
+25,Bachelor's,Healthcare,2,Suburban,34,Married,Part-time,1,Rent,Apartment,Female,Public transit,45862
+23,High School,Healthcare,0,Urban,36,Married,Part-time,5,Rent,Apartment,Female,Public transit,52807
+63,Bachelor's,Others,0,Urban,12,Single,Self-employed,5,Own,Apartment,Female,Public transit,74950
+70,Bachelor's,Healthcare,1,Urban,7,Single,Full-time,4,Own,Single-family home,Female,Public transit,69984
+30,Bachelor's,Technology,2,Urban,30,Single,Full-time,3,Own,Townhouse,Female,Public transit,159637
+49,High School,Technology,2,Urban,15,Married,Part-time,7,Own,Single-family home,Male,Public transit,66690
+54,High School,Finance,1,Urban,0,Single,Part-time,4,Own,Townhouse,Male,Biking,69704
+52,High School,Education,3,Urban,26,Single,Part-time,5,Own,Townhouse,Male,Public transit,70764
+20,Master's,Others,1,Suburban,27,Single,Full-time,3,Own,Apartment,Female,Walking,74038
+30,Bachelor's,Healthcare,2,Rural,36,Married,Self-employed,4,Own,Apartment,Male,Public transit,70876
+69,High School,Technology,0,Urban,32,Married,Self-employed,4,Own,Townhouse,Male,Public transit,4432941
+37,Bachelor's,Healthcare,1,Urban,27,Single,Part-time,5,Own,Townhouse,Female,Car,74604
+42,Bachelor's,Healthcare,5,Urban,50,Single,Part-time,2,Own,Apartment,Female,Biking,71976
+32,Master's,Technology,2,Urban,38,Married,Full-time,6,Own,Apartment,Female,Public transit,74770
+51,Bachelor's,Technology,1,Urban,39,Divorced,Part-time,1,Own,Townhouse,Female,Biking,48088
+69,Bachelor's,Others,0,Urban,41,Married,Self-employed,6,Own,Single-family home,Female,Biking,66494
+54,Master's,Others,2,Urban,41,Single,Full-time,3,Own,Single-family home,Female,Car,74626
+26,High School,Finance,2,Suburban,7,Married,Self-employed,3,Own,Apartment,Female,Car,73254
+62,High School,Finance,0,Urban,38,Married,Part-time,1,Rent,Single-family home,Female,Public transit,66912
+33,Bachelor's,Finance,4,Suburban,40,Married,Full-time,5,Rent,Townhouse,Female,Walking,73588
+47,Master's,Others,0,Urban,31,Single,Full-time,4,Own,Apartment,Male,Car,70480
+34,Master's,Others,4,Urban,16,Married,Full-time,7,Own,Apartment,Male,Public transit,6216985
+21,Master's,Education,4,Urban,49,Single,Part-time,4,Own,Apartment,Female,Biking,72356
+63,Bachelor's,Technology,5,Urban,5,Married,Full-time,3,Own,Townhouse,Female,Walking,65108
+40,High School,Finance,5,Rural,10,Married,Full-time,7,Own,Apartment,Female,Car,99591
+70,Bachelor's,Finance,3,Urban,27,Married,Full-time,5,Own,Single-family home,Male,Car,72256
+29,High School,Healthcare,3,Urban,27,Married,Full-time,6,Own,Apartment,Male,Biking,70114
+28,High School,Finance,2,Urban,12,Single,Full-time,7,Own,Single-family home,Male,Car,70830
+57,Master's,Others,0,Urban,16,Single,Full-time,3,Own,Single-family home,Male,Walking,68352
+46,Bachelor's,Healthcare,5,Suburban,42,Divorced,Part-time,4,Own,Single-family home,Female,Biking,73380
+50,Doctorate,Others,2,Suburban,11,Married,Full-time,6,Own,Apartment,Female,Public transit,72754
+35,Master's,Healthcare,1,Urban,40,Single,Full-time,6,Rent,Apartment,Female,Public transit,4255192
+61,Bachelor's,Technology,3,Urban,31,Married,Self-employed,3,Rent,Apartment,Male,Car,7023831
+58,Bachelor's,Finance,1,Suburban,6,Divorced,Full-time,7,Rent,Townhouse,Female,Walking,68486
+36,High School,Technology,5,Rural,43,Divorced,Self-employed,2,Own,Townhouse,Female,Biking,74268
+25,Master's,Healthcare,4,Urban,43,Single,Full-time,2,Own,Single-family home,Female,Biking,68772
+25,Bachelor's,Healthcare,4,Urban,33,Married,Part-time,6,Rent,Townhouse,Female,Biking,829468
+25,Bachelor's,Education,1,Urban,34,Married,Part-time,5,Own,Single-family home,Female,Biking,70560
+62,Doctorate,Education,4,Urban,14,Married,Part-time,5,Own,Townhouse,Male,Car,72862
+37,Master's,Finance,3,Suburban,14,Married,Full-time,7,Own,Single-family home,Female,Car,66282
+22,Bachelor's,Others,0,Urban,32,Single,Part-time,1,Rent,Apartment,Male,Public transit,74148
+53,High School,Education,4,Urban,21,Single,Full-time,4,Own,Single-family home,Female,Public transit,9871131
+20,Bachelor's,Education,4,Urban,5,Married,Part-time,6,Own,Townhouse,Male,Walking,517577
+50,High School,Others,2,Urban,44,Married,Self-employed,5,Own,Apartment,Male,Public transit,71640
+30,Master's,Technology,1,Suburban,15,Married,Part-time,7,Rent,Apartment,Female,Biking,206916
+70,High School,Others,4,Urban,15,Married,Self-employed,4,Rent,Apartment,Male,Public transit,73414
+20,Master's,Others,4,Urban,30,Single,Full-time,6,Own,Apartment,Male,Car,68792
+49,Master's,Technology,4,Urban,40,Married,Full-time,4,Own,Townhouse,Female,Public transit,713409
+61,High School,Healthcare,2,Rural,28,Married,Full-time,1,Own,Apartment,Female,Public transit,345841
+21,Bachelor's,Others,1,Urban,32,Married,Self-employed,1,Own,Townhouse,Male,Car,112005
+56,Bachelor's,Technology,0,Urban,4,Divorced,Part-time,2,Rent,Apartment,Female,Public transit,68604
+43,Bachelor's,Healthcare,0,Urban,4,Married,Full-time,1,Rent,Single-family home,Male,Public transit,52610
+52,Master's,Healthcare,0,Suburban,44,Married,Part-time,4,Own,Single-family home,Male,Public transit,72752
+23,Bachelor's,Healthcare,2,Rural,16,Married,Part-time,7,Own,Townhouse,Male,Car,2339882
+67,Bachelor's,Education,2,Rural,14,Married,Part-time,5,Own,Townhouse,Male,Car,297075
+51,Bachelor's,Healthcare,2,Urban,17,Married,Full-time,7,Own,Single-family home,Female,Walking,66036
+63,Doctorate,Technology,2,Suburban,45,Single,Self-employed,6,Rent,Single-family home,Male,Car,574243
+49,High School,Healthcare,4,Urban,20,Married,Part-time,6,Own,Apartment,Female,Car,813740
+50,Bachelor's,Technology,0,Urban,20,Single,Full-time,1,Own,Apartment,Female,Car,65832
+20,Bachelor's,Technology,1,Urban,22,Married,Full-time,7,Own,Single-family home,Female,Car,67016
+30,Bachelor's,Healthcare,1,Suburban,23,Single,Full-time,6,Rent,Apartment,Male,Car,412635
+35,Bachelor's,Others,3,Urban,8,Married,Self-employed,5,Own,Apartment,Male,Biking,3277785
+49,Master's,Technology,0,Suburban,3,Married,Self-employed,3,Rent,Apartment,Male,Public transit,493126
+38,Bachelor's,Others,3,Suburban,16,Divorced,Part-time,6,Rent,Apartment,Female,Public transit,3628524
+20,Bachelor's,Education,5,Suburban,35,Married,Full-time,2,Rent,Single-family home,Female,Car,164749
+21,Master's,Finance,3,Urban,20,Single,Part-time,4,Rent,Townhouse,Male,Car,65526
+39,Bachelor's,Others,4,Urban,23,Divorced,Part-time,2,Rent,Townhouse,Female,Car,38941
+64,High School,Others,1,Urban,15,Married,Full-time,4,Own,Single-family home,Female,Public transit,72660
+66,Master's,Finance,4,Urban,8,Divorced,Full-time,3,Own,Townhouse,Female,Walking,70148
+41,Bachelor's,Technology,4,Urban,19,Married,Part-time,4,Own,Apartment,Female,Biking,73156
+58,Bachelor's,Others,5,Suburban,29,Divorced,Full-time,6,Own,Townhouse,Female,Car,74786
+46,Bachelor's,Healthcare,5,Urban,38,Single,Full-time,2,Rent,Apartment,Male,Public transit,122173
+38,High School,Technology,1,Suburban,35,Single,Full-time,3,Own,Single-family home,Male,Public transit,66400
+53,Bachelor's,Healthcare,1,Suburban,34,Married,Full-time,5,Rent,Apartment,Male,Biking,1106790
+56,Bachelor's,Healthcare,4,Suburban,27,Single,Self-employed,2,Own,Apartment,Female,Public transit,66684
+41,Master's,Technology,3,Urban,2,Married,Self-employed,7,Own,Apartment,Female,Walking,72106
+49,Master's,Education,2,Suburban,23,Married,Self-employed,1,Own,Townhouse,Female,Biking,68760
+50,Master's,Technology,4,Urban,37,Married,Part-time,2,Rent,Single-family home,Male,Public transit,2772770
+33,High School,Technology,1,Urban,24,Married,Full-time,7,Own,Apartment,Female,Walking,70022
+55,Master's,Technology,3,Suburban,32,Divorced,Self-employed,2,Own,Single-family home,Female,Biking,65782
+68,High School,Finance,3,Urban,32,Single,Full-time,3,Rent,Apartment,Male,Car,1087372
+26,Bachelor's,Education,3,Urban,44,Married,Part-time,1,Rent,Single-family home,Male,Public transit,66389
+26,High School,Finance,1,Urban,7,Single,Part-time,3,Own,Apartment,Female,Public transit,7503240
+47,Bachelor's,Others,1,Urban,15,Single,Full-time,4,Rent,Apartment,Female,Car,74574
+38,Bachelor's,Healthcare,0,Urban,38,Single,Full-time,5,Own,Single-family home,Female,Biking,66478
+38,Bachelor's,Technology,1,Urban,13,Single,Full-time,5,Rent,Apartment,Male,Walking,363510
+65,Bachelor's,Technology,2,Suburban,5,Single,Full-time,2,Own,Apartment,Male,Public transit,1178734
+21,Bachelor's,Others,1,Urban,47,Single,Part-time,2,Own,Townhouse,Male,Biking,66920
+43,Master's,Healthcare,5,Urban,30,Married,Full-time,6,Rent,Apartment,Female,Public transit,192666
+66,High School,Healthcare,1,Rural,49,Married,Full-time,3,Own,Single-family home,Female,Public transit,69164
+25,Bachelor's,Finance,0,Urban,36,Married,Full-time,4,Rent,Townhouse,Male,Public transit,71302
+34,Bachelor's,Finance,3,Urban,38,Married,Part-time,4,Rent,Apartment,Female,Public transit,581868
+61,High School,Finance,5,Suburban,8,Single,Part-time,3,Own,Apartment,Male,Car,126437
+39,Bachelor's,Others,5,Urban,13,Married,Full-time,3,Own,Single-family home,Female,Public transit,5051987
+26,Master's,Finance,1,Urban,23,Single,Full-time,5,Own,Apartment,Male,Public transit,73504
+49,High School,Healthcare,0,Urban,45,Married,Full-time,1,Own,Single-family home,Female,Biking,73308
+26,Bachelor's,Healthcare,1,Urban,45,Married,Part-time,6,Rent,Townhouse,Male,Car,72454
+46,Bachelor's,Healthcare,5,Urban,27,Married,Part-time,5,Rent,Townhouse,Female,Car,259024
+60,High School,Others,4,Rural,6,Married,Full-time,4,Own,Apartment,Male,Car,793388
+40,Bachelor's,Others,3,Urban,26,Single,Part-time,2,Own,Townhouse,Male,Biking,72014
+54,High School,Finance,3,Urban,40,Single,Part-time,2,Rent,Single-family home,Female,Public transit,2172876
+31,High School,Healthcare,5,Urban,2,Single,Full-time,4,Rent,Single-family home,Male,Car,74694
+65,Doctorate,Healthcare,1,Urban,45,Married,Full-time,4,Own,Single-family home,Male,Public transit,69456
+50,Bachelor's,Technology,3,Urban,25,Married,Full-time,1,Own,Apartment,Female,Public transit,70110
+38,High School,Others,2,Urban,48,Married,Self-employed,7,Own,Single-family home,Male,Car,69892
+64,High School,Finance,5,Urban,46,Single,Full-time,7,Rent,Single-family home,Male,Car,70994
+35,Master's,Others,1,Urban,35,Single,Full-time,7,Rent,Single-family home,Male,Public transit,4798515
+44,Bachelor's,Healthcare,3,Urban,1,Single,Part-time,5,Rent,Single-family home,Female,Car,88309
+48,High School,Education,2,Urban,3,Single,Self-employed,6,Rent,Townhouse,Female,Biking,65364
+23,Bachelor's,Education,1,Suburban,11,Married,Full-time,5,Own,Single-family home,Male,Public transit,71530
+18,High School,Healthcare,2,Rural,4,Married,Part-time,5,Rent,Apartment,Male,Biking,75312
+53,Master's,Others,3,Rural,14,Married,Part-time,6,Rent,Townhouse,Female,Walking,35595
+23,Bachelor's,Finance,0,Urban,25,Married,Part-time,6,Own,Apartment,Female,Biking,73634
+31,High School,Others,1,Suburban,18,Married,Part-time,1,Own,Apartment,Male,Public transit,131558
+47,Bachelor's,Healthcare,2,Rural,27,Married,Full-time,5,Own,Apartment,Male,Public transit,1170281
+18,Bachelor's,Education,3,Suburban,8,Single,Part-time,2,Own,Single-family home,Male,Walking,71103
+31,Bachelor's,Technology,1,Suburban,40,Married,Full-time,1,Own,Single-family home,Female,Car,68270
+22,Bachelor's,Others,5,Urban,24,Single,Full-time,6,Own,Apartment,Male,Car,4802849
+62,Bachelor's,Healthcare,4,Urban,5,Divorced,Full-time,2,Own,Apartment,Male,Car,392367
+22,High School,Healthcare,4,Urban,41,Married,Full-time,2,Own,Apartment,Male,Car,75286
+41,Master's,Others,0,Urban,42,Married,Full-time,1,Rent,Single-family home,Male,Public transit,68956
+24,Master's,Technology,2,Suburban,31,Married,Self-employed,1,Own,Single-family home,Male,Car,45629
+46,Bachelor's,Technology,5,Urban,33,Married,Part-time,5,Own,Apartment,Male,Biking,73002
+29,Master's,Education,2,Suburban,20,Single,Self-employed,5,Own,Townhouse,Female,Biking,74870
+35,Master's,Finance,5,Rural,9,Married,Full-time,6,Own,Single-family home,Male,Public transit,74630
+57,High School,Finance,5,Urban,17,Married,Full-time,2,Rent,Single-family home,Female,Public transit,539896
+60,High School,Education,3,Suburban,40,Married,Full-time,3,Rent,Townhouse,Male,Public transit,1455978
+32,Bachelor's,Education,4,Suburban,48,Married,Full-time,3,Rent,Apartment,Male,Public transit,71782
+40,Master's,Technology,1,Suburban,19,Single,Part-time,1,Rent,Single-family home,Male,Public transit,3960902
+47,Bachelor's,Education,4,Urban,34,Married,Self-employed,3,Own,Townhouse,Female,Public transit,66714
+37,Master's,Technology,2,Urban,43,Married,Self-employed,1,Rent,Single-family home,Male,Car,74898
+38,Doctorate,Technology,3,Suburban,5,Divorced,Full-time,1,Own,Single-family home,Female,Public transit,68240
+61,Bachelor's,Others,2,Urban,40,Married,Self-employed,6,Rent,Single-family home,Female,Public transit,7772844
+66,High School,Healthcare,5,Urban,30,Single,Full-time,7,Rent,Apartment,Female,Public transit,74774
+28,Bachelor's,Healthcare,4,Urban,50,Married,Full-time,5,Rent,Townhouse,Female,Car,68944
+55,Bachelor's,Others,4,Suburban,9,Married,Full-time,1,Own,Townhouse,Male,Car,2150026
+58,Bachelor's,Technology,5,Urban,5,Married,Part-time,3,Own,Apartment,Female,Public transit,129720
+25,Master's,Technology,4,Suburban,11,Single,Full-time,7,Own,Apartment,Female,Public transit,66178
+25,Bachelor's,Healthcare,2,Suburban,20,Married,Full-time,4,Rent,Single-family home,Male,Public transit,747580
+62,Master's,Healthcare,3,Suburban,18,Single,Part-time,7,Rent,Apartment,Female,Walking,67830
+24,High School,Healthcare,1,Rural,11,Married,Self-employed,4,Own,Single-family home,Female,Biking,5113844
+35,High School,Finance,4,Suburban,45,Single,Full-time,4,Rent,Single-family home,Male,Public transit,66236
+27,Bachelor's,Finance,4,Suburban,23,Single,Full-time,1,Own,Apartment,Male,Public transit,73396
+56,High School,Healthcare,2,Suburban,26,Married,Self-employed,3,Own,Apartment,Female,Biking,71902
+38,Master's,Education,4,Urban,41,Single,Part-time,7,Rent,Single-family home,Male,Car,102741
+57,High School,Technology,1,Urban,15,Single,Full-time,2,Own,Apartment,Female,Walking,65786
+59,High School,Healthcare,1,Urban,16,Divorced,Full-time,6,Own,Single-family home,Female,Public transit,69790
+60,Bachelor's,Finance,5,Suburban,42,Married,Full-time,4,Rent,Apartment,Female,Public transit,5162934
+41,Bachelor's,Healthcare,4,Urban,36,Divorced,Self-employed,4,Rent,Single-family home,Male,Public transit,74446
+20,High School,Technology,5,Rural,46,Married,Part-time,6,Own,Townhouse,Female,Walking,74416
+40,Bachelor's,Technology,4,Urban,41,Married,Full-time,3,Own,Apartment,Female,Car,67280
+47,Bachelor's,Technology,0,Urban,0,Single,Full-time,5,Rent,Apartment,Female,Public transit,70224
+59,Bachelor's,Education,1,Rural,18,Married,Full-time,1,Rent,Single-family home,Male,Public transit,152689
+54,High School,Technology,0,Urban,8,Married,Full-time,5,Own,Single-family home,Female,Car,73414
+60,High School,Healthcare,1,Urban,19,Married,Part-time,1,Own,Apartment,Male,Public transit,6331908
+58,Master's,Technology,4,Urban,8,Married,Full-time,7,Rent,Single-family home,Female,Public transit,461929
+34,Master's,Education,1,Urban,45,Single,Part-time,5,Rent,Apartment,Male,Biking,113973
+47,Master's,Others,4,Urban,13,Divorced,Full-time,1,Own,Townhouse,Male,Car,73228
+36,Bachelor's,Education,3,Urban,34,Married,Full-time,6,Own,Townhouse,Female,Car,74182
+33,Bachelor's,Finance,0,Urban,11,Married,Full-time,6,Rent,Apartment,Female,Car,1415399
+34,Master's,Technology,0,Urban,16,Married,Full-time,5,Own,Single-family home,Female,Public transit,68856
+65,High School,Education,2,Urban,38,Divorced,Part-time,5,Rent,Single-family home,Male,Biking,72608
+18,High School,Others,1,Urban,1,Single,Full-time,5,Rent,Single-family home,Male,Walking,33030
+61,Bachelor's,Healthcare,5,Urban,43,Single,Self-employed,4,Own,Townhouse,Male,Public transit,185336
+34,High School,Technology,0,Rural,35,Married,Part-time,5,Own,Townhouse,Female,Biking,66076
+32,Bachelor's,Education,5,Urban,27,Single,Full-time,2,Own,Single-family home,Male,Car,66182
+20,Master's,Finance,2,Urban,22,Married,Part-time,1,Own,Single-family home,Male,Public transit,75332
+69,Master's,Education,4,Suburban,30,Single,Full-time,6,Rent,Single-family home,Male,Car,445146
+58,Bachelor's,Healthcare,3,Suburban,6,Single,Full-time,4,Rent,Single-family home,Female,Public transit,66858
+45,Master's,Education,4,Rural,36,Single,Full-time,5,Own,Townhouse,Female,Public transit,67884
+66,High School,Technology,4,Urban,21,Married,Full-time,5,Own,Single-family home,Male,Car,73498
+27,Bachelor's,Healthcare,3,Urban,43,Divorced,Self-employed,7,Own,Single-family home,Male,Public transit,66040
+36,High School,Education,3,Urban,25,Single,Part-time,2,Rent,Apartment,Female,Public transit,2467100
+25,Master's,Healthcare,5,Urban,10,Single,Self-employed,2,Rent,Apartment,Female,Car,63305
+28,Bachelor's,Healthcare,5,Urban,30,Single,Full-time,1,Rent,Townhouse,Male,Car,3977966
+27,High School,Healthcare,4,Urban,39,Married,Full-time,6,Own,Apartment,Male,Public transit,70856
+34,Master's,Healthcare,0,Urban,26,Married,Part-time,3,Rent,Townhouse,Male,Walking,69416
+54,Master's,Finance,5,Suburban,11,Married,Full-time,4,Rent,Single-family home,Male,Public transit,3524711
+55,High School,Healthcare,4,Urban,11,Married,Full-time,5,Rent,Apartment,Female,Biking,71174
+29,High School,Others,5,Urban,19,Married,Full-time,6,Own,Single-family home,Male,Public transit,4570373
+36,Master's,Education,5,Urban,44,Single,Part-time,1,Rent,Townhouse,Female,Car,682902
+47,Bachelor's,Education,0,Suburban,50,Single,Part-time,1,Rent,Single-family home,Female,Public transit,638922
+56,Bachelor's,Technology,1,Suburban,34,Married,Part-time,3,Own,Single-family home,Male,Car,67538
+52,Master's,Healthcare,1,Urban,28,Single,Full-time,4,Own,Apartment,Female,Biking,74326
+21,High School,Healthcare,4,Urban,23,Single,Part-time,7,Own,Single-family home,Male,Public transit,71248
+51,High School,Technology,5,Suburban,14,Single,Full-time,5,Rent,Single-family home,Female,Public transit,95938
+57,Master's,Technology,0,Suburban,34,Married,Self-employed,4,Rent,Single-family home,Female,Public transit,71528
+25,High School,Technology,1,Urban,8,Married,Self-employed,1,Rent,Single-family home,Female,Public transit,973727
+37,Master's,Others,4,Urban,41,Married,Full-time,1,Own,Apartment,Female,Biking,67084
+44,Bachelor's,Others,5,Urban,22,Single,Full-time,4,Rent,Apartment,Male,Walking,73752
+54,High School,Healthcare,2,Urban,43,Single,Full-time,7,Rent,Single-family home,Male,Car,2009613
+59,Master's,Healthcare,3,Urban,24,Married,Full-time,5,Rent,Apartment,Female,Public transit,216097
+52,Bachelor's,Education,5,Urban,37,Single,Full-time,2,Own,Apartment,Male,Biking,66758
+48,Master's,Technology,3,Suburban,20,Single,Part-time,7,Own,Single-family home,Male,Public transit,66342
+46,Master's,Technology,3,Urban,2,Married,Part-time,1,Rent,Apartment,Female,Public transit,3235523
+25,Master's,Finance,3,Urban,21,Single,Full-time,4,Own,Single-family home,Male,Biking,32229
+40,Master's,Healthcare,2,Urban,39,Single,Part-time,4,Rent,Apartment,Female,Public transit,152923
+66,Master's,Education,0,Urban,1,Single,Self-employed,2,Rent,Townhouse,Female,Car,105919
+29,Master's,Education,0,Suburban,44,Married,Part-time,1,Own,Single-family home,Female,Public transit,66672
+49,Master's,Others,3,Suburban,10,Married,Full-time,4,Rent,Townhouse,Male,Public transit,280479
+53,High School,Technology,2,Urban,27,Married,Self-employed,1,Own,Single-family home,Male,Walking,70908
+32,High School,Healthcare,0,Rural,11,Single,Full-time,4,Rent,Apartment,Male,Biking,69570
+20,Bachelor's,Finance,4,Urban,10,Married,Full-time,2,Own,Single-family home,Female,Public transit,68828
+34,Bachelor's,Healthcare,5,Urban,10,Single,Part-time,7,Own,Single-family home,Female,Public transit,1930425
+47,High School,Finance,0,Urban,32,Single,Full-time,6,Rent,Single-family home,Male,Car,67236
+58,High School,Finance,0,Urban,27,Single,Part-time,3,Own,Apartment,Female,Public transit,75378
+39,High School,Healthcare,4,Urban,48,Married,Part-time,3,Own,Apartment,Male,Public transit,73438
+30,Bachelor's,Technology,3,Rural,45,Single,Full-time,2,Own,Apartment,Male,Car,67160
+28,Bachelor's,Others,3,Urban,45,Single,Full-time,4,Own,Apartment,Male,Public transit,68834
+53,Master's,Education,1,Rural,12,Single,Self-employed,5,Rent,Apartment,Female,Public transit,166893
+54,Bachelor's,Technology,3,Urban,34,Married,Self-employed,5,Rent,Apartment,Female,Biking,7853771
+43,Bachelor's,Education,0,Urban,9,Married,Self-employed,3,Own,Townhouse,Male,Walking,67522
+19,Bachelor's,Healthcare,1,Urban,45,Single,Part-time,3,Rent,Single-family home,Female,Biking,1806605
+49,Bachelor's,Technology,4,Urban,29,Married,Full-time,5,Own,Single-family home,Male,Biking,74222
+60,Bachelor's,Technology,1,Suburban,10,Single,Full-time,5,Own,Apartment,Male,Walking,75392
+62,Master's,Others,2,Urban,21,Married,Part-time,3,Rent,Single-family home,Male,Car,49613
+68,Master's,Technology,1,Urban,49,Married,Full-time,7,Own,Townhouse,Female,Biking,74294
+45,High School,Education,4,Urban,17,Married,Full-time,5,Rent,Apartment,Female,Public transit,6235850
+54,High School,Others,1,Rural,18,Divorced,Self-employed,2,Own,Apartment,Male,Car,350529
+63,Master's,Others,5,Rural,47,Married,Self-employed,7,Own,Single-family home,Male,Public transit,68144
+29,High School,Technology,3,Suburban,31,Married,Part-time,1,Own,Single-family home,Male,Public transit,71690
+29,High School,Healthcare,1,Urban,7,Single,Part-time,2,Own,Apartment,Female,Biking,231416
+60,High School,Technology,2,Suburban,16,Married,Part-time,4,Rent,Apartment,Male,Car,71884
+31,Master's,Others,3,Suburban,30,Married,Full-time,1,Own,Apartment,Male,Public transit,66260
+64,Bachelor's,Healthcare,0,Rural,39,Married,Part-time,4,Own,Single-family home,Female,Car,67232
+38,Master's,Healthcare,2,Urban,28,Married,Self-employed,6,Rent,Apartment,Female,Public transit,5299752
+44,Bachelor's,Finance,5,Urban,32,Married,Self-employed,1,Rent,Single-family home,Female,Biking,65826
+58,High School,Healthcare,0,Urban,33,Single,Self-employed,6,Own,Apartment,Female,Public transit,71920
+55,Bachelor's,Healthcare,2,Rural,3,Married,Part-time,6,Own,Single-family home,Female,Biking,71744
+41,Bachelor's,Education,3,Urban,18,Single,Full-time,4,Rent,Single-family home,Female,Public transit,41051
+37,Bachelor's,Healthcare,1,Suburban,35,Married,Full-time,4,Own,Single-family home,Male,Walking,69166
+62,Bachelor's,Healthcare,2,Suburban,25,Married,Part-time,1,Own,Apartment,Male,Car,2299716
+26,Doctorate,Education,2,Urban,15,Single,Part-time,7,Own,Apartment,Male,Car,72812
+64,Bachelor's,Healthcare,2,Urban,46,Married,Full-time,2,Own,Apartment,Female,Public transit,70244
+64,Master's,Healthcare,3,Urban,31,Single,Self-employed,3,Rent,Single-family home,Male,Biking,69060
+37,High School,Finance,3,Urban,15,Married,Full-time,3,Rent,Apartment,Female,Public transit,101660
+51,Bachelor's,Healthcare,1,Urban,49,Married,Self-employed,4,Own,Single-family home,Male,Public transit,474781
+27,Doctorate,Finance,4,Urban,36,Married,Part-time,6,Rent,Apartment,Male,Biking,68742
+50,Bachelor's,Others,3,Urban,2,Single,Full-time,1,Own,Apartment,Female,Walking,67774
+27,High School,Healthcare,5,Urban,44,Married,Self-employed,2,Rent,Apartment,Female,Car,431003
+30,High School,Others,5,Urban,35,Married,Self-employed,1,Own,Single-family home,Female,Public transit,68454
+42,Master's,Healthcare,4,Urban,12,Single,Full-time,3,Own,Single-family home,Male,Public transit,71038
+58,Bachelor's,Healthcare,3,Suburban,4,Single,Self-employed,1,Own,Single-family home,Female,Biking,5983575
+41,High School,Finance,2,Urban,22,Married,Part-time,7,Own,Townhouse,Male,Biking,65250
+25,High School,Technology,1,Urban,34,Single,Self-employed,6,Rent,Apartment,Male,Public transit,73450
+19,Bachelor's,Finance,3,Rural,4,Married,Part-time,3,Rent,Apartment,Female,Biking,75330
+26,Master's,Finance,2,Urban,10,Married,Self-employed,1,Own,Townhouse,Female,Public transit,2828663
+47,Bachelor's,Others,2,Rural,37,Single,Part-time,3,Own,Single-family home,Male,Car,490746
+68,Bachelor's,Education,1,Urban,50,Married,Part-time,1,Rent,Single-family home,Male,Car,463776
+52,Bachelor's,Others,2,Suburban,47,Single,Full-time,6,Own,Single-family home,Male,Public transit,64892
+70,Bachelor's,Education,5,Urban,40,Married,Full-time,3,Own,Single-family home,Female,Public transit,70496
+69,Bachelor's,Technology,5,Urban,18,Single,Part-time,1,Own,Single-family home,Male,Public transit,65326
+46,Bachelor's,Finance,5,Rural,22,Married,Full-time,1,Rent,Apartment,Male,Public transit,292267
+42,Bachelor's,Healthcare,4,Urban,43,Divorced,Part-time,4,Rent,Apartment,Female,Car,65136
+68,Bachelor's,Healthcare,2,Rural,40,Single,Part-time,5,Own,Single-family home,Male,Biking,4000119
+18,High School,Technology,5,Urban,9,Married,Full-time,4,Rent,Townhouse,Female,Public transit,105360
+59,High School,Others,0,Urban,2,Married,Part-time,3,Rent,Single-family home,Female,Walking,66322
+46,High School,Technology,1,Suburban,0,Single,Part-time,3,Own,Single-family home,Female,Car,68050
+32,Bachelor's,Finance,1,Rural,3,Divorced,Full-time,1,Rent,Townhouse,Male,Public transit,911493
+64,Doctorate,Technology,5,Suburban,14,Single,Part-time,1,Rent,Single-family home,Male,Biking,70742
+52,High School,Technology,1,Suburban,33,Single,Full-time,1,Rent,Apartment,Male,Car,1402693
+36,Bachelor's,Healthcare,5,Urban,42,Married,Full-time,2,Own,Single-family home,Female,Public transit,74010
+44,Bachelor's,Education,0,Urban,30,Divorced,Self-employed,1,Rent,Single-family home,Male,Public transit,9194486
+35,Master's,Healthcare,2,Urban,24,Married,Full-time,6,Rent,Single-family home,Female,Public transit,4129651
+30,Master's,Healthcare,2,Urban,14,Single,Full-time,1,Rent,Townhouse,Female,Walking,6043519
+19,Bachelor's,Others,3,Suburban,48,Single,Self-employed,6,Own,Single-family home,Male,Public transit,73694
+31,Bachelor's,Others,1,Suburban,30,Single,Full-time,6,Rent,Townhouse,Male,Car,72346
+20,Master's,Healthcare,3,Suburban,10,Single,Part-time,2,Rent,Apartment,Female,Public transit,73594
+50,High School,Others,4,Urban,33,Married,Full-time,2,Rent,Townhouse,Female,Biking,349440
+45,Master's,Others,0,Suburban,36,Married,Part-time,7,Own,Townhouse,Male,Walking,65048
+29,Master's,Finance,0,Suburban,45,Married,Part-time,5,Own,Apartment,Female,Biking,71162
+42,High School,Education,3,Urban,38,Married,Self-employed,2,Rent,Apartment,Male,Public transit,103942
+38,High School,Others,4,Rural,27,Married,Full-time,5,Own,Apartment,Female,Public transit,72330
+31,High School,Education,3,Urban,9,Married,Self-employed,2,Own,Apartment,Female,Biking,1165435
+62,Bachelor's,Technology,3,Urban,17,Married,Full-time,2,Rent,Single-family home,Male,Biking,1189511
+31,Master's,Healthcare,1,Urban,27,Married,Self-employed,4,Own,Townhouse,Female,Public transit,5495355
+62,Doctorate,Healthcare,0,Suburban,2,Single,Full-time,7,Own,Townhouse,Male,Car,54689
+52,High School,Education,4,Urban,43,Divorced,Self-employed,5,Own,Apartment,Male,Car,65502
+37,High School,Healthcare,2,Rural,29,Married,Self-employed,4,Rent,Apartment,Male,Public transit,277509
+38,High School,Education,5,Urban,39,Married,Full-time,4,Own,Single-family home,Male,Public transit,70134
+67,Bachelor's,Education,2,Suburban,10,Single,Part-time,2,Rent,Apartment,Female,Car,1174544
+62,Master's,Technology,3,Urban,24,Single,Full-time,2,Rent,Single-family home,Male,Public transit,72998
+35,Bachelor's,Education,0,Urban,10,Married,Full-time,2,Own,Townhouse,Female,Public transit,75294
+66,Master's,Others,2,Urban,18,Single,Self-employed,7,Own,Apartment,Male,Car,71664
+56,Master's,Education,4,Urban,24,Married,Part-time,1,Own,Apartment,Female,Walking,2191383
+51,Bachelor's,Others,4,Urban,8,Single,Full-time,6,Own,Single-family home,Female,Car,2169636
+20,High School,Others,2,Rural,3,Married,Full-time,2,Own,Townhouse,Female,Walking,64926
+66,Bachelor's,Education,1,Urban,2,Married,Part-time,5,Own,Single-family home,Female,Biking,192980
+31,High School,Others,5,Urban,14,Single,Full-time,1,Own,Single-family home,Female,Public transit,1064202
+35,Bachelor's,Finance,5,Suburban,13,Married,Full-time,4,Rent,Single-family home,Female,Car,958967
+33,Master's,Others,5,Urban,26,Married,Self-employed,7,Rent,Townhouse,Female,Walking,74282
+57,High School,Others,1,Rural,38,Married,Part-time,4,Own,Apartment,Male,Public transit,68700
+23,Bachelor's,Technology,2,Urban,32,Divorced,Self-employed,3,Rent,Single-family home,Male,Car,73250
+43,Bachelor's,Technology,5,Urban,27,Married,Part-time,5,Own,Single-family home,Female,Car,67160
+61,Bachelor's,Healthcare,3,Urban,47,Divorced,Part-time,6,Own,Single-family home,Female,Car,70970
+41,Master's,Education,4,Rural,43,Single,Full-time,1,Rent,Apartment,Male,Biking,76040
+50,Bachelor's,Finance,4,Rural,8,Married,Full-time,2,Own,Single-family home,Male,Biking,2704856
+38,High School,Healthcare,1,Urban,30,Married,Part-time,1,Own,Apartment,Male,Biking,73590
+43,High School,Technology,4,Urban,26,Single,Self-employed,2,Rent,Apartment,Female,Public transit,559307
+29,Master's,Education,3,Urban,31,Married,Full-time,1,Own,Apartment,Female,Public transit,69444
+51,Bachelor's,Finance,1,Urban,1,Single,Part-time,2,Own,Single-family home,Male,Car,4528908
+54,Bachelor's,Technology,2,Urban,15,Married,Full-time,3,Rent,Apartment,Male,Public transit,155884
+35,Bachelor's,Finance,4,Urban,29,Single,Self-employed,3,Rent,Apartment,Male,Biking,68820
+42,High School,Technology,2,Urban,48,Married,Full-time,6,Rent,Apartment,Male,Public transit,1410141
+50,Bachelor's,Finance,3,Urban,9,Divorced,Part-time,5,Rent,Townhouse,Male,Public transit,750717
+43,Master's,Healthcare,5,Urban,38,Married,Self-employed,5,Own,Single-family home,Male,Biking,65586
+38,High School,Others,3,Urban,6,Single,Full-time,7,Rent,Single-family home,Male,Public transit,3156864
+24,Master's,Healthcare,1,Suburban,0,Married,Full-time,4,Own,Single-family home,Female,Public transit,65514
+61,High School,Healthcare,4,Urban,36,Single,Self-employed,2,Own,Single-family home,Female,Walking,69684
+45,Bachelor's,Education,0,Urban,20,Married,Self-employed,1,Rent,Single-family home,Female,Public transit,3284521
+69,Doctorate,Healthcare,1,Suburban,39,Married,Self-employed,3,Own,Apartment,Male,Biking,6329045
+55,Doctorate,Finance,5,Suburban,0,Single,Full-time,7,Rent,Apartment,Male,Walking,74090
+39,Bachelor's,Technology,5,Urban,34,Single,Full-time,7,Own,Townhouse,Male,Public transit,32381
+28,Bachelor's,Others,0,Urban,17,Divorced,Full-time,3,Own,Single-family home,Female,Car,66794
+60,Bachelor's,Technology,3,Urban,13,Single,Full-time,3,Own,Apartment,Male,Public transit,75348
+40,High School,Others,2,Suburban,15,Single,Part-time,2,Own,Townhouse,Male,Biking,1580196
+61,Bachelor's,Technology,2,Rural,7,Single,Full-time,2,Rent,Apartment,Female,Public transit,65928
+50,Bachelor's,Others,5,Urban,10,Married,Full-time,6,Own,Apartment,Female,Public transit,345201
+22,High School,Education,5,Urban,21,Single,Full-time,7,Own,Apartment,Male,Car,855645
+32,Master's,Technology,5,Urban,22,Single,Part-time,7,Own,Single-family home,Male,Walking,71662
+53,Bachelor's,Others,3,Urban,3,Single,Full-time,7,Rent,Apartment,Female,Car,141678
+20,Bachelor's,Healthcare,5,Urban,9,Married,Part-time,5,Rent,Single-family home,Male,Public transit,69146
+19,High School,Others,3,Urban,40,Married,Part-time,6,Own,Apartment,Male,Car,1609587
+22,High School,Technology,1,Urban,1,Single,Self-employed,5,Own,Apartment,Female,Public transit,665613
+42,Bachelor's,Healthcare,3,Urban,22,Married,Self-employed,7,Rent,Single-family home,Female,Public transit,3896353
+61,High School,Finance,4,Urban,1,Married,Part-time,6,Own,Apartment,Male,Public transit,69168
+18,Master's,Technology,2,Urban,2,Single,Full-time,1,Rent,Single-family home,Male,Walking,74186
+41,Master's,Healthcare,2,Suburban,19,Single,Full-time,2,Rent,Apartment,Female,Public transit,261244
+38,Master's,Technology,1,Urban,50,Single,Part-time,2,Rent,Apartment,Female,Public transit,3918525
+54,Master's,Technology,2,Suburban,26,Single,Part-time,1,Rent,Single-family home,Female,Car,3070967
+18,Master's,Healthcare,0,Urban,14,Single,Part-time,1,Rent,Apartment,Male,Biking,42158
+50,Bachelor's,Healthcare,0,Urban,41,Single,Part-time,1,Own,Apartment,Male,Public transit,68858
+30,High School,Technology,5,Urban,34,Married,Self-employed,7,Own,Single-family home,Male,Walking,72056
+34,Bachelor's,Healthcare,2,Urban,3,Single,Full-time,3,Rent,Single-family home,Male,Public transit,72038
+28,Bachelor's,Technology,0,Urban,9,Married,Full-time,2,Own,Apartment,Male,Car,66984
+49,High School,Healthcare,5,Urban,36,Married,Self-employed,1,Rent,Single-family home,Female,Walking,1845016
+64,Bachelor's,Healthcare,3,Urban,40,Married,Part-time,7,Own,Apartment,Female,Public transit,70462
+50,Bachelor's,Finance,5,Rural,15,Single,Part-time,1,Own,Townhouse,Male,Car,65350
+54,High School,Healthcare,1,Urban,24,Single,Full-time,4,Own,Apartment,Male,Car,65216
+43,Master's,Finance,2,Suburban,38,Married,Full-time,1,Own,Single-family home,Male,Car,50218
+37,Bachelor's,Healthcare,3,Urban,30,Married,Self-employed,6,Rent,Apartment,Female,Car,999460
+36,Master's,Technology,4,Urban,7,Married,Full-time,2,Own,Apartment,Female,Car,70890
+51,Bachelor's,Technology,3,Urban,35,Single,Self-employed,1,Rent,Apartment,Male,Walking,8168438
+29,High School,Others,2,Suburban,48,Married,Full-time,7,Rent,Apartment,Male,Public transit,66421
+20,Master's,Technology,2,Urban,47,Married,Part-time,5,Own,Townhouse,Male,Public transit,155804
+67,Bachelor's,Healthcare,5,Urban,18,Single,Full-time,5,Own,Apartment,Female,Car,66164
+63,High School,Finance,2,Urban,31,Divorced,Full-time,3,Own,Single-family home,Male,Public transit,65290
+38,High School,Technology,4,Urban,5,Single,Full-time,6,Rent,Townhouse,Female,Car,33114
+58,Master's,Healthcare,5,Urban,50,Married,Full-time,6,Rent,Apartment,Male,Public transit,795379
+32,Bachelor's,Finance,3,Urban,20,Single,Full-time,5,Own,Single-family home,Male,Walking,72708
+67,High School,Healthcare,2,Urban,4,Married,Part-time,5,Rent,Townhouse,Male,Biking,73226
+43,High School,Technology,3,Suburban,37,Single,Part-time,2,Own,Apartment,Female,Car,6102886
+69,High School,Healthcare,5,Urban,5,Divorced,Part-time,1,Rent,Single-family home,Male,Biking,74270
+57,High School,Healthcare,4,Urban,46,Married,Part-time,7,Own,Apartment,Male,Public transit,73202
+47,Bachelor's,Others,5,Suburban,26,Married,Full-time,5,Rent,Single-family home,Male,Car,67755
+68,Bachelor's,Technology,0,Urban,15,Married,Part-time,7,Own,Townhouse,Female,Car,74726
+62,High School,Technology,5,Rural,23,Single,Full-time,2,Own,Single-family home,Female,Public transit,1944508
+68,Master's,Healthcare,2,Urban,7,Single,Full-time,1,Own,Apartment,Female,Public transit,69984
+55,Master's,Technology,0,Urban,47,Divorced,Self-employed,7,Rent,Townhouse,Male,Car,72060
+30,High School,Others,2,Urban,28,Married,Part-time,1,Rent,Single-family home,Female,Walking,74122
+34,Bachelor's,Others,0,Urban,25,Single,Full-time,7,Rent,Apartment,Female,Public transit,93296
+64,Master's,Technology,2,Suburban,27,Married,Full-time,7,Own,Single-family home,Female,Car,71576
+47,Master's,Healthcare,0,Urban,43,Single,Self-employed,5,Rent,Single-family home,Male,Biking,72204
+55,High School,Healthcare,0,Urban,32,Single,Part-time,2,Own,Apartment,Female,Biking,68010
+52,High School,Others,2,Rural,34,Married,Full-time,7,Own,Townhouse,Female,Public transit,69830
+65,Bachelor's,Education,0,Urban,33,Single,Full-time,2,Rent,Apartment,Male,Public transit,196515
+59,Master's,Technology,0,Urban,7,Married,Full-time,5,Own,Apartment,Male,Public transit,66654
+50,Master's,Healthcare,2,Urban,22,Divorced,Full-time,2,Rent,Single-family home,Female,Public transit,2958905
+43,Bachelor's,Finance,2,Urban,41,Single,Part-time,2,Rent,Single-family home,Female,Walking,65232
+42,Master's,Others,2,Urban,3,Married,Self-employed,3,Rent,Townhouse,Female,Car,167419
+34,Bachelor's,Finance,1,Urban,12,Married,Part-time,2,Own,Single-family home,Female,Car,68136
+25,High School,Technology,3,Urban,8,Married,Full-time,6,Rent,Townhouse,Male,Car,302344
+42,High School,Healthcare,2,Urban,36,Single,Part-time,6,Rent,Apartment,Female,Car,69328
+55,Bachelor's,Technology,2,Rural,21,Single,Full-time,2,Rent,Apartment,Male,Public transit,254877
+62,High School,Healthcare,5,Urban,33,Single,Self-employed,3,Rent,Townhouse,Female,Public transit,66110
+28,Bachelor's,Healthcare,4,Urban,23,Divorced,Full-time,1,Rent,Apartment,Female,Car,32845
+46,Master's,Education,2,Urban,20,Single,Full-time,6,Own,Apartment,Female,Biking,72004
+35,Master's,Finance,4,Urban,33,Married,Self-employed,3,Own,Apartment,Female,Public transit,118598
+50,Master's,Others,2,Suburban,14,Single,Full-time,2,Own,Single-family home,Female,Car,65058
+21,Doctorate,Others,4,Urban,46,Married,Full-time,1,Own,Apartment,Male,Walking,33536
+30,Bachelor's,Finance,4,Urban,45,Married,Part-time,2,Rent,Townhouse,Male,Walking,71588
+33,High School,Technology,4,Urban,44,Married,Self-employed,3,Own,Single-family home,Male,Walking,68802
+42,Doctorate,Finance,3,Urban,10,Married,Full-time,7,Rent,Townhouse,Male,Public transit,72284
+40,Doctorate,Technology,1,Urban,21,Married,Part-time,4,Rent,Apartment,Female,Public transit,67016
+55,Bachelor's,Education,2,Urban,16,Divorced,Self-employed,1,Rent,Apartment,Female,Public transit,39662
+39,Bachelor's,Technology,2,Suburban,26,Married,Full-time,7,Rent,Apartment,Male,Biking,922721
+52,Master's,Others,2,Urban,17,Divorced,Full-time,6,Own,Townhouse,Female,Public transit,72718
+52,Master's,Technology,0,Urban,45,Single,Full-time,7,Own,Single-family home,Male,Public transit,1157812
+54,Bachelor's,Education,4,Urban,2,Single,Part-time,4,Own,Apartment,Male,Car,5993082
+69,Bachelor's,Others,1,Urban,5,Divorced,Full-time,5,Own,Single-family home,Male,Biking,75032
+56,Bachelor's,Finance,0,Urban,8,Single,Full-time,1,Rent,Single-family home,Female,Biking,5067966
+29,Bachelor's,Education,4,Urban,5,Single,Part-time,4,Rent,Townhouse,Male,Public transit,6360811
+53,High School,Others,0,Suburban,40,Married,Full-time,5,Own,Apartment,Male,Car,73562
+41,Bachelor's,Technology,5,Urban,35,Single,Full-time,4,Own,Townhouse,Female,Walking,33295
+41,Bachelor's,Healthcare,1,Suburban,16,Divorced,Part-time,5,Rent,Single-family home,Female,Public transit,136842
+37,High School,Finance,2,Urban,8,Married,Part-time,2,Own,Apartment,Male,Public transit,2789832
+54,Bachelor's,Healthcare,3,Suburban,27,Married,Full-time,6,Rent,Single-family home,Female,Car,1045120
+55,High School,Technology,2,Urban,13,Married,Full-time,3,Rent,Apartment,Male,Walking,33104
+62,Master's,Education,2,Urban,50,Single,Full-time,3,Own,Single-family home,Male,Public transit,71612
+49,High School,Finance,3,Urban,15,Divorced,Self-employed,5,Own,Single-family home,Female,Walking,73756
+52,Master's,Education,3,Urban,17,Single,Self-employed,3,Own,Apartment,Male,Car,72686
+45,Bachelor's,Technology,2,Urban,2,Married,Full-time,1,Own,Apartment,Male,Biking,389807
+39,Doctorate,Healthcare,3,Urban,49,Single,Self-employed,4,Rent,Apartment,Female,Car,74652
+28,Master's,Healthcare,3,Urban,49,Married,Part-time,3,Rent,Single-family home,Male,Public transit,1623051
+20,High School,Finance,0,Urban,19,Married,Part-time,7,Own,Townhouse,Male,Car,73772
+62,Bachelor's,Education,5,Rural,1,Married,Part-time,3,Rent,Single-family home,Female,Public transit,75386
+18,High School,Education,2,Suburban,16,Single,Part-time,1,Own,Townhouse,Male,Walking,1525107
+55,Bachelor's,Education,3,Urban,40,Married,Full-time,4,Own,Single-family home,Female,Biking,68724
+59,Master's,Technology,3,Suburban,45,Divorced,Part-time,1,Own,Apartment,Female,Biking,66584
+31,High School,Education,0,Urban,19,Single,Full-time,4,Own,Apartment,Male,Car,65192
+37,Bachelor's,Education,2,Urban,45,Married,Full-time,2,Own,Apartment,Female,Biking,65950
+65,High School,Healthcare,4,Rural,42,Married,Part-time,4,Rent,Apartment,Male,Public transit,73068
+66,Bachelor's,Others,1,Urban,40,Married,Full-time,3,Rent,Townhouse,Male,Car,68304
+28,High School,Healthcare,2,Urban,31,Married,Full-time,7,Own,Townhouse,Male,Car,65338
+44,High School,Technology,3,Urban,34,Married,Full-time,1,Own,Single-family home,Female,Car,65896
+44,Bachelor's,Healthcare,1,Suburban,8,Single,Part-time,1,Own,Townhouse,Male,Public transit,73778
+62,High School,Education,0,Urban,42,Married,Part-time,7,Rent,Single-family home,Female,Biking,120270
+32,Bachelor's,Technology,0,Suburban,37,Married,Full-time,1,Own,Apartment,Male,Car,74820
+55,High School,Education,5,Suburban,39,Married,Full-time,6,Rent,Single-family home,Female,Public transit,72638
+40,Bachelor's,Healthcare,2,Urban,36,Married,Self-employed,4,Own,Townhouse,Female,Public transit,700587
+18,High School,Technology,3,Urban,28,Married,Self-employed,6,Own,Apartment,Female,Public transit,70160
+37,High School,Technology,4,Urban,37,Single,Part-time,4,Rent,Single-family home,Male,Walking,232842
+69,Bachelor's,Healthcare,1,Urban,2,Married,Full-time,7,Rent,Single-family home,Female,Biking,69508
+37,High School,Finance,3,Urban,7,Married,Full-time,7,Own,Townhouse,Male,Public transit,74304
+25,Master's,Finance,3,Urban,48,Married,Full-time,6,Own,Single-family home,Male,Car,1444896
+63,Bachelor's,Technology,0,Suburban,18,Divorced,Full-time,7,Own,Townhouse,Male,Car,75298
+28,High School,Healthcare,0,Rural,10,Single,Self-employed,3,Own,Townhouse,Female,Public transit,71780
+45,High School,Finance,5,Urban,49,Divorced,Full-time,7,Rent,Apartment,Male,Biking,1825792
+55,Master's,Finance,4,Urban,35,Married,Part-time,4,Rent,Apartment,Male,Walking,1256492
+59,Bachelor's,Technology,2,Urban,34,Married,Self-employed,5,Own,Single-family home,Female,Car,265239
+19,Bachelor's,Finance,1,Urban,21,Single,Part-time,6,Own,Single-family home,Male,Public transit,69872
+46,Bachelor's,Technology,4,Suburban,6,Married,Full-time,5,Own,Apartment,Male,Car,781245
+43,Master's,Technology,2,Urban,43,Single,Self-employed,1,Rent,Apartment,Male,Car,66520
+55,Master's,Healthcare,1,Urban,1,Single,Full-time,3,Own,Apartment,Male,Car,1067448
+58,High School,Technology,1,Urban,24,Single,Self-employed,5,Rent,Single-family home,Female,Public transit,68950
+38,Bachelor's,Healthcare,2,Rural,2,Single,Full-time,7,Own,Apartment,Female,Public transit,73492
+56,High School,Technology,2,Urban,13,Married,Full-time,6,Own,Single-family home,Female,Biking,65040
+35,Master's,Others,3,Rural,30,Married,Full-time,3,Own,Single-family home,Male,Biking,4625741
+55,Bachelor's,Others,5,Urban,40,Married,Part-time,7,Own,Townhouse,Male,Car,67530
+66,Doctorate,Technology,1,Urban,31,Single,Part-time,3,Own,Single-family home,Male,Car,75186
+25,Master's,Technology,5,Suburban,28,Married,Part-time,1,Rent,Apartment,Female,Car,99958
+41,High School,Healthcare,4,Urban,40,Single,Part-time,6,Own,Townhouse,Male,Car,65900
+19,Bachelor's,Others,4,Urban,4,Single,Full-time,2,Own,Apartment,Female,Public transit,65250
+53,Master's,Healthcare,1,Urban,4,Married,Part-time,4,Own,Apartment,Female,Public transit,1793874
+33,High School,Education,1,Suburban,36,Single,Full-time,1,Own,Apartment,Male,Public transit,75032
+23,Master's,Technology,0,Urban,17,Married,Full-time,5,Rent,Apartment,Female,Car,3387252
+40,Bachelor's,Healthcare,2,Urban,1,Married,Full-time,2,Rent,Townhouse,Male,Car,68112
+63,Doctorate,Healthcare,0,Urban,49,Divorced,Full-time,7,Rent,Apartment,Male,Public transit,66588
+59,Master's,Others,2,Urban,7,Married,Full-time,7,Rent,Townhouse,Male,Car,201630
+50,Bachelor's,Others,5,Suburban,42,Married,Full-time,7,Own,Single-family home,Male,Public transit,75474
+66,High School,Finance,1,Urban,20,Married,Part-time,7,Own,Townhouse,Male,Public transit,71058
+45,Bachelor's,Education,3,Urban,16,Married,Part-time,6,Rent,Apartment,Female,Public transit,2714554
+31,Doctorate,Technology,5,Urban,11,Divorced,Part-time,1,Own,Single-family home,Male,Car,32517
+42,Bachelor's,Technology,0,Suburban,35,Married,Part-time,3,Own,Single-family home,Male,Car,75408
+30,High School,Education,2,Rural,49,Single,Full-time,4,Rent,Single-family home,Male,Biking,297852
+64,High School,Healthcare,2,Urban,5,Single,Full-time,6,Own,Single-family home,Male,Public transit,2736301
+70,High School,Education,4,Rural,7,Single,Full-time,3,Rent,Apartment,Female,Public transit,69022
+49,Master's,Healthcare,1,Urban,26,Single,Self-employed,5,Rent,Apartment,Male,Public transit,67044
+21,High School,Technology,3,Suburban,4,Single,Full-time,3,Own,Townhouse,Male,Public transit,2946835
+70,Bachelor's,Healthcare,0,Urban,15,Married,Self-employed,7,Own,Apartment,Male,Car,74306
+44,Bachelor's,Technology,2,Suburban,31,Single,Full-time,3,Rent,Single-family home,Male,Public transit,69850
+38,Bachelor's,Education,3,Suburban,28,Single,Part-time,7,Own,Apartment,Male,Car,292931
+60,Bachelor's,Technology,5,Urban,2,Single,Part-time,3,Own,Single-family home,Female,Biking,77095
+67,High School,Healthcare,1,Suburban,44,Single,Full-time,3,Own,Apartment,Male,Public transit,70328
+50,Bachelor's,Finance,0,Rural,16,Married,Full-time,6,Rent,Apartment,Female,Public transit,2041981
+51,Master's,Others,5,Urban,21,Single,Part-time,7,Own,Single-family home,Female,Car,74176
+25,Master's,Finance,0,Urban,8,Married,Full-time,2,Own,Apartment,Male,Public transit,74050
+52,High School,Technology,0,Suburban,33,Married,Full-time,1,Rent,Apartment,Male,Public transit,1642470
+31,Bachelor's,Others,4,Urban,4,Married,Full-time,7,Rent,Single-family home,Male,Car,928036
+20,Bachelor's,Others,4,Urban,0,Divorced,Self-employed,6,Own,Apartment,Female,Public transit,66266
+21,Master's,Healthcare,1,Urban,5,Married,Self-employed,4,Own,Single-family home,Female,Walking,70022
+57,Bachelor's,Healthcare,5,Rural,13,Married,Full-time,4,Own,Townhouse,Female,Car,2384563
+61,Doctorate,Education,1,Urban,2,Single,Full-time,3,Rent,Townhouse,Male,Car,68382
+64,Master's,Technology,1,Urban,35,Single,Full-time,1,Own,Apartment,Female,Walking,65120
+38,Master's,Education,4,Rural,37,Married,Part-time,4,Own,Apartment,Female,Public transit,60314
+34,High School,Technology,3,Urban,32,Married,Self-employed,2,Own,Single-family home,Male,Car,72698
+49,Doctorate,Healthcare,4,Rural,0,Married,Full-time,3,Rent,Single-family home,Female,Biking,72206
+58,Master's,Technology,0,Urban,13,Married,Self-employed,4,Own,Apartment,Female,Biking,71466
+65,Bachelor's,Education,5,Urban,46,Married,Full-time,7,Own,Townhouse,Female,Public transit,72486
+39,High School,Healthcare,1,Urban,6,Single,Full-time,7,Rent,Single-family home,Male,Public transit,70212
+40,Bachelor's,Education,4,Urban,44,Married,Full-time,6,Rent,Single-family home,Female,Public transit,371505
+58,Bachelor's,Healthcare,4,Rural,48,Single,Part-time,1,Rent,Single-family home,Female,Public transit,186662
+62,Bachelor's,Healthcare,1,Suburban,0,Married,Part-time,4,Rent,Apartment,Female,Public transit,73000
+66,High School,Finance,5,Urban,48,Married,Part-time,7,Rent,Apartment,Female,Biking,179805
+47,Bachelor's,Healthcare,0,Urban,49,Single,Full-time,5,Own,Apartment,Male,Public transit,73154
+40,Bachelor's,Education,5,Urban,45,Divorced,Full-time,5,Rent,Single-family home,Male,Biking,251810
+32,Bachelor's,Healthcare,3,Suburban,9,Married,Part-time,7,Own,Apartment,Male,Car,76131
+48,Bachelor's,Finance,3,Rural,20,Single,Full-time,5,Own,Townhouse,Male,Car,74506
+41,Bachelor's,Technology,5,Urban,2,Single,Full-time,5,Rent,Apartment,Male,Walking,792603
+37,Bachelor's,Healthcare,4,Suburban,31,Married,Full-time,1,Rent,Single-family home,Male,Walking,905504
+41,High School,Technology,3,Urban,25,Divorced,Full-time,4,Own,Single-family home,Male,Biking,70392
+41,High School,Technology,3,Suburban,21,Married,Part-time,3,Rent,Apartment,Female,Car,66030
+22,Master's,Education,1,Urban,4,Single,Part-time,7,Own,Single-family home,Male,Public transit,2476747
+44,Doctorate,Finance,0,Urban,16,Single,Self-employed,5,Own,Apartment,Female,Public transit,69014
+39,High School,Healthcare,2,Urban,5,Married,Full-time,1,Own,Apartment,Female,Car,137719
+45,High School,Healthcare,0,Rural,37,Single,Part-time,7,Own,Apartment,Female,Car,343764
+23,Master's,Finance,5,Urban,22,Divorced,Full-time,7,Rent,Apartment,Male,Walking,1943637
+42,High School,Others,5,Urban,32,Married,Full-time,3,Own,Single-family home,Male,Car,69486
+27,High School,Healthcare,1,Urban,40,Married,Full-time,7,Rent,Apartment,Female,Public transit,404359
+54,High School,Technology,0,Urban,44,Married,Full-time,1,Own,Single-family home,Female,Car,33074
+39,Bachelor's,Finance,0,Urban,23,Married,Part-time,1,Own,Apartment,Male,Car,75150
+52,High School,Technology,1,Suburban,46,Single,Self-employed,3,Rent,Apartment,Male,Biking,69334
+61,Master's,Education,4,Suburban,12,Married,Full-time,1,Own,Apartment,Female,Car,494819
+65,High School,Finance,3,Urban,31,Single,Full-time,3,Rent,Single-family home,Male,Public transit,8717226
+60,High School,Finance,3,Urban,13,Married,Full-time,5,Rent,Apartment,Female,Public transit,95151
+24,Bachelor's,Technology,4,Urban,25,Married,Full-time,5,Rent,Townhouse,Male,Car,71718
+45,Bachelor's,Others,1,Urban,44,Married,Part-time,2,Own,Apartment,Male,Walking,74496
+25,Doctorate,Healthcare,2,Suburban,1,Married,Part-time,6,Rent,Single-family home,Female,Biking,405190
+34,Master's,Others,3,Suburban,33,Single,Part-time,3,Own,Townhouse,Female,Car,74066
+42,Master's,Others,2,Urban,17,Married,Part-time,2,Own,Townhouse,Male,Biking,64922
+31,Master's,Others,1,Urban,15,Married,Part-time,2,Rent,Townhouse,Male,Walking,426110
+31,Master's,Others,0,Urban,29,Married,Full-time,2,Own,Single-family home,Female,Car,72980
+22,Master's,Education,0,Urban,10,Married,Full-time,5,Own,Single-family home,Female,Car,72956
+43,Bachelor's,Technology,2,Urban,41,Married,Part-time,6,Own,Single-family home,Female,Public transit,67586
+18,High School,Others,4,Urban,1,Single,Part-time,6,Own,Apartment,Male,Walking,68228
+19,Bachelor's,Others,4,Urban,22,Single,Part-time,5,Rent,Single-family home,Female,Biking,65546
+28,Bachelor's,Healthcare,4,Urban,8,Single,Self-employed,1,Rent,Single-family home,Male,Car,94189
+65,Bachelor's,Others,4,Urban,41,Married,Part-time,7,Own,Apartment,Female,Biking,3898551
+28,Master's,Finance,0,Suburban,35,Married,Full-time,6,Own,Single-family home,Male,Car,172260
+66,Bachelor's,Technology,5,Urban,38,Single,Self-employed,7,Own,Townhouse,Male,Public transit,1358020
+38,Master's,Healthcare,0,Rural,8,Married,Full-time,1,Rent,Single-family home,Female,Public transit,413554
+24,Master's,Technology,3,Urban,33,Married,Self-employed,7,Own,Townhouse,Female,Public transit,72276
+39,Bachelor's,Technology,5,Rural,0,Married,Part-time,1,Rent,Single-family home,Female,Biking,70098
+32,Bachelor's,Others,5,Urban,8,Married,Part-time,6,Rent,Apartment,Female,Car,71262
+25,Bachelor's,Healthcare,3,Urban,31,Married,Full-time,3,Own,Apartment,Male,Biking,66734
+24,Bachelor's,Technology,1,Urban,7,Divorced,Self-employed,1,Rent,Apartment,Male,Car,453099
+51,Master's,Others,4,Urban,22,Married,Self-employed,5,Own,Single-family home,Male,Biking,66858
+38,Bachelor's,Others,0,Urban,48,Single,Part-time,7,Own,Single-family home,Female,Public transit,71314
+29,High School,Finance,2,Urban,26,Single,Part-time,2,Own,Single-family home,Female,Public transit,73766
+20,High School,Education,1,Urban,11,Single,Part-time,5,Rent,Single-family home,Female,Public transit,74850
+57,High School,Technology,3,Urban,11,Married,Self-employed,1,Own,Townhouse,Female,Car,66188
+44,Bachelor's,Finance,4,Urban,2,Single,Full-time,6,Rent,Townhouse,Male,Public transit,170031
+24,Master's,Technology,2,Urban,33,Single,Full-time,7,Rent,Townhouse,Male,Walking,74306
+62,Master's,Others,4,Suburban,21,Married,Full-time,5,Own,Apartment,Male,Car,2712084
+47,Doctorate,Technology,3,Suburban,0,Married,Full-time,2,Rent,Townhouse,Female,Car,65678
+53,Master's,Technology,0,Suburban,32,Married,Part-time,7,Own,Single-family home,Female,Car,68224
+65,High School,Technology,5,Urban,9,Single,Full-time,3,Own,Townhouse,Female,Car,71622
+36,High School,Education,5,Urban,1,Married,Self-employed,6,Own,Single-family home,Female,Walking,72978
+33,Doctorate,Education,4,Urban,31,Divorced,Full-time,4,Own,Single-family home,Female,Walking,180944
+38,Bachelor's,Finance,5,Urban,37,Married,Self-employed,7,Own,Townhouse,Male,Public transit,69200
+37,Master's,Healthcare,1,Rural,11,Divorced,Full-time,7,Own,Single-family home,Female,Public transit,73216
+20,Master's,Technology,3,Suburban,5,Married,Self-employed,1,Rent,Apartment,Female,Car,129826
+64,Bachelor's,Finance,5,Urban,44,Married,Self-employed,3,Rent,Apartment,Male,Public transit,69588
+54,Bachelor's,Technology,4,Urban,10,Single,Part-time,2,Own,Single-family home,Female,Public transit,69518
+50,High School,Education,4,Urban,40,Married,Part-time,2,Rent,Townhouse,Male,Public transit,74744
+41,High School,Technology,1,Urban,40,Married,Full-time,3,Own,Apartment,Female,Public transit,66950
+28,High School,Finance,0,Urban,30,Married,Full-time,1,Own,Single-family home,Female,Walking,46863
+46,Bachelor's,Others,5,Suburban,30,Single,Full-time,6,Own,Apartment,Male,Biking,1349066
+35,Bachelor's,Technology,1,Urban,36,Single,Full-time,3,Own,Single-family home,Female,Public transit,58139
+41,High School,Healthcare,5,Urban,44,Single,Part-time,4,Rent,Townhouse,Male,Walking,377164
+52,High School,Finance,5,Urban,14,Married,Full-time,1,Own,Apartment,Male,Car,71660
+59,Bachelor's,Healthcare,5,Suburban,32,Single,Full-time,5,Own,Single-family home,Male,Biking,66086
+68,Master's,Healthcare,5,Urban,20,Married,Full-time,5,Own,Townhouse,Male,Biking,70596
+57,Bachelor's,Technology,4,Urban,28,Divorced,Full-time,2,Rent,Apartment,Female,Biking,310343
+49,High School,Others,1,Urban,4,Married,Self-employed,6,Own,Single-family home,Male,Car,71464
+52,Bachelor's,Others,3,Urban,33,Single,Full-time,5,Own,Apartment,Female,Public transit,73700
+18,Master's,Finance,5,Urban,15,Single,Full-time,5,Own,Single-family home,Female,Walking,67148
+55,Bachelor's,Healthcare,5,Rural,45,Married,Part-time,3,Own,Apartment,Male,Car,132425
+35,Master's,Education,0,Urban,43,Married,Part-time,2,Rent,Apartment,Male,Public transit,113085
+59,High School,Technology,2,Urban,14,Single,Full-time,3,Own,Apartment,Male,Public transit,70014
+40,Master's,Healthcare,1,Urban,8,Married,Part-time,7,Rent,Apartment,Male,Car,75100
+39,Bachelor's,Others,5,Suburban,43,Single,Full-time,6,Own,Single-family home,Male,Walking,70144
+23,Doctorate,Healthcare,3,Urban,46,Single,Part-time,7,Own,Apartment,Female,Public transit,72912
+47,Doctorate,Finance,2,Suburban,48,Married,Self-employed,3,Rent,Apartment,Female,Car,313450
+61,Bachelor's,Technology,3,Suburban,42,Single,Part-time,5,Own,Townhouse,Male,Public transit,72294
+61,High School,Technology,1,Urban,38,Married,Part-time,1,Own,Apartment,Male,Public transit,73084
+39,High School,Education,2,Urban,40,Married,Full-time,2,Rent,Single-family home,Male,Walking,304159
+40,Bachelor's,Finance,3,Urban,24,Married,Part-time,4,Rent,Apartment,Female,Car,177371
+68,Master's,Education,4,Suburban,6,Single,Full-time,5,Own,Townhouse,Female,Walking,6814961
+51,High School,Technology,0,Urban,23,Single,Part-time,7,Own,Apartment,Male,Public transit,70374
+66,High School,Technology,5,Urban,25,Single,Full-time,6,Rent,Townhouse,Female,Car,3037489
+36,High School,Technology,0,Rural,26,Married,Part-time,4,Rent,Townhouse,Female,Public transit,3834732
+60,Bachelor's,Technology,3,Suburban,13,Married,Full-time,1,Rent,Townhouse,Male,Car,4644089
+59,Doctorate,Finance,0,Rural,46,Married,Part-time,5,Own,Townhouse,Male,Public transit,68360
+61,High School,Education,5,Urban,3,Single,Self-employed,1,Own,Single-family home,Male,Public transit,46531
+37,Master's,Education,1,Rural,50,Single,Full-time,3,Own,Single-family home,Female,Public transit,73320
+18,Master's,Healthcare,5,Urban,31,Single,Self-employed,6,Own,Single-family home,Male,Car,64982
+30,High School,Finance,0,Urban,39,Single,Full-time,2,Rent,Townhouse,Female,Biking,73400
+57,High School,Education,3,Urban,28,Divorced,Part-time,6,Rent,Apartment,Female,Public transit,5039179
+60,High School,Education,5,Urban,15,Divorced,Full-time,7,Own,Townhouse,Male,Car,74294
+70,Master's,Technology,3,Rural,3,Single,Part-time,1,Own,Single-family home,Male,Biking,51169
+63,Master's,Education,0,Suburban,49,Married,Part-time,5,Own,Townhouse,Female,Public transit,70244
+19,High School,Finance,0,Suburban,34,Married,Full-time,4,Own,Apartment,Female,Car,73452
+53,High School,Healthcare,2,Urban,33,Married,Part-time,4,Rent,Apartment,Female,Car,65728
+65,Master's,Technology,1,Urban,10,Single,Full-time,6,Own,Apartment,Female,Biking,68454
+23,Master's,Technology,2,Urban,50,Single,Full-time,3,Own,Apartment,Male,Public transit,66728
+25,Master's,Healthcare,3,Urban,20,Single,Self-employed,5,Rent,Single-family home,Female,Biking,69968
+70,Bachelor's,Technology,0,Suburban,45,Single,Part-time,5,Own,Apartment,Female,Public transit,68552
+70,Bachelor's,Education,2,Urban,15,Single,Full-time,5,Own,Apartment,Male,Car,6742582
+66,Master's,Healthcare,4,Suburban,37,Married,Full-time,1,Rent,Single-family home,Male,Biking,5718811
+56,High School,Healthcare,3,Urban,5,Single,Part-time,7,Rent,Apartment,Male,Car,67538
+48,Bachelor's,Others,1,Urban,3,Single,Part-time,7,Own,Apartment,Female,Car,52530
+49,Bachelor's,Finance,0,Urban,36,Married,Self-employed,7,Own,Single-family home,Female,Car,66694
+46,High School,Others,2,Urban,26,Single,Full-time,3,Rent,Townhouse,Male,Car,490089
+52,High School,Healthcare,3,Urban,9,Single,Part-time,7,Own,Single-family home,Female,Public transit,923336
+53,Bachelor's,Healthcare,4,Suburban,17,Married,Full-time,1,Rent,Townhouse,Female,Public transit,1066417
+37,Master's,Others,1,Urban,20,Married,Full-time,6,Rent,Single-family home,Female,Car,1154564
+28,High School,Others,1,Urban,25,Married,Full-time,3,Own,Apartment,Male,Public transit,73622
+69,Master's,Others,4,Urban,37,Single,Part-time,1,Own,Townhouse,Female,Public transit,66256
+70,Master's,Healthcare,0,Urban,13,Married,Part-time,2,Rent,Apartment,Female,Public transit,37467
+28,Bachelor's,Healthcare,1,Urban,0,Married,Part-time,4,Rent,Townhouse,Female,Car,73878
+28,Bachelor's,Technology,1,Rural,40,Married,Full-time,7,Own,Apartment,Male,Walking,68866
+34,Bachelor's,Education,1,Urban,21,Married,Part-time,6,Own,Single-family home,Female,Biking,68254
+58,Bachelor's,Others,5,Urban,38,Married,Self-employed,3,Own,Single-family home,Female,Public transit,69630
+37,Master's,Healthcare,0,Urban,46,Married,Full-time,6,Own,Apartment,Female,Car,71332
+65,Master's,Technology,1,Urban,44,Married,Self-employed,2,Own,Single-family home,Female,Car,65902
+27,Bachelor's,Healthcare,0,Urban,6,Single,Part-time,7,Own,Single-family home,Male,Public transit,72606
+47,High School,Education,5,Urban,45,Married,Part-time,7,Rent,Single-family home,Male,Biking,66056
+57,High School,Others,3,Urban,14,Single,Full-time,1,Own,Single-family home,Male,Biking,5062222
+21,Bachelor's,Healthcare,0,Urban,50,Divorced,Part-time,3,Own,Townhouse,Female,Car,74338
+20,High School,Healthcare,0,Suburban,48,Married,Full-time,3,Rent,Apartment,Female,Car,1171403
+57,Bachelor's,Others,0,Urban,49,Single,Full-time,2,Own,Apartment,Male,Public transit,68380
+37,Bachelor's,Technology,1,Urban,18,Single,Self-employed,2,Own,Townhouse,Female,Public transit,1590059
+60,Bachelor's,Technology,1,Urban,37,Single,Full-time,4,Rent,Single-family home,Male,Biking,66458
+29,High School,Others,1,Urban,24,Single,Full-time,3,Own,Single-family home,Male,Biking,66010
+28,Bachelor's,Technology,1,Urban,8,Divorced,Full-time,2,Rent,Apartment,Female,Public transit,83551
+62,High School,Education,1,Rural,32,Married,Full-time,6,Rent,Apartment,Male,Public transit,70900
+18,Bachelor's,Healthcare,5,Urban,4,Married,Full-time,7,Own,Apartment,Male,Public transit,126010
+70,Master's,Healthcare,5,Urban,17,Divorced,Part-time,1,Rent,Apartment,Male,Public transit,66968
+70,Doctorate,Education,5,Urban,29,Married,Self-employed,7,Own,Single-family home,Female,Public transit,3396491
+42,Bachelor's,Healthcare,1,Urban,40,Married,Full-time,2,Own,Apartment,Female,Public transit,66898
+26,Bachelor's,Others,3,Urban,40,Single,Full-time,5,Rent,Apartment,Male,Walking,55492
+70,Master's,Healthcare,2,Rural,48,Single,Full-time,4,Own,Townhouse,Female,Public transit,71446
+55,High School,Finance,1,Suburban,11,Single,Self-employed,6,Own,Apartment,Female,Biking,72720
+67,Bachelor's,Healthcare,4,Urban,49,Single,Self-employed,6,Own,Single-family home,Male,Car,74840
+37,Bachelor's,Finance,4,Urban,33,Married,Full-time,2,Own,Single-family home,Female,Car,73352
+33,High School,Finance,4,Suburban,33,Married,Part-time,3,Own,Single-family home,Male,Car,73766
+67,High School,Education,5,Suburban,48,Married,Full-time,3,Rent,Townhouse,Male,Walking,1024564
+38,Master's,Healthcare,3,Urban,36,Single,Full-time,3,Rent,Apartment,Female,Car,704064
+63,High School,Finance,1,Urban,29,Married,Full-time,3,Rent,Single-family home,Female,Public transit,74160
+45,Bachelor's,Healthcare,5,Urban,13,Divorced,Part-time,6,Rent,Single-family home,Male,Biking,73484
+36,High School,Healthcare,4,Urban,12,Married,Part-time,1,Rent,Apartment,Female,Public transit,309418
+30,High School,Finance,3,Urban,31,Single,Part-time,5,Own,Single-family home,Male,Biking,75124
+51,High School,Healthcare,3,Urban,12,Married,Full-time,3,Own,Single-family home,Female,Car,72470
+42,High School,Healthcare,5,Urban,34,Married,Self-employed,7,Own,Apartment,Male,Biking,72274
+68,Bachelor's,Education,1,Urban,24,Divorced,Part-time,1,Own,Townhouse,Male,Car,72004
+54,Master's,Healthcare,5,Urban,47,Married,Full-time,1,Own,Apartment,Male,Car,67044
+31,High School,Healthcare,0,Suburban,45,Married,Part-time,1,Own,Apartment,Male,Biking,74332
+21,Doctorate,Healthcare,4,Urban,24,Married,Part-time,6,Own,Single-family home,Male,Car,47788
+31,High School,Healthcare,2,Urban,34,Married,Self-employed,6,Rent,Apartment,Female,Car,797921
+25,Bachelor's,Healthcare,5,Suburban,34,Married,Part-time,3,Rent,Apartment,Male,Public transit,71504
+58,Master's,Technology,1,Urban,46,Divorced,Part-time,6,Rent,Apartment,Male,Car,2639926
+33,High School,Finance,4,Urban,27,Married,Full-time,2,Own,Single-family home,Female,Car,71812
+57,Bachelor's,Healthcare,3,Urban,3,Single,Part-time,5,Rent,Single-family home,Male,Car,1763246
+57,Bachelor's,Healthcare,0,Urban,31,Single,Full-time,5,Rent,Single-family home,Female,Public transit,9639102
+51,Bachelor's,Others,2,Rural,42,Married,Full-time,1,Own,Apartment,Male,Biking,779877
+37,Bachelor's,Education,3,Urban,1,Divorced,Part-time,4,Rent,Single-family home,Female,Biking,74060
+39,High School,Healthcare,0,Urban,44,Married,Part-time,5,Own,Apartment,Female,Walking,71338
+69,Bachelor's,Healthcare,1,Urban,46,Married,Full-time,1,Rent,Apartment,Female,Car,2219656
+22,Bachelor's,Education,1,Urban,30,Married,Full-time,3,Own,Apartment,Male,Public transit,69358
+22,High School,Others,0,Urban,40,Married,Full-time,4,Own,Single-family home,Male,Public transit,72610
+46,Bachelor's,Technology,5,Urban,8,Married,Full-time,6,Own,Townhouse,Female,Car,72234
+65,Bachelor's,Healthcare,5,Urban,37,Single,Part-time,6,Own,Apartment,Male,Car,68294
+34,High School,Healthcare,0,Urban,35,Single,Self-employed,3,Own,Single-family home,Male,Biking,73146
+61,Bachelor's,Education,2,Urban,18,Single,Part-time,7,Own,Apartment,Male,Car,1149251
+54,Bachelor's,Healthcare,0,Suburban,42,Married,Part-time,4,Rent,Townhouse,Female,Public transit,70516
+23,High School,Finance,3,Urban,39,Single,Full-time,3,Rent,Single-family home,Male,Public transit,71560
+27,High School,Technology,1,Urban,10,Married,Full-time,7,Rent,Apartment,Female,Car,54646
+55,Master's,Healthcare,5,Urban,39,Married,Full-time,4,Rent,Townhouse,Female,Biking,75420
+38,Bachelor's,Technology,2,Urban,47,Married,Part-time,2,Rent,Single-family home,Female,Biking,4359552
+35,Bachelor's,Technology,5,Suburban,50,Married,Self-employed,3,Own,Townhouse,Male,Walking,209662
+23,Master's,Education,4,Suburban,32,Married,Full-time,2,Rent,Apartment,Female,Public transit,58468
+33,High School,Technology,1,Suburban,26,Single,Self-employed,5,Rent,Apartment,Male,Car,6200526
+59,High School,Finance,0,Urban,0,Single,Part-time,7,Rent,Townhouse,Female,Car,71182
+18,High School,Finance,0,Urban,41,Divorced,Self-employed,4,Own,Single-family home,Male,Public transit,4280718
+40,High School,Healthcare,0,Urban,18,Single,Part-time,3,Own,Apartment,Female,Car,6992811
+31,Doctorate,Finance,1,Rural,1,Married,Full-time,6,Own,Single-family home,Male,Public transit,68530
+59,Master's,Education,0,Urban,14,Married,Full-time,6,Own,Single-family home,Male,Public transit,66410
+19,High School,Healthcare,2,Urban,47,Single,Self-employed,7,Rent,Single-family home,Female,Public transit,69112
+60,Bachelor's,Education,4,Urban,34,Married,Self-employed,4,Own,Apartment,Female,Biking,71492
+57,Master's,Technology,2,Urban,39,Married,Full-time,7,Rent,Single-family home,Female,Public transit,72828
+52,Bachelor's,Healthcare,5,Urban,28,Married,Part-time,5,Own,Townhouse,Female,Car,67580
+61,Master's,Others,0,Suburban,26,Single,Full-time,2,Rent,Single-family home,Female,Public transit,3391854
+54,Bachelor's,Technology,2,Rural,12,Single,Self-employed,1,Rent,Single-family home,Male,Public transit,4585964
+52,Bachelor's,Finance,5,Suburban,49,Married,Full-time,3,Rent,Single-family home,Male,Car,68110
+58,Bachelor's,Finance,1,Urban,46,Single,Part-time,4,Rent,Apartment,Male,Walking,4149454
+41,Doctorate,Finance,1,Urban,13,Married,Full-time,6,Rent,Townhouse,Male,Public transit,227004
+24,Bachelor's,Others,4,Suburban,31,Single,Part-time,3,Rent,Townhouse,Male,Car,136264
+33,High School,Finance,5,Urban,48,Married,Full-time,3,Own,Single-family home,Female,Public transit,73600
+49,Bachelor's,Healthcare,4,Urban,24,Single,Full-time,6,Rent,Apartment,Male,Public transit,55420
+61,Bachelor's,Education,0,Urban,25,Married,Full-time,4,Rent,Townhouse,Male,Public transit,7570077
+20,Bachelor's,Finance,1,Urban,36,Married,Full-time,4,Own,Single-family home,Female,Public transit,544437
+24,Bachelor's,Finance,2,Suburban,22,Married,Full-time,6,Rent,Apartment,Male,Biking,3551590
+70,Doctorate,Education,4,Rural,33,Divorced,Part-time,7,Own,Single-family home,Male,Car,69418
+27,Master's,Healthcare,3,Urban,23,Single,Full-time,1,Own,Single-family home,Male,Car,72370
+20,Master's,Technology,1,Urban,9,Single,Self-employed,7,Rent,Apartment,Female,Walking,4076397
+19,Bachelor's,Technology,1,Urban,43,Single,Full-time,4,Own,Apartment,Female,Car,69334
+54,Bachelor's,Healthcare,1,Urban,41,Single,Part-time,2,Own,Single-family home,Female,Car,69926
+55,Bachelor's,Healthcare,5,Urban,1,Single,Full-time,7,Own,Apartment,Male,Car,74910
+19,High School,Finance,2,Urban,34,Married,Part-time,6,Rent,Apartment,Male,Biking,233049
+66,Bachelor's,Healthcare,0,Urban,42,Married,Full-time,3,Own,Single-family home,Female,Car,65986
+53,Bachelor's,Education,5,Urban,8,Divorced,Full-time,1,Own,Single-family home,Male,Biking,1384436
+69,High School,Finance,3,Urban,28,Married,Full-time,2,Own,Apartment,Female,Car,65692
+20,High School,Education,0,Urban,37,Single,Part-time,2,Own,Apartment,Male,Car,75266
+32,Doctorate,Finance,5,Urban,45,Married,Self-employed,3,Own,Apartment,Female,Car,66406
+29,Master's,Healthcare,3,Urban,21,Single,Self-employed,3,Own,Townhouse,Female,Car,151844
+44,Master's,Finance,3,Urban,42,Single,Full-time,1,Rent,Apartment,Male,Car,74902
+68,Master's,Finance,5,Urban,33,Single,Self-employed,3,Own,Apartment,Male,Biking,82327
+45,High School,Healthcare,0,Urban,23,Single,Full-time,3,Own,Single-family home,Female,Biking,68070
+66,Bachelor's,Technology,5,Suburban,4,Married,Full-time,4,Rent,Single-family home,Female,Public transit,66420
+31,Bachelor's,Healthcare,0,Suburban,5,Divorced,Part-time,3,Own,Apartment,Male,Biking,96625
+32,Bachelor's,Healthcare,2,Urban,8,Married,Full-time,5,Own,Single-family home,Male,Car,74530
+27,Master's,Healthcare,4,Urban,42,Divorced,Full-time,5,Rent,Townhouse,Female,Biking,66480
+54,High School,Finance,0,Urban,30,Married,Self-employed,7,Rent,Apartment,Female,Public transit,75234
+68,Bachelor's,Technology,3,Urban,26,Married,Part-time,5,Own,Apartment,Male,Car,67672
+65,Bachelor's,Healthcare,1,Urban,40,Divorced,Full-time,5,Own,Single-family home,Female,Public transit,71018
+65,Bachelor's,Others,4,Suburban,27,Divorced,Self-employed,5,Rent,Single-family home,Female,Car,751747
+35,Bachelor's,Finance,3,Urban,4,Married,Full-time,2,Rent,Apartment,Female,Biking,66842
+62,High School,Healthcare,0,Suburban,21,Single,Part-time,1,Rent,Townhouse,Female,Public transit,943070
+63,Master's,Technology,1,Urban,8,Single,Full-time,6,Own,Apartment,Male,Public transit,71844
+65,Bachelor's,Technology,4,Suburban,20,Single,Part-time,6,Own,Single-family home,Female,Public transit,73580
+26,Master's,Technology,5,Urban,9,Single,Part-time,6,Rent,Townhouse,Male,Walking,367841
+18,High School,Healthcare,2,Urban,42,Married,Self-employed,1,Own,Single-family home,Female,Public transit,70692
+44,Master's,Healthcare,4,Suburban,16,Married,Full-time,6,Own,Single-family home,Female,Public transit,67746
+36,Bachelor's,Technology,3,Rural,34,Married,Self-employed,1,Own,Apartment,Male,Public transit,70312
+53,High School,Healthcare,1,Urban,18,Divorced,Part-time,6,Own,Apartment,Female,Biking,4902680
+32,Master's,Technology,3,Urban,38,Single,Part-time,2,Rent,Townhouse,Female,Public transit,64920
+33,Doctorate,Healthcare,2,Urban,22,Married,Full-time,3,Own,Apartment,Female,Public transit,126173
+22,Master's,Finance,1,Suburban,4,Single,Self-employed,7,Rent,Townhouse,Male,Car,73622
+61,Bachelor's,Healthcare,1,Urban,48,Married,Self-employed,2,Own,Single-family home,Female,Car,446052
+63,High School,Healthcare,0,Urban,8,Single,Part-time,1,Own,Townhouse,Female,Public transit,71510
+59,Master's,Finance,1,Urban,34,Married,Full-time,2,Own,Single-family home,Male,Biking,2812115
+66,Bachelor's,Education,3,Urban,8,Married,Part-time,7,Rent,Apartment,Female,Biking,130013
+60,Bachelor's,Healthcare,0,Urban,45,Married,Self-employed,3,Own,Single-family home,Female,Walking,414620
+50,Master's,Healthcare,3,Urban,29,Single,Self-employed,1,Own,Townhouse,Male,Biking,434719
+35,Doctorate,Healthcare,1,Suburban,45,Married,Full-time,1,Own,Townhouse,Male,Public transit,69184
+58,Bachelor's,Healthcare,2,Urban,45,Single,Full-time,1,Own,Townhouse,Male,Public transit,65431
+43,Bachelor's,Finance,4,Urban,37,Married,Full-time,4,Rent,Apartment,Male,Car,3345291
+22,Bachelor's,Healthcare,0,Urban,28,Single,Self-employed,7,Own,Single-family home,Male,Walking,61314
+65,Bachelor's,Healthcare,5,Suburban,19,Single,Self-employed,5,Own,Single-family home,Male,Public transit,72834
+34,Bachelor's,Others,2,Urban,15,Married,Full-time,3,Own,Apartment,Female,Public transit,5546603
+70,Bachelor's,Technology,1,Suburban,49,Married,Full-time,7,Rent,Townhouse,Female,Public transit,68046
+31,High School,Finance,0,Suburban,36,Married,Full-time,7,Own,Apartment,Male,Car,66198
+25,Bachelor's,Healthcare,1,Urban,20,Married,Full-time,2,Rent,Apartment,Female,Public transit,204685
+49,High School,Finance,0,Urban,24,Married,Full-time,2,Own,Apartment,Female,Car,70868
+49,Bachelor's,Healthcare,2,Urban,25,Married,Full-time,5,Own,Apartment,Female,Car,65588
+57,Bachelor's,Education,2,Urban,5,Single,Full-time,1,Own,Apartment,Female,Biking,193886
+23,High School,Healthcare,4,Rural,40,Single,Full-time,6,Own,Apartment,Female,Walking,404358
+32,High School,Others,2,Urban,3,Single,Full-time,7,Rent,Townhouse,Male,Biking,8220090
+47,Bachelor's,Finance,3,Suburban,11,Married,Self-employed,7,Rent,Apartment,Male,Biking,2214892
+44,Bachelor's,Healthcare,3,Suburban,38,Single,Full-time,4,Rent,Single-family home,Female,Car,3064841
+62,Bachelor's,Finance,3,Urban,43,Married,Self-employed,5,Own,Single-family home,Female,Walking,4098854
+36,High School,Technology,5,Urban,49,Married,Self-employed,4,Rent,Single-family home,Female,Public transit,72202
+58,High School,Healthcare,2,Urban,11,Single,Part-time,5,Own,Single-family home,Male,Public transit,3781393
+62,Master's,Healthcare,0,Urban,49,Divorced,Part-time,7,Own,Apartment,Male,Biking,67280
+39,High School,Finance,4,Suburban,28,Single,Full-time,3,Own,Apartment,Female,Car,72412
+26,Master's,Education,4,Urban,24,Married,Part-time,3,Own,Single-family home,Male,Public transit,70884
+45,High School,Finance,3,Urban,19,Single,Full-time,3,Own,Single-family home,Male,Biking,74462
+31,Master's,Healthcare,5,Urban,38,Single,Part-time,2,Rent,Single-family home,Female,Public transit,340811
+21,Master's,Others,1,Urban,7,Married,Full-time,6,Rent,Single-family home,Female,Car,92234
+56,High School,Healthcare,4,Urban,44,Single,Part-time,4,Rent,Single-family home,Male,Biking,78242
+70,High School,Education,2,Suburban,28,Single,Part-time,5,Own,Single-family home,Male,Public transit,1412065
+38,Bachelor's,Healthcare,5,Urban,26,Single,Full-time,7,Rent,Apartment,Male,Walking,37564
+36,Bachelor's,Others,3,Urban,49,Divorced,Full-time,4,Rent,Apartment,Female,Car,86052
+59,High School,Technology,5,Urban,50,Married,Self-employed,2,Own,Apartment,Female,Public transit,72272
+47,Bachelor's,Finance,1,Urban,37,Married,Part-time,1,Own,Townhouse,Male,Walking,448650
+70,High School,Education,2,Urban,14,Single,Full-time,2,Rent,Apartment,Male,Car,8216769
+37,Master's,Healthcare,0,Suburban,4,Married,Part-time,1,Rent,Single-family home,Male,Walking,70690
+24,High School,Others,5,Urban,15,Married,Part-time,4,Own,Apartment,Female,Public transit,67052
+26,Bachelor's,Others,5,Suburban,10,Married,Self-employed,5,Own,Apartment,Female,Public transit,369557
+68,Bachelor's,Finance,3,Urban,17,Married,Self-employed,5,Own,Townhouse,Male,Public transit,1698479
+31,Master's,Technology,2,Urban,20,Married,Full-time,2,Own,Single-family home,Male,Biking,74060
+57,High School,Healthcare,2,Urban,24,Married,Part-time,1,Rent,Townhouse,Female,Biking,321391
+62,Bachelor's,Technology,4,Urban,27,Married,Self-employed,2,Rent,Single-family home,Male,Public transit,72754
+34,Bachelor's,Technology,4,Rural,9,Married,Self-employed,5,Rent,Apartment,Female,Car,72054
+66,Master's,Healthcare,4,Urban,15,Single,Full-time,7,Rent,Apartment,Male,Biking,48535
+21,Master's,Others,0,Urban,37,Married,Part-time,7,Rent,Apartment,Female,Public transit,80940
+50,Bachelor's,Others,0,Urban,42,Married,Full-time,2,Own,Single-family home,Male,Car,69100
+58,High School,Technology,4,Suburban,0,Single,Full-time,4,Rent,Single-family home,Female,Public transit,70158
+31,Master's,Others,4,Suburban,6,Married,Part-time,6,Rent,Single-family home,Female,Public transit,6550812
+25,Bachelor's,Technology,4,Urban,3,Married,Full-time,1,Own,Townhouse,Female,Public transit,9000568
+51,Bachelor's,Finance,1,Urban,50,Single,Self-employed,4,Own,Townhouse,Female,Public transit,69640
+45,Doctorate,Finance,3,Urban,1,Single,Self-employed,4,Rent,Townhouse,Male,Car,70960
+68,Master's,Others,4,Urban,5,Single,Part-time,5,Rent,Single-family home,Male,Biking,2280108
+31,High School,Healthcare,5,Urban,22,Married,Part-time,2,Own,Single-family home,Male,Biking,5792155
+37,Bachelor's,Others,1,Urban,1,Divorced,Full-time,3,Rent,Apartment,Male,Biking,31044
+25,Bachelor's,Finance,4,Urban,45,Married,Part-time,7,Own,Single-family home,Female,Walking,71356
+63,Doctorate,Technology,2,Urban,6,Married,Self-employed,7,Own,Apartment,Male,Public transit,1603797
+61,High School,Healthcare,2,Urban,41,Single,Part-time,3,Own,Apartment,Male,Car,70606
+40,Bachelor's,Finance,5,Urban,29,Married,Part-time,4,Own,Apartment,Female,Biking,72716
+44,Bachelor's,Healthcare,0,Urban,18,Married,Self-employed,6,Own,Townhouse,Male,Car,154486
+58,Bachelor's,Technology,1,Urban,50,Married,Part-time,6,Own,Single-family home,Female,Car,71340
+20,Bachelor's,Healthcare,1,Urban,40,Married,Full-time,7,Rent,Apartment,Female,Public transit,1434300
+63,High School,Technology,5,Urban,1,Married,Full-time,3,Own,Apartment,Male,Public transit,2352086
+40,Master's,Technology,3,Urban,10,Married,Full-time,4,Rent,Townhouse,Male,Car,9556337
+20,High School,Others,3,Urban,48,Single,Part-time,3,Own,Townhouse,Male,Car,70966
+21,Master's,Finance,3,Urban,14,Single,Part-time,4,Rent,Single-family home,Male,Public transit,1439955
+22,Bachelor's,Finance,2,Urban,40,Divorced,Full-time,4,Own,Apartment,Female,Biking,72600
+28,Master's,Others,4,Urban,12,Single,Self-employed,3,Own,Single-family home,Female,Car,67060
+68,Master's,Technology,1,Urban,10,Single,Part-time,6,Rent,Apartment,Female,Car,75497
+28,Bachelor's,Technology,2,Urban,33,Divorced,Full-time,5,Own,Single-family home,Female,Public transit,70428
+29,Doctorate,Finance,2,Urban,34,Single,Part-time,2,Own,Single-family home,Male,Car,71258
+31,Bachelor's,Healthcare,4,Urban,43,Divorced,Full-time,4,Rent,Townhouse,Female,Public transit,75410
+21,High School,Healthcare,2,Suburban,38,Single,Self-employed,2,Rent,Apartment,Female,Biking,1398816
+19,High School,Healthcare,2,Urban,31,Married,Full-time,3,Rent,Single-family home,Male,Car,673754
+28,Master's,Technology,2,Urban,39,Single,Full-time,4,Rent,Single-family home,Female,Biking,66860
+54,Master's,Finance,3,Urban,34,Single,Full-time,2,Own,Townhouse,Female,Car,8381836
+50,High School,Others,3,Urban,33,Married,Part-time,5,Rent,Single-family home,Male,Walking,68558
+62,Bachelor's,Finance,2,Urban,39,Single,Self-employed,1,Own,Single-family home,Female,Biking,6515676
+37,Bachelor's,Others,3,Urban,14,Single,Full-time,6,Rent,Apartment,Female,Biking,71614
+22,High School,Healthcare,2,Urban,44,Married,Full-time,2,Rent,Single-family home,Male,Car,2082031
+21,Master's,Others,4,Urban,36,Married,Full-time,3,Rent,Apartment,Female,Car,69823
+24,Bachelor's,Healthcare,2,Suburban,9,Married,Part-time,6,Own,Single-family home,Male,Car,1367591
+35,High School,Healthcare,5,Suburban,0,Married,Full-time,4,Own,Single-family home,Female,Public transit,69458
+52,Bachelor's,Healthcare,3,Suburban,23,Divorced,Part-time,1,Own,Single-family home,Male,Walking,8934233
+53,Master's,Finance,0,Urban,31,Single,Self-employed,4,Own,Townhouse,Male,Public transit,73950
+40,Bachelor's,Healthcare,4,Urban,9,Married,Full-time,6,Rent,Single-family home,Male,Public transit,70724
+28,Bachelor's,Others,1,Urban,42,Married,Self-employed,6,Own,Single-family home,Female,Public transit,69992
+66,High School,Healthcare,2,Suburban,24,Divorced,Full-time,6,Own,Townhouse,Female,Public transit,73436
+24,High School,Technology,0,Urban,50,Married,Self-employed,2,Own,Single-family home,Male,Public transit,1295240
+56,High School,Others,5,Urban,7,Single,Full-time,3,Rent,Single-family home,Female,Car,676939
+58,Master's,Healthcare,0,Suburban,35,Married,Part-time,2,Own,Apartment,Female,Public transit,67324
+69,Bachelor's,Technology,3,Suburban,17,Single,Full-time,4,Rent,Single-family home,Male,Car,1552014
+41,Bachelor's,Technology,4,Rural,21,Married,Full-time,2,Own,Single-family home,Female,Car,9892000
+21,High School,Technology,3,Urban,14,Married,Full-time,4,Own,Single-family home,Male,Car,70354
+40,Bachelor's,Technology,4,Rural,6,Divorced,Part-time,6,Rent,Apartment,Male,Biking,1103570
+34,Master's,Others,1,Urban,7,Single,Full-time,7,Rent,Apartment,Female,Public transit,72788
+45,Master's,Technology,4,Urban,36,Single,Full-time,5,Rent,Single-family home,Female,Public transit,70834
+36,Doctorate,Finance,1,Suburban,6,Single,Part-time,4,Rent,Single-family home,Male,Car,68648
+24,High School,Healthcare,1,Suburban,24,Single,Full-time,1,Rent,Townhouse,Male,Car,65104
+49,Bachelor's,Education,0,Suburban,24,Married,Full-time,6,Rent,Apartment,Male,Car,92572
+64,Doctorate,Technology,1,Suburban,28,Married,Part-time,1,Own,Apartment,Female,Biking,70492
+34,Master's,Technology,3,Suburban,45,Single,Full-time,3,Own,Apartment,Female,Public transit,68308
+37,Bachelor's,Finance,1,Urban,34,Single,Full-time,4,Rent,Single-family home,Male,Biking,73872
+37,Master's,Healthcare,1,Suburban,25,Single,Part-time,6,Rent,Single-family home,Female,Biking,1520874
+23,Bachelor's,Healthcare,1,Rural,28,Married,Full-time,1,Own,Apartment,Male,Biking,3567970
+29,Master's,Technology,2,Urban,45,Married,Self-employed,1,Own,Apartment,Female,Biking,157279
+32,Master's,Healthcare,1,Suburban,20,Single,Full-time,4,Rent,Single-family home,Female,Car,8440036
+59,Bachelor's,Technology,2,Urban,1,Married,Full-time,6,Own,Apartment,Female,Public transit,488866
+39,Bachelor's,Healthcare,4,Urban,11,Married,Full-time,2,Own,Townhouse,Male,Car,71574
+24,Master's,Education,5,Suburban,47,Married,Full-time,4,Rent,Single-family home,Male,Public transit,1115710
+44,High School,Education,0,Urban,3,Married,Part-time,1,Own,Single-family home,Male,Biking,57955
+41,Bachelor's,Technology,5,Suburban,48,Divorced,Part-time,4,Own,Single-family home,Female,Biking,73996
+65,Master's,Finance,0,Urban,46,Married,Self-employed,3,Rent,Single-family home,Male,Public transit,74578
+31,High School,Others,1,Urban,37,Divorced,Part-time,3,Rent,Apartment,Male,Car,72550
+20,Bachelor's,Technology,2,Urban,3,Married,Self-employed,4,Own,Townhouse,Female,Public transit,69060
+19,High School,Healthcare,4,Urban,26,Single,Full-time,6,Rent,Apartment,Male,Car,65868
+48,High School,Finance,1,Suburban,48,Single,Part-time,7,Rent,Apartment,Female,Public transit,1747095
+54,Master's,Education,4,Urban,30,Married,Full-time,3,Own,Single-family home,Male,Biking,67412
+66,Bachelor's,Others,0,Suburban,31,Married,Full-time,7,Rent,Apartment,Female,Public transit,193209
+61,Bachelor's,Education,1,Urban,43,Single,Full-time,7,Own,Single-family home,Female,Car,65538
+45,High School,Education,1,Urban,36,Married,Full-time,3,Own,Apartment,Female,Public transit,67038
+65,Doctorate,Technology,4,Urban,21,Married,Self-employed,4,Rent,Apartment,Female,Car,73084
+32,High School,Healthcare,0,Urban,15,Married,Full-time,3,Own,Single-family home,Female,Public transit,69332
+30,High School,Technology,2,Urban,29,Single,Full-time,4,Rent,Apartment,Male,Public transit,303475
+18,Master's,Education,2,Suburban,13,Married,Part-time,3,Own,Apartment,Female,Public transit,198355
+64,Bachelor's,Education,2,Urban,30,Single,Full-time,7,Rent,Single-family home,Male,Car,348056
+66,Bachelor's,Healthcare,2,Urban,5,Married,Self-employed,4,Rent,Apartment,Female,Biking,71168
+44,Bachelor's,Others,2,Suburban,27,Married,Self-employed,6,Own,Townhouse,Male,Car,73404
+63,Bachelor's,Technology,1,Urban,44,Married,Full-time,6,Own,Single-family home,Male,Public transit,122287
+35,Bachelor's,Education,4,Urban,35,Married,Part-time,4,Own,Apartment,Male,Car,2179690
+44,Bachelor's,Healthcare,2,Urban,35,Single,Self-employed,3,Own,Townhouse,Male,Public transit,508199
+20,Master's,Healthcare,3,Urban,17,Single,Full-time,5,Own,Townhouse,Female,Car,65442
+64,Bachelor's,Healthcare,5,Urban,19,Single,Full-time,1,Rent,Single-family home,Male,Public transit,119658
+35,Bachelor's,Finance,5,Urban,45,Single,Full-time,4,Own,Townhouse,Male,Public transit,1301811
+44,High School,Technology,2,Urban,31,Married,Full-time,3,Own,Apartment,Male,Public transit,69992
+23,High School,Healthcare,4,Urban,33,Married,Self-employed,1,Own,Apartment,Male,Public transit,74596
+34,Master's,Others,2,Rural,4,Married,Full-time,5,Own,Single-family home,Male,Car,44535
+67,Master's,Technology,3,Urban,19,Single,Part-time,5,Own,Townhouse,Male,Public transit,72116
+32,Bachelor's,Healthcare,3,Urban,31,Divorced,Full-time,5,Own,Townhouse,Female,Car,67342
+26,High School,Technology,0,Suburban,27,Married,Part-time,2,Own,Single-family home,Male,Public transit,71404
+69,Bachelor's,Finance,3,Suburban,0,Single,Full-time,7,Rent,Townhouse,Female,Public transit,71922
+24,Doctorate,Healthcare,1,Urban,34,Single,Part-time,3,Rent,Single-family home,Male,Public transit,67084
+29,Master's,Finance,3,Rural,44,Married,Full-time,1,Rent,Apartment,Female,Public transit,65968
+18,High School,Education,4,Urban,12,Divorced,Part-time,3,Rent,Apartment,Male,Public transit,71760
+45,Bachelor's,Healthcare,4,Urban,30,Single,Full-time,4,Own,Single-family home,Male,Walking,66674
+58,Bachelor's,Technology,5,Suburban,42,Married,Part-time,1,Own,Single-family home,Female,Public transit,67622
+50,Bachelor's,Education,2,Urban,8,Divorced,Part-time,6,Own,Single-family home,Female,Car,1041937
+39,Bachelor's,Healthcare,5,Rural,15,Single,Full-time,3,Rent,Townhouse,Male,Public transit,223488
+58,Bachelor's,Technology,3,Rural,49,Single,Full-time,2,Rent,Single-family home,Female,Walking,69954
+50,Bachelor's,Education,3,Suburban,50,Divorced,Full-time,6,Own,Single-family home,Female,Biking,66584
+52,Bachelor's,Technology,0,Suburban,32,Married,Full-time,2,Rent,Single-family home,Male,Biking,65646
+56,Master's,Healthcare,2,Urban,25,Single,Self-employed,5,Rent,Single-family home,Female,Car,67344
+20,Master's,Education,0,Urban,37,Divorced,Full-time,3,Own,Apartment,Male,Car,71356
+61,Master's,Technology,3,Urban,7,Divorced,Full-time,3,Rent,Single-family home,Male,Biking,370160
+49,Master's,Technology,4,Urban,28,Married,Full-time,3,Own,Apartment,Female,Car,70710
+58,Bachelor's,Others,5,Urban,35,Married,Part-time,3,Own,Single-family home,Female,Walking,66114
+64,High School,Healthcare,2,Urban,7,Married,Part-time,6,Own,Apartment,Female,Biking,124281
+34,Bachelor's,Others,0,Urban,44,Single,Full-time,6,Own,Townhouse,Female,Walking,65694
+46,Master's,Healthcare,1,Urban,39,Single,Full-time,5,Rent,Single-family home,Female,Public transit,69780
+46,Bachelor's,Finance,3,Urban,19,Married,Full-time,7,Own,Single-family home,Female,Car,66850
+47,Bachelor's,Technology,0,Urban,36,Married,Part-time,7,Own,Single-family home,Female,Public transit,73656
+66,Master's,Education,2,Urban,4,Married,Full-time,2,Own,Townhouse,Female,Car,68202
+55,High School,Finance,5,Urban,14,Married,Full-time,2,Own,Single-family home,Male,Car,71680
+26,Master's,Technology,4,Suburban,15,Married,Full-time,1,Own,Single-family home,Male,Public transit,68928
+42,High School,Technology,0,Urban,46,Single,Part-time,4,Rent,Single-family home,Female,Public transit,3618350
+46,High School,Others,3,Urban,16,Married,Part-time,5,Own,Apartment,Female,Car,89930
+19,Doctorate,Others,0,Suburban,9,Single,Self-employed,7,Rent,Apartment,Male,Biking,69242
+59,Bachelor's,Education,2,Urban,22,Married,Full-time,3,Own,Apartment,Male,Car,73986
+44,High School,Others,3,Urban,42,Married,Full-time,5,Own,Single-family home,Female,Car,65566
+22,High School,Education,3,Suburban,20,Divorced,Full-time,1,Own,Single-family home,Male,Car,1883778
+58,Bachelor's,Education,5,Urban,39,Married,Full-time,6,Own,Single-family home,Female,Biking,73198
+32,High School,Technology,0,Urban,36,Married,Self-employed,7,Own,Single-family home,Female,Public transit,347398
+19,Master's,Technology,1,Rural,16,Single,Part-time,2,Rent,Apartment,Male,Public transit,117191
+47,Bachelor's,Healthcare,5,Urban,22,Married,Part-time,5,Own,Apartment,Female,Biking,2455051
+45,Bachelor's,Finance,3,Urban,1,Divorced,Full-time,1,Own,Apartment,Male,Biking,400202
+45,High School,Others,1,Urban,30,Single,Part-time,3,Own,Apartment,Female,Car,4612808
+58,Bachelor's,Finance,2,Rural,42,Single,Part-time,2,Own,Single-family home,Male,Public transit,73296
+46,High School,Others,5,Suburban,33,Married,Full-time,3,Own,Apartment,Male,Car,503864
+47,Doctorate,Education,3,Rural,37,Single,Full-time,6,Own,Townhouse,Female,Public transit,69670
+58,Bachelor's,Finance,2,Urban,32,Single,Full-time,2,Own,Single-family home,Female,Walking,68904
+35,Bachelor's,Others,1,Urban,34,Married,Full-time,2,Own,Apartment,Male,Biking,70094
+48,Master's,Education,2,Urban,28,Married,Full-time,6,Own,Single-family home,Female,Public transit,71108
+30,Bachelor's,Finance,5,Urban,33,Married,Part-time,6,Own,Single-family home,Male,Public transit,75028
+22,Master's,Technology,0,Urban,24,Single,Part-time,5,Own,Apartment,Male,Public transit,66422
+63,Bachelor's,Finance,3,Suburban,50,Married,Part-time,4,Own,Apartment,Male,Public transit,66504
+66,High School,Healthcare,1,Rural,37,Single,Self-employed,6,Rent,Single-family home,Female,Biking,65884
+33,Bachelor's,Finance,3,Suburban,47,Single,Part-time,7,Rent,Apartment,Male,Public transit,1269786
+56,Bachelor's,Finance,5,Suburban,25,Single,Self-employed,3,Rent,Apartment,Male,Public transit,9463637
+34,High School,Education,1,Suburban,38,Single,Part-time,7,Own,Apartment,Male,Car,1224881
+53,Master's,Others,5,Urban,22,Married,Full-time,4,Own,Apartment,Male,Public transit,67594
+40,High School,Education,4,Suburban,35,Single,Part-time,5,Own,Single-family home,Male,Public transit,970503
+61,Bachelor's,Others,5,Suburban,44,Married,Part-time,7,Own,Apartment,Female,Biking,411809
+68,Master's,Others,1,Urban,36,Divorced,Full-time,1,Rent,Townhouse,Male,Public transit,68254
+22,Bachelor's,Healthcare,1,Suburban,5,Married,Full-time,6,Own,Apartment,Male,Biking,1298914
+43,Master's,Technology,1,Urban,10,Divorced,Part-time,3,Own,Single-family home,Male,Public transit,65710
+44,High School,Healthcare,4,Urban,27,Married,Full-time,2,Rent,Townhouse,Female,Biking,1034032
+25,High School,Education,2,Urban,29,Divorced,Full-time,6,Own,Townhouse,Female,Walking,67908
+35,High School,Technology,3,Urban,36,Married,Self-employed,1,Own,Single-family home,Male,Car,65242
+37,Master's,Healthcare,4,Urban,10,Single,Full-time,2,Rent,Townhouse,Female,Public transit,855229
+70,Bachelor's,Finance,2,Urban,23,Single,Part-time,4,Rent,Single-family home,Female,Car,2518896
+39,High School,Others,5,Urban,45,Married,Full-time,7,Own,Single-family home,Female,Public transit,67064
+43,Master's,Finance,1,Urban,2,Married,Self-employed,1,Rent,Single-family home,Female,Biking,70788
+31,High School,Others,4,Suburban,10,Married,Part-time,1,Own,Single-family home,Male,Biking,66486
+34,High School,Others,2,Urban,30,Single,Full-time,2,Rent,Apartment,Male,Car,68354
+24,Bachelor's,Technology,0,Urban,1,Single,Full-time,5,Own,Single-family home,Male,Public transit,9673819
+43,Master's,Education,0,Rural,26,Single,Part-time,1,Rent,Apartment,Male,Biking,71228
+40,Master's,Technology,3,Urban,28,Married,Full-time,7,Own,Townhouse,Male,Car,239208
+65,High School,Healthcare,3,Suburban,23,Married,Full-time,6,Rent,Single-family home,Male,Walking,194901
+51,Master's,Others,4,Urban,17,Married,Self-employed,2,Own,Single-family home,Male,Car,74926
+62,Master's,Finance,2,Urban,3,Single,Full-time,3,Own,Single-family home,Male,Car,70136
+42,Bachelor's,Technology,1,Urban,8,Single,Self-employed,7,Rent,Single-family home,Female,Public transit,69552
+55,High School,Technology,5,Urban,0,Single,Self-employed,1,Rent,Single-family home,Female,Biking,74644
+68,Bachelor's,Healthcare,3,Suburban,21,Married,Full-time,1,Rent,Single-family home,Male,Biking,471322
+29,High School,Healthcare,5,Rural,29,Single,Self-employed,4,Own,Single-family home,Female,Biking,6552817
+68,High School,Healthcare,5,Urban,1,Single,Full-time,6,Own,Single-family home,Female,Public transit,73332
+50,High School,Others,0,Urban,21,Married,Full-time,1,Rent,Townhouse,Male,Biking,1082536
+62,Bachelor's,Others,3,Urban,1,Married,Full-time,1,Own,Apartment,Female,Biking,9968165
+24,Bachelor's,Education,4,Urban,3,Married,Self-employed,3,Rent,Apartment,Male,Walking,282796
+64,Master's,Technology,4,Rural,3,Married,Full-time,4,Own,Apartment,Female,Car,33767
+64,Master's,Education,5,Urban,11,Married,Self-employed,6,Own,Single-family home,Female,Public transit,65754
+46,Bachelor's,Others,5,Suburban,50,Single,Full-time,4,Own,Apartment,Female,Car,7054346
+44,Master's,Finance,3,Rural,48,Married,Part-time,5,Own,Single-family home,Male,Car,66396
+21,Master's,Healthcare,4,Urban,10,Single,Part-time,2,Rent,Single-family home,Male,Public transit,64954
+57,Bachelor's,Technology,0,Urban,24,Married,Full-time,1,Own,Townhouse,Female,Public transit,339329
+52,Doctorate,Technology,5,Urban,22,Single,Full-time,4,Rent,Apartment,Male,Car,74016
+34,Master's,Education,0,Urban,2,Single,Self-employed,6,Rent,Single-family home,Male,Car,50964
+67,Master's,Healthcare,4,Suburban,34,Married,Self-employed,4,Rent,Single-family home,Female,Public transit,73976
+31,Master's,Education,2,Urban,22,Married,Part-time,2,Rent,Apartment,Female,Walking,66088
+22,High School,Healthcare,2,Rural,31,Married,Part-time,1,Own,Apartment,Male,Car,65939
+20,Bachelor's,Finance,5,Urban,39,Married,Part-time,5,Own,Single-family home,Female,Car,66648
+59,Bachelor's,Others,1,Urban,6,Single,Self-employed,5,Own,Single-family home,Male,Walking,70054
+62,Master's,Others,2,Urban,41,Married,Part-time,1,Rent,Single-family home,Female,Public transit,276502
+60,High School,Others,3,Urban,24,Married,Part-time,1,Own,Single-family home,Male,Biking,2526200
+63,Bachelor's,Technology,2,Rural,43,Single,Part-time,6,Own,Apartment,Male,Public transit,2775259
+67,High School,Technology,3,Suburban,14,Married,Self-employed,7,Own,Townhouse,Male,Public transit,73302
+21,Bachelor's,Finance,5,Urban,9,Married,Full-time,6,Own,Single-family home,Female,Walking,67332
+24,Bachelor's,Healthcare,2,Urban,32,Married,Full-time,4,Rent,Single-family home,Female,Public transit,2657918
+23,Doctorate,Others,3,Urban,40,Married,Full-time,6,Own,Apartment,Male,Car,33827
+29,Master's,Technology,1,Suburban,42,Single,Full-time,4,Own,Apartment,Female,Walking,66454
+25,Bachelor's,Education,4,Urban,5,Married,Full-time,3,Rent,Single-family home,Female,Biking,3644720
+50,High School,Education,4,Urban,36,Married,Full-time,5,Rent,Single-family home,Male,Public transit,62932
+40,High School,Others,3,Rural,8,Married,Part-time,2,Own,Apartment,Female,Biking,92353
+39,Master's,Healthcare,0,Urban,28,Married,Self-employed,1,Own,Single-family home,Female,Biking,292320
+26,Doctorate,Finance,4,Suburban,0,Married,Full-time,6,Own,Apartment,Male,Public transit,75076
+56,Doctorate,Education,0,Urban,42,Married,Full-time,2,Rent,Apartment,Male,Walking,73066
+32,Bachelor's,Finance,5,Urban,35,Married,Full-time,1,Rent,Townhouse,Male,Public transit,69302
+64,High School,Technology,4,Urban,17,Divorced,Full-time,1,Rent,Townhouse,Female,Public transit,1184936
+45,Doctorate,Healthcare,4,Rural,29,Married,Full-time,1,Rent,Townhouse,Male,Biking,69950
+70,Master's,Healthcare,2,Urban,15,Single,Full-time,3,Rent,Apartment,Female,Public transit,105979
+38,High School,Healthcare,5,Urban,39,Divorced,Part-time,5,Own,Single-family home,Male,Car,67636
+31,Bachelor's,Healthcare,2,Urban,6,Single,Self-employed,4,Rent,Apartment,Female,Car,72256
+33,Bachelor's,Healthcare,0,Suburban,49,Married,Full-time,1,Own,Apartment,Female,Walking,70986
+66,Master's,Others,3,Urban,9,Single,Part-time,5,Rent,Single-family home,Male,Public transit,73358
+43,High School,Finance,3,Urban,41,Single,Self-employed,2,Own,Apartment,Male,Walking,68116
+61,Master's,Healthcare,2,Urban,3,Single,Part-time,7,Own,Single-family home,Female,Public transit,3387236
+55,Doctorate,Healthcare,2,Suburban,44,Divorced,Full-time,6,Own,Single-family home,Female,Public transit,2945793
+37,High School,Finance,0,Urban,15,Married,Part-time,5,Rent,Single-family home,Female,Biking,683137
+52,Bachelor's,Healthcare,3,Urban,37,Married,Full-time,5,Own,Townhouse,Female,Biking,71824
+35,Bachelor's,Others,1,Rural,11,Divorced,Full-time,1,Own,Single-family home,Male,Public transit,337651
+36,High School,Others,1,Urban,48,Married,Self-employed,1,Rent,Apartment,Female,Public transit,1156187
+26,Bachelor's,Technology,3,Suburban,34,Married,Full-time,1,Own,Apartment,Female,Public transit,74030
+46,Master's,Education,2,Urban,29,Single,Part-time,1,Own,Apartment,Male,Biking,72250
+50,High School,Education,1,Rural,18,Divorced,Self-employed,3,Own,Townhouse,Male,Public transit,71160
+44,Bachelor's,Healthcare,0,Urban,23,Married,Full-time,3,Rent,Single-family home,Male,Public transit,2997003
+66,Bachelor's,Healthcare,1,Urban,14,Divorced,Part-time,5,Own,Townhouse,Male,Car,72588
+24,High School,Healthcare,2,Urban,10,Married,Full-time,2,Rent,Single-family home,Male,Biking,71580
+50,Bachelor's,Technology,2,Urban,30,Married,Full-time,5,Rent,Townhouse,Male,Biking,69306
+31,Bachelor's,Technology,0,Urban,38,Married,Self-employed,7,Own,Single-family home,Male,Public transit,2546518
+39,High School,Technology,5,Urban,3,Married,Full-time,4,Rent,Apartment,Female,Car,84927
+44,Bachelor's,Healthcare,3,Urban,32,Single,Full-time,3,Own,Townhouse,Female,Car,68804
+47,Bachelor's,Technology,1,Urban,34,Married,Full-time,1,Rent,Single-family home,Male,Biking,65614
+50,Master's,Technology,3,Suburban,0,Single,Full-time,7,Rent,Single-family home,Male,Walking,69308
+65,High School,Technology,4,Urban,17,Single,Part-time,5,Own,Single-family home,Male,Public transit,68592
+48,Doctorate,Healthcare,1,Urban,22,Married,Full-time,5,Own,Townhouse,Female,Car,68302
+36,High School,Technology,5,Urban,14,Single,Full-time,3,Own,Apartment,Male,Public transit,4699946
+66,Bachelor's,Education,1,Urban,42,Married,Full-time,2,Rent,Apartment,Female,Biking,296867
+49,High School,Healthcare,1,Urban,33,Single,Full-time,1,Rent,Single-family home,Female,Biking,2725807
+54,Bachelor's,Finance,1,Urban,44,Single,Part-time,4,Rent,Apartment,Female,Car,4266825
+53,Master's,Finance,1,Urban,31,Married,Part-time,6,Own,Single-family home,Female,Public transit,44284
+18,Bachelor's,Healthcare,3,Urban,4,Single,Part-time,1,Rent,Single-family home,Male,Public transit,1709900
+28,Bachelor's,Finance,5,Urban,0,Married,Self-employed,7,Own,Apartment,Female,Public transit,72716
+22,Master's,Healthcare,2,Urban,11,Married,Self-employed,3,Own,Single-family home,Female,Walking,65422
+25,Bachelor's,Finance,1,Urban,27,Single,Full-time,4,Own,Townhouse,Male,Biking,3889504
+43,High School,Technology,2,Urban,0,Married,Full-time,3,Rent,Single-family home,Male,Public transit,66684
+48,Master's,Healthcare,1,Suburban,4,Single,Full-time,6,Own,Apartment,Male,Public transit,3016051
+24,Bachelor's,Healthcare,0,Urban,16,Single,Full-time,4,Rent,Apartment,Female,Public transit,130658
+59,Bachelor's,Healthcare,0,Suburban,46,Married,Self-employed,3,Own,Townhouse,Female,Car,639152
+40,Bachelor's,Technology,0,Urban,35,Single,Part-time,4,Rent,Single-family home,Female,Public transit,5983316
+39,High School,Healthcare,1,Suburban,35,Married,Self-employed,7,Rent,Apartment,Female,Public transit,3156295
+43,Doctorate,Finance,3,Urban,23,Single,Full-time,1,Own,Apartment,Male,Public transit,71142
+22,High School,Healthcare,2,Urban,46,Married,Full-time,6,Rent,Townhouse,Male,Public transit,66540
+36,Master's,Healthcare,3,Urban,30,Married,Part-time,5,Rent,Single-family home,Female,Public transit,358440
+51,Master's,Technology,0,Suburban,30,Single,Full-time,4,Own,Single-family home,Female,Car,66194
+70,Bachelor's,Finance,2,Urban,1,Single,Part-time,6,Rent,Single-family home,Male,Biking,65934
+29,Bachelor's,Finance,2,Urban,39,Married,Full-time,1,Rent,Apartment,Female,Car,67822
+30,High School,Others,4,Rural,26,Married,Part-time,2,Own,Townhouse,Female,Biking,123798
+43,Master's,Healthcare,0,Suburban,41,Single,Self-employed,2,Own,Single-family home,Female,Public transit,77987
+58,High School,Healthcare,2,Suburban,39,Single,Full-time,5,Own,Apartment,Male,Public transit,75064
+62,Doctorate,Education,3,Rural,22,Married,Self-employed,2,Own,Single-family home,Male,Public transit,67636
+64,High School,Healthcare,1,Urban,29,Single,Part-time,6,Rent,Single-family home,Female,Public transit,190064
+38,Bachelor's,Education,1,Urban,37,Married,Full-time,1,Rent,Single-family home,Male,Walking,1903882
+69,Bachelor's,Finance,4,Urban,22,Married,Full-time,1,Rent,Single-family home,Female,Biking,7826256
+20,Master's,Technology,5,Suburban,23,Married,Self-employed,5,Own,Townhouse,Female,Car,39111
+57,Master's,Others,0,Urban,45,Single,Part-time,2,Own,Apartment,Female,Public transit,67518
+33,Master's,Healthcare,2,Suburban,49,Married,Full-time,1,Rent,Single-family home,Female,Public transit,71568
+34,Bachelor's,Healthcare,2,Rural,24,Married,Part-time,5,Own,Townhouse,Female,Public transit,7716188
+48,Bachelor's,Technology,4,Suburban,27,Single,Full-time,7,Own,Single-family home,Female,Public transit,67288
+20,Bachelor's,Technology,1,Suburban,27,Single,Part-time,1,Rent,Apartment,Male,Public transit,266865
+48,Master's,Healthcare,3,Suburban,4,Single,Full-time,3,Own,Apartment,Male,Car,330309
+66,High School,Education,3,Urban,2,Divorced,Full-time,2,Rent,Single-family home,Female,Public transit,65216
+41,High School,Healthcare,0,Urban,3,Married,Full-time,5,Own,Single-family home,Male,Public transit,6263252
+70,Bachelor's,Healthcare,1,Suburban,20,Single,Self-employed,4,Own,Apartment,Female,Public transit,73700
+36,Master's,Finance,1,Suburban,18,Married,Full-time,3,Rent,Apartment,Male,Public transit,66372
+39,Doctorate,Finance,3,Suburban,12,Single,Full-time,1,Own,Apartment,Male,Biking,60714
+29,Bachelor's,Finance,1,Urban,10,Single,Part-time,1,Own,Single-family home,Female,Car,64902
+26,Master's,Healthcare,4,Urban,20,Married,Self-employed,1,Rent,Single-family home,Female,Car,6070466
+69,Bachelor's,Healthcare,3,Urban,22,Married,Full-time,4,Rent,Single-family home,Female,Public transit,478752
+37,High School,Others,5,Urban,49,Single,Full-time,4,Own,Apartment,Female,Biking,70178
+49,High School,Technology,4,Urban,45,Married,Self-employed,7,Rent,Apartment,Male,Car,3438472
+21,Bachelor's,Healthcare,3,Urban,14,Single,Self-employed,2,Own,Single-family home,Female,Public transit,69298
+34,Bachelor's,Finance,2,Rural,20,Single,Part-time,7,Rent,Single-family home,Female,Public transit,1034990
+42,Bachelor's,Technology,3,Suburban,28,Married,Part-time,3,Own,Single-family home,Female,Biking,72588
+53,Bachelor's,Education,2,Urban,26,Single,Self-employed,3,Own,Apartment,Male,Car,69654
+20,High School,Healthcare,1,Urban,24,Married,Part-time,3,Own,Single-family home,Female,Car,66298
+63,Bachelor's,Healthcare,2,Urban,50,Married,Full-time,4,Own,Apartment,Male,Car,70432
+22,Master's,Technology,0,Urban,11,Married,Full-time,6,Own,Single-family home,Female,Car,67268
+21,High School,Education,5,Urban,28,Married,Part-time,4,Rent,Townhouse,Male,Biking,71478
+33,Bachelor's,Healthcare,4,Urban,41,Married,Part-time,4,Rent,Single-family home,Male,Biking,208888
+59,Bachelor's,Others,0,Urban,20,Divorced,Full-time,6,Own,Single-family home,Female,Public transit,71430
+21,Bachelor's,Technology,4,Urban,6,Single,Self-employed,6,Rent,Apartment,Female,Walking,39088
+31,High School,Healthcare,4,Suburban,37,Married,Part-time,7,Own,Single-family home,Female,Walking,7272269
+34,Master's,Technology,3,Suburban,13,Married,Self-employed,4,Own,Single-family home,Male,Car,69412
+22,Bachelor's,Healthcare,5,Rural,31,Single,Part-time,6,Own,Townhouse,Female,Public transit,3894078
+65,High School,Others,4,Suburban,22,Single,Full-time,5,Rent,Townhouse,Male,Biking,128166
+34,Bachelor's,Healthcare,2,Rural,11,Divorced,Full-time,7,Rent,Single-family home,Male,Car,85690
+28,Bachelor's,Education,5,Rural,2,Single,Self-employed,7,Own,Apartment,Male,Public transit,409241
+22,Master's,Healthcare,2,Rural,34,Married,Full-time,4,Rent,Single-family home,Female,Biking,6271915
+38,High School,Education,5,Urban,16,Married,Full-time,5,Own,Single-family home,Female,Biking,2730353
+49,Bachelor's,Healthcare,5,Rural,0,Married,Part-time,3,Own,Townhouse,Male,Public transit,71150
+46,High School,Healthcare,3,Urban,19,Married,Part-time,6,Rent,Single-family home,Male,Public transit,64916
+34,Master's,Healthcare,0,Urban,24,Married,Part-time,3,Rent,Apartment,Female,Car,147809
+21,High School,Technology,0,Suburban,18,Married,Full-time,1,Own,Single-family home,Male,Walking,70212
+25,Master's,Others,3,Urban,18,Single,Self-employed,7,Rent,Apartment,Female,Car,127291
